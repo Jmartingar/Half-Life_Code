@@ -1,0 +1,17 @@
+serum_original
+579 seq
+
+shape
+(579, 9)
+
+Existen MOD?
+Si
+
+
+serum
+Contiene solo valores float del archivo original y se agrega columna is_mod
+shape (329, 10)
+
+serum_object
+Contiene solo valores object del archivo original y se agrega columna is_mod
+shape (249, 10)

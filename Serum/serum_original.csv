@@ -1,0 +1,581 @@
+Name of Peptide,Sequence,Modifications,"Modifications
+(code)",Half-life (hours),Half-life (code),Half-Life (code_code),Assay,Assay (code)
+NZ2114,Ac-GFGCNGPWNEDDLRCHNHCKSIKGYKGGYCAKGGFVCKCY-NH2,N.A.,0,1,Low stability,2,rat,2
+FB006,Ac-WEEWDREINNYTKLIHELIEESQNQQEKNEQELL-NH2,N.A.,0,1.67,Stable,3,rat,2
+FB006,Ac-WEEWDREINNYTKLIHELIEESQNQQEKNEQELL-NH2,N.A.,0,11.4,Very high stability,5,monkey,2
+hBD1,Ac-DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK-NH2,N.A.,0,80 % intact after 48h,Undegradable,6,human serum,1
+hBD3,Ac-GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK-NH2,N.A.,0,4,High stability,4,human serum,1
+BIM BH31,Ac-IWIAQELRRIGDEFNAYYARR-NH2,N.A.,0,1.0833333333333333,Stable,3,Asp-N,0
+BIM SAHBA1,Ac-IWIAQELRXIGDXFNAYYARR-NH2,N.A.,0,0.8666666666666667,Low stability,2,Asp-N,0
+1,Ac-FMHNLWKHLSSMERVEWLRKKLQDVHNF-NH2,N.A.,0,0.006666666666666667,Unstable,0,trypsin,0
+N2.1,Ac-GTCRTFGCTCKPLRCKAPRMVRCGETCMG-NH2,N.A.,0,Degraded,Unstable,0,uPA ,0
+N2.1,Ac-GTCRTFGCTCKPLRCKAPRMVRCGETCMG-NH2,N.A.,0,Degraded,Unstable,0,MMP-9,0
+N2.1,Ac-GTCRTFGCTCKPLRCKAPRMVRCGETCMG-NH2,N.A.,0,Degraded,Unstable,0,MT-SP1,0
+Hp1404-T1e,ILKKLLKKVKK-NH2,N.A.,0,80% intact after 2h,High stability,4,trypsin,0
+Cul349-68,Ac-NSGLSFEELYRNAYTMVLHL-NH2,N.A.,0,7,Very high stability,5,human serum,1
+Bicarinalin,KIKIPWGKVKDFLVGGMKAV-NH2,N.A.,0,15,Undegradable,6,human serum,1
+AsK T16Y,CENTISGCSRADCLLYHRKQGCQKTCGLC,N.A.,0,3,High stability,4,trypsin,0
+AsK Q20Y,CENTISGCSRADCLLTHRKYGCQKTCGLC,N.A.,0,16,Undegradable,6,trypsin,0
+AsK L28Y,CENTISGCSRADCLLTHRKQGCQKTCGYC,N.A.,0,2,High stability,4,trypsin,0
+ACPP,Ac-y-e9-x-PLGLAG-r9-x-k-(DOTA)-NH2,N.A.,0,0.44,Low stability,2,mouse,2
+V114,VEPNCDIHVIleWEWECFERL-NH2,N.A.,0,0.02666666666666667,Unstable,0,proteinase K,0
+Noxa,Ac-AAQLRRIGDKVNLRQKLLN,N.A.,0,0.06833333333333333,Unstable,0,chymotrypsin,0
+Noxa,Ac-AAQLRRIGDKVNLRQKLLN,N.A.,0,0.03666666666666667,Unstable,0,trypsin,0
+Noxa,Ac-AAQLRRIGDKVNLRQKLLN,N.A.,0,0.175,Very low stability,1,mouse serum,1
+Noxa-5,Ac-AAc’LRAIGDC’VNLAQALLN,N.A.,0,0.5916666666666667,Low stability,2,chymotrypsin,0
+Noxa-5,Ac-AAc’LRAIGDC’VNLAQALLN,N.A.,0,0.5416666666666666,Low stability,2,trypsin,0
+Noxa-5,Ac-AAc’LRAIGDC’VNLAQALLN,N.A.,0,0.5266666666666667,Low stability,2,mouse serum,1
+Tat Peptide,YGRKRRQRR,N.A.,0,10% intact after 1h,Very low stability,1,trypsin,0
+Tat Peptide,YGRKRRQRR,N.A.,0,10% intact after 1h,Very low stability,1,chymotrypsin,0
+Tat Peptide,YGRKRRQRR,N.A.,0,0% intact after 1h,Unstable,0,pronase,0
+T-pep1,REAGDEE,N.A.,0,0% intact after 1h,Unstable,0,Asp-N,0
+HL2-pep,MDYKDDDDKGSGSTLDDMEEMDGLSDT,N.A.,0,6,High stability,4,human serum,1
+CF-SD1 α,CF-KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK-OH,N.A.,0,0.04,Unstable,0,liver homogenates,1
+R9-F-Ac,N.A.,N.A.,0,62% intact after 2h,High stability,4,trypsin,0
+hCT(9-32),LGTYTQDFNKFHTFPQTAIGVGAP-NH2,N.A.,0,100% intact after 48h,Undegradable,6,human serum,1
+SAP,(VRLPPP)3,N.A.,0,15.4,Undegradable,6,human serum,1
+PP 14b,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-TAMRA,N.A.,0,24.7,Undegradable,6,human plasma,1
+PP 14b,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-TAMRA,N.A.,0,11,Very high stability,5,liver homogenates,1
+PP 20,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-NH2,N.A.,0,136,Undegradable,6,human plasma,1
+PP 20,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-NH2,N.A.,0,19.7,Undegradable,6,liver homogenates,1
+ML,Ac-LLLLRVKR-NH2,N.A.,0,5,High stability,4,mouse plasma,1
+ML 7,Ac-lLLLRVKR-NH2,N.A.,0,9,Very high stability,5,mouse plasma,1
+Linear Npep1,GNVWKWEQ,N.A.,0,"2,3% intact after 1h",Very low stability,1,chymotrypsin,0
+Linear Npep1,GNVWKWEQ,N.A.,0,"8,4% intact after 1h",Low stability,2,pepsin,0
+Linear Npep1,GNVWKWEQ,N.A.,0,1% intact after 1h,Unstable,0,pronase,0
+Cp4-wt,GLLCYCRKGHCKRGERVRGTCGIRFLYCCPRR,N.A.,0,100% intact after 1h,Stable,3,human serum,1
+Crp4-6C/A,GLLAYARKGHAKRGERVRGTAGIRFLYAAPRR,N.A.,0,"0% intact after 0,167h",Unstable,0,human serum,1
+Crp4-R/A,CYCRKGHCKRGERVRGTCGIRFLYCCPRRGLL,N.A.,0,"0% intact after 0,5h",Unstable,0,human serum,1
+HD5,ATCYCRTGRCATRESLSGVCEISGRLYRLCCR,N.A.,0,100% intact after 1h,Stable,3,trypsin,0
+"HD5[Ser3,31]",ATSYCRTGRCATRESLSGVCEISGRLYRLCSR,N.A.,0,100% intact after 1h,Stable,3,trypsin,0
+"HD5[Ala3,31]",ATAYCRTGRCATRESÇSGVCEISGRLYRLCAR,N.A.,0,"0% intact after 0,033h",Unstable,0,trypsin,0
+LL-37,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,N.A.,0,100% intact after 1h,Stable,3,cathepsins,0
+GnRH,pEHWSYGLEPG-NH2,N.A.,0,5% intact after 1h,Very low stability,1,human serum,1
+Pyr1-apelin-13,GluRPRLSHKGPMPF,N.A.,0,0.235,Very low stability,1,rat,2
+BMAP28,GGLRSLGRKILRAWLLYGPIIVPIIRIG,N.A.,0,"0% intact after 0,5h",Unstable,0,trypsin,0
+BMAP28,GGLRSLGRKILRAWLLYGPIIVPIIRIG,N.A.,0,"0% intact after 0,5h",Unstable,0,proteinase K,0
+BMAP28,GGLRSLGRKILRAWLLYGPIIVPIIRIG,N.A.,0,"0% intact after 0,5h",Unstable,0,proteinase XXV,0
+LyP1,CGMKRTRGC,N.A.,0,4,High stability,4,human serum,1
+MCoTI-II,CPKILKKCRRDSDCPGACICRGNGYCGSGSDGGV,N.A.,0,85% intact after 24h,Undegradable,6,human serum,1
+BTD-2,GVCRCVCRRGVCRCVCRR,N.A.,0,80% intact after 24h,Undegradable,6,human serum,1
+BTD-2_LyP1_RGDS_lin,CGNKRTRGCRCVCRGDSCR,N.A.,0,0% intact after 10h,Unstable,0,human serum,1
+WLWL-scrambled,KWVRWIKQVONG,N.A.,0,0.11666666666666667,Very low stability,1,chymotrypsin,0
+WLWL-scrambled,KWVRWIKQVONG,N.A.,0,0.08333333333333333,Unstable,0,trypsin,0
+WLWL-scrambled,KWVRWIKQVONG,N.A.,0,0.08333333333333333,Unstable,0,pronase,0
+WKFK,KWVRWIKQVONG,N.A.,0,0.6,Low stability,2,chymotrypsin,0
+WKFK,KWVRWIKQVONG,N.A.,0,0.38333333333333336,Low stability,2,trypsin,0
+WKFK,KWVRWIKQVONG,N.A.,0,0.1,Very low stability,1,pronase,0
+WKFK-pGturn,RWVKVpGOFIKQ,N.A.,0,5,High stability,4,chymotrypsin,0
+WKFK-pGturn,RWVKVpGOFIKQ,N.A.,0,0.38333333333333336,Low stability,2,trypsin,0
+WKFK-pGturn,RWVKVpGOFIKQ,N.A.,0,0.35,Low stability,2,pronase,0
+WKWK,RWVKVNGOWIKQ,N.A.,0,3.3,High stability,4,chymotrypsin,0
+WKWK,RWVKVNGOWIKQ,N.A.,0,0.6,Low stability,2,trypsin,0
+WKWK,RWVKVNGOWIKQ,N.A.,0,0.3333333333333333,Low stability,2,pronase,0
+WKWK-pGturn,RWVKVpGOWIKQ,N.A.,0,5,High stability,4,chymotrypsin,0
+WKWK-pGturn,RWVKVpGOWIKQ,N.A.,0,1.0666666666666667,Stable,3,trypsin,0
+WKWK-pGturn,RWVKVpGOWIKQ,N.A.,0,0.85,Low stability,2,pronase,0
+Trp pocket,RWVWVNGOKILQ,N.A.,0,1.95,Stable,3,trypsin,0
+Trp pocket,RWVWVNGOKILQ,N.A.,0,0.5,Low stability,2,pronase,0
+Α-host,VSADPSRVNAYKSADSRVNST,N.A.,0,0.13333333333333333,Very low stability,1,human serum,1
+Akt-01,RPRNIeYDapNIle-OH,N.A.,0,0% intact after 6h,Unstable,0,human serum,1
+26RFa(20-26),GGFSFRF-NH2,N.A.,0,0.18666666666666665,Very low stability,1,human serum,1
+LV-2094,G(me)GFSFRF-NH2,N.A.,0,0.8816666666666666,Low stability,2,human serum,1
+LV-2098,G(me)GFSFRF-NH2,N.A.,0,0.875,Low stability,2,human serum,1
+LV-2095,GG(me)FSFRF-NH2,N.A.,0,0.4683333333333334,Low stability,2,human serum,1
+LV-2096,GG(me)FSFRF-NH2,N.A.,0,0.31833333333333336,Low stability,2,human serum,1
+PYY3-36,IKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,N.A.,0,3.8833333333333333,High stability,4,trypsin,0
+PYY3-36,IKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,N.A.,0,3.2666666666666666,High stability,4,proteinase K,0
+PYY3-36,IKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,N.A.,0,69% intact after 5h,High stability,4,mouse serum,1
+R8,RRRRRRRR-OH,N.A.,0,0% intact after 5 min,Unstable,0,trypsin,0
+ABD,LAEAKGVSAKTALP,N.A.,0,0.38333333333333336,Low stability,2,trypsin,0
+EG3287,SCKNTDSRCKARQLELNERTCRCDKPRR,N.A.,0,100% intact after 1h,Stable,3,cell medium,1
+EG3287,SCKNTDSRCKARQLELNERTCRCDKPRR,N.A.,0,0.08333333333333333,Unstable,0,human plasma,1
+C34,WMEWDREINNYTSLIHSLIEESQNQQEKNEQELL-NH2,N.A.,0,0% intact after 4h,Unstable,0,trypsin,0
+C34,WMEWDREINNYTSLIHSLIEESQNQQEKNEQELL-NH2,N.A.,0,0% intact after 4h,Unstable,0,chymotrypsin,0
+cp28,CQGTSNKLTQLGTFEDHFLSLQRMFNNC,N.A.,0,1.4833333333333334,Stable,3,human serum,1
+linSUPR,MFYAYEYAQWSK,N.A.,0,0.35,Low stability,2,chymotrypsin,0
+linSUPR,MFYAYEYAQWSK,N.A.,0,46.666666666666664,Undegradable,6,proteinase K,0
+linSUPR,MFYAYEYAQWSK,N.A.,0,0.2833333333333333,Low stability,2,human serum,1
+linSUPR,MFYAYEYAQWSK,N.A.,0,1.0166666666666666,Stable,3,mouse serum,1
+linGIBP,MITWYEFVAGTK,N.A.,0,0.005,Unstable,0,chymotrypsin,0
+linGIBP,MITWYEFVAGTK,N.A.,0,0.13333333333333333,Very low stability,1,human serum,1
+α-VEGF-2,VDNKFNKEQCNARAIEAALDPNLNDQQFHAKIWSIIDDC-NH2,N.A.,0,0.004,Unstable,0,proteinase K,0
+EM-2,YPFF-NH2,N.A.,0,0.1,Very low stability,1,human serum,1
+P2,RPPGLPVRSFSPLR-NH2,N.A.,0,0% intact after 6h,Unstable,0,human plasma,1
+BbKI51-62,RPGLPVRFESPL-NH2,N.A.,0,0% intact after 6h,Unstable,0,human plasma,1
+64Cu-DsC18,βAGLRKRLRKFRNKIEK-NH2,N.A.,0,8.5,Very high stability,5,rat,2
+68Ga-DsC18,βAGLRKRLRKFRNKIEK-NH2,N.A.,0,8.7,Very high stability,5,rat,2
+64Cu-DsC18(NIA)2,βAGLRK[β(A)2-NIA]RLRKFRNK[β(A)2-NIA]IEK-NH2,N.A.,0,11.1,Very high stability,5,rat,2
+68Ga-DsC18(NIA)2,βAGLRK[β(A)2-NIA]RLRKFRNK[β(A)2-NIA]IEK-NH2,N.A.,0,8,Very high stability,5,rat,2
+VIP,HSDAVFTDNYTRLRK-QMAVKKYLNSILN,N.A.,0,0.5,Low stability,2,trypsin,0
+NPY-BBB2(K3),Ac-YKKK(Ahx)ARHYINLITRQRY,N.A.,0,1,Low stability,2,human serum,1
+NPY-BBB0,Ac-(Ahx)ARHYINLITRQRY,N.A.,0,1,Low stability,2,human serum,1
+NT-BBB1(K4),Ac-KKKKPYIL,N.A.,0,2,High stability,4,human serum,1
+NT-BBB0,RRPYIL,N.A.,0,0,Unstable,0,human serum,1
+PIK,RKKYKYRRK-NH2,N.A.,0,0.75,Low stability,2,human plasma,1
+MAC-1,GFGMALKLLKKVL-NH2,N.A.,0,16,Undegradable,6,human serum,1
+Buforin II,TRSSRAGLQFPVGRVHRLLRK,N.A.,0,0.08333333333333333,Unstable,0,human serum,1
+ALP1,RWCVYARVRGVRYRRCW,N.A.,0,4,High stability,4,human serum,1
+ALP2,RWCVYACVRGVCYRRCW,N.A.,0,24,Undegradable,6,human serum,1
+Tat(W),GRKKRRQRRRPWQ-NH2,N.A.,0,0.03333333333333333,Unstable,0,trypsin,0
+di-Tat(W)-C,(GRKKRRQRRRPWQC-NH2)2,N.A.,0,0.03333333333333333,Unstable,0,trypsin,0
+di-Tat(W)-K,(GRKKRRQRRRPWQ)2-K-NH2,N.A.,0,0.03333333333333333,Unstable,0,trypsin,0
+hCT(9-32),BLGTYTQDFNXFHTFPQTAIGVGAP,N.A.,0,2.6,High stability,4,pepsin,0
+hCT(9-32),BLGTYTQDFNXFHTFPQTAIGVGAP,N.A.,0,2.8,High stability,4,human serum,1
+99mTc-[K6T]P8,KVTAMTCFLL‐NH2,N.A.,0,100% intact after 3h,High stability,4,human plasma,1
+CIGB-552,Ac-HARIKpTFRRlKWKYKGKFW,N.A.,0,8,Very high stability,5,mouse,2
+CIGB-552,Ac-HARIKpTFRRlKWKYKGKFW,N.A.,0,0.37,Low stability,2,mouse serum,1
+Anoplin,GLLKRIKTLL-NH2,N.A.,0,0% intact after 1h,Unstable,0,trypsin,0
+Anoplin,GLLKRIKTLL-NH2,N.A.,0,20% intact after 2h,Stable,3,human serum,1
+RI-MSH,Ac-SYSMEHFRWGKPV-NH2,N.A.,0,0% intact after 24h,Unstable,0,human plasma,1
+RI-MSH,Ac-SYSMEHFRWGKPV-NH2,N.A.,0,0.016666666666666666,Unstable,0,mouse,2
+OP 2,QGLNpYNleDL-NH2,N.A.,0,0.3333333333333333,Low stability,2,enzymes,0
+YRFK-NH2,YRFK-NH2,N.A.,0,6.166666666666667,Very high stability,5,trypsin,0
+H102,HKQLPFFEED,N.A.,0,41% intact after 6h,High stability,4,trypsin,0
+CTP512,NH2-YGRKARRRRRR-COOH,N.A.,0,0% intact after 1h,Unstable,0,trypsin,0
+MCo-TI-II,GGVPKILKKRRDSDPGARGNGYGSGSD,N.A.,0,80% intact after 24h,Undegradable,6,trypsin,0
+MCo-RM1,GGVPRILRRRRDSDPGAKGNGYGSGSD,N.A.,0,80% intact after 24h,Undegradable,6,trypsin,0
+MCo-CTP,GGVYGRRARRRRRDSDPGAKGNGYGSGSD,N.A.,0,40% intact after 24h,Undegradable,6,trypsin,0
+IGF-I,N.A.,N.A.,0,37% intact after 18h,Undegradable,6,human serum,1
+A7R,ATWLPPR,N.A.,0,0% intact after 2h,Unstable,0,mouse serum,1
+A7R,ATWLPPR,N.A.,0,23.7,Undegradable,6,mouse,2
+GG-SVS-1,GGKVKVKVKVDPPTKVKVKVK-NH2,N.A.,0,40% intact after 8h,High stability,4,human serum,1
+LL-III,VNWKKILGKIIKVVK-NH2,N.A.,0,95% intact after 8h,Very high stability,5,trypsin,0
+MEP-N,GFSILKKVLPKVXAHXK-NH2,N.A.,0,0% intact after 1h,Unstable,0,trypsin,0
+P000,Dh-β-AHTVEK-NH2,N.A.,0,85% intact after 24h,Undegradable,6,trypsin,0
+LB1,pGHWSYGLRPG-VKRFKKFFRKLKKSV-NH2,N.A.,0,0.5,Low stability,2,rat plasma,1
+WB1,QHWSWGLRPG-VKRFKKFFRKLKKSV-NH2,N.A.,0,0.5,Low stability,2,rat plasma,1
+TB1,pGHWSYwLRPG-VKRFKKFFRKLKKSV-NH2,N.A.,0,1.5,Stable,3,rat plasma,1
+BP100,KKLFKKILKYL-NH2,N.A.,0,0.3333333333333333,Low stability,2,rat plasma,1
+SP-E,NH2-DKPKKKPPPPAGPPPPPPPPPGPPPPGP-28,N.A.,0,100% intact after 24h,Undegradable,6,human serum,1
+lin-MC12(n),GR[CTQAWPPIC]FPD,N.A.,0,75% intact after 8h,Very high stability,5,human serum,1
+lin-MC12 (p),[CTQAWPPIC]FPDGR,N.A.,0,75% intact after 8h,Very high stability,5,human serum,1
+MC-12,QAW,N.A.,0,10% intact after 8h,Low stability,2,human serum,1
+wt ANP,SLRRSSCFGGRMDRIGAQSGLGCNSFRY,N.A.,0,0.043333333333333335,Unstable,0,human serum,1
+Endomorphin-1,YPWF-NH2,N.A.,0,0.045000000000000005,Unstable,0,human plasma,1
+Linear CTX,MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,N.A.,0,70% intact after 24h,Undegradable,6,human serum,1
+Linear CTX,MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,N.A.,0,14,Undegradable,6,mouse,2
+Phybrids 1,HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,N.A.,0,0.6833333333333333,Low stability,2,rat,2
+Phybrids 1,HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,N.A.,0,1.1333333333333333,Stable,3,rat,2
+Ctn,KRFKKFFKKVKKSVKKRLKKIFKKPMVIGVTIPF,N.A.,0,1.1833333333333333,Stable,3,human serum,1
+Ctn[1-14],KRFKKFFKKVKKSV,N.A.,0,0.35,Low stability,2,human serum,1
+Ctn[15-34],KKRLKKIFKKPMVIGVTIPF,N.A.,0,12.833333333333334,Undegradable,6,human serum,1
+NK1 1,"YDAGFMPLWNH(3,5-Bzl(CF3)2)",N.A.,0,40% intact after 6h,High stability,4,rat plasma,1
+NK1 2,"YDAGFNIePLWNH(3,5-Bzl(CF3)2)",N.A.,0,60% intact after 6h,Very high stability,5,rat plasma,1
+RGDechi,(c(KRDGe)MDDPGRNPH,N.A.,0,0% intact after 3h,Unstable,0,human serum,1
+1b,ACi NTWNPWCiiPWDAPLCiiiA,N.A.,0,24,Undegradable,6,human vitreous,1
+1b,ACi NTWNPWCiiPWDAPLCiiiA,N.A.,0,24,Undegradable,6,mouse plasma,1
+1b,ACi NTWNPWCiiPWDAPLCiiiA,N.A.,0,24,Undegradable,6,rat plasma,1
+1b,ACi NTWNPWCiiPWDAPLCiiiA,N.A.,0,24,Undegradable,6,human plasma,1
+1b,ACi NTWNPWCiiPWDAPLCiiiA,N.A.,0,78,Undegradable,6,rat,2
+Ac-(Phe)4-CONH2,FFFF,N.A.,0,6% intact after 12h,Low stability,2,human serum,1
+Linear,c-KEEKDINNNVKKT-NH2,N.A.,0,40% intact after 50h,Undegradable,6,human plasma,1
+CXCR4 2,H-RA[CRFFC]-COOH,N.A.,0,"0% intact after 0,5h",Unstable,0,human serum,1
+18,WXEAAYQRFL,N.A.,0,"0% intact after 0,5h",Unstable,0,human serum,1
+CF-hPP,CF-APLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY-NH2,N.A.,0,50,Undegradable,6,human plasma,1
+"CF-[K13, Q34]hPP",CF-APLEPVYPGDNAKPEQMAQYAADLRRYINMLTRQRY-NH2,N.A.,0,50,Undegradable,6,human plasma,1
+FB006M,Ac-WEEWDREINNYTK(Alb)LIHELIEESQNQQEKNEQELL-NH2,Albumin,10,25.8,Undegradable,6,rat,2
+FB006M,Ac-WEEWDREINNYTK(Alb)LIHELIEESQNQQEKNEQELL-NH2,Albumin,10,102.4,Undegradable,6,monkey,2
+PEG2-CaLL,(PEG)2-KWKLFKKIFKRIVQRIKDFLR-NH2,PEGylation,8,1,Low stability,2,rat,2
+Colistin,DabTDabDabDabLLDabDabT,Cyclization,3,1.6,Stable,3,rat,2
+Colistin,DabTDabDabDabLLDabDabT,Cyclization,3,0.575,Low stability,2,mouse,2
+Ecumicin,N.A.,Cyclization/Methylation,13,3,High stability,4,mouse,2
+cpYR,Ac-YLKGCWTKSIPPKPCFSR-NH2,Cyclization,3,"57,2% intact after 24h",Undegradable,6,human serum,1
+SFTI-1,Ac-GRCTKSIPPICFPD-NH2,Cyclization,3,Undegraded,Undegradable,6,N.A.,N.A.
+G3KL,Ac-KLKLKLKLKLKLKLKLKKLKKLKKLKKLKKLKKLKKL-NH2,Branched,11,18,Undegradable,6,human serum,1
+CLP-4,DapLWKNR,Cyclization,3,80% intact after 24h,Undegradable,6,trypsin,0
+CLP-4,DapLWKNR,Cyclization,3,80% intact after 24h,Undegradable,6,chymotrypsin,0
+BIM SAHBA1,Ac-IWIAQELRXIGDXFNAYYARR-NH2,Stapled,11,15.8,Undegradable,6,Asp-N,0
+2,Ac-FMHNLWKWLSSMERVEWLRKKLQDVHNF-NH2,α to β replacement,9,1.5,Stable,3,trypsin,0
+THR-5,Ac-GTCNTPGCTCSWPVCIDGGRLMCGETCVG-NH2,Cyclization,3,80% intact after 2h,High stability,4,trypsin,0
+THR-5,Ac-GTCNTPGCTCSWPVCIDGGRLMCGETCVG-NH2,Cyclization,3,80% intact after 2h,High stability,4,chymotrypsin,0
+N2.1 C,Ac-GTCRTFGCTCKPLRCKAPRMVRCGETCMG-NH2,Cyclization,3,Degraded,Unstable,0,uPA ,0
+N2.1 C,Ac-GTCRTFGCTCKPLRCKAPRMVRCGETCMG-NH2,Cyclization,3,Degraded,Unstable,0,MT-SP1,0
+AST3-88,N.A.,Cyclization,3,40% intact after 6h,High stability,4,human serum,1
+GG3,PRYTIAALLSPTSTSQSLVVTP,Cyclization,3,N.A.,N.A.,N.A.,proteinase K,0
+Leu-Enk 4,Ac-YGGF-Hic-NH2,Hydroxy isocaproic acid,10,0.055,Unstable,0,human serum,1
+Leu-Enk 8,Ac-YGGFL-NH2,Methylation,5,0.17833333333333332,Very low stability,1,human serum,1
+cycPRP-1,MITWIDFISPSK,Cyclization,3,0.043333333333333335,Unstable,0,chymotrypsin,0
+cycPRP-1,MITWIDFISPSK,Cyclization,3,0.0055000000000000005,Unstable,0,human serum,1
+cycPRP-2,MTWFEYLSGSK,Cyclization,3,1.5,Stable,3,chymotrypsin,0
+cycPRP-3,MTWFEFLSSTSK,Cyclization,3,1.5,Stable,3,chymotrypsin,0
+cycPRP-3,MTWFEFLSSTSK,Cyclization,3,0.12833333333333333,Very low stability,1,human serum,1
+cycGiBP,MITWYEFVAGTK,Cyclization,3,0.43333333333333335,Low stability,2,chymotrypsin,0
+cycGiBP,MITWYEFVAGTK,Cyclization,3,0.4666666666666667,Low stability,2,human serum,1
+Cul349-68LA,Ac-NSGLSFEES5YRNS5YTMVLHK-NH2,Unnatural amino acid,7,22,Undegradable,6,human serum,1
+Cul349-68EN,Ac-NSGLSFES5LYRS5AYTMVLHK-NH2,Unnatural amino acid,7,22,Undegradable,6,human serum,1
+Cul349-68SL,Ac-NSGLS5FEES5YRNAYTMVLHK-NH2,Unnatural amino acid,7,7,Very high stability,5,human serum,1
+BPC194,KKLKLFKKLQ,Cyclization,3,100% intact after 2h,High stability,4,human serum,1
+BPC198,KLKKKFKKLQ,Cyclization,3,100% intact after 2h,High stability,4,human serum,1
+BA1,HYNIC-DDWAVGHDF-NHMe,Methylation,5,0.16666666666666666,Very low stability,1,mouse,2
+BA1,HYNIC-DDWAVGHDF-NHMe,Methylation,5,100% intact after 24h,Undegradable,6,human serum,1
+BA2,HYNIC-DDWAVGHDY-NHMe,Methylation,5,0.25,Very low stability,1,mouse,2
+BA2,HYNIC-DDWAVGHDY-NHMe,Methylation,5,100% intact after 24h,Undegradable,6,human serum,1
+CSA,LLLLPY,Cyclization/Methylation,13,6,High stability,4,human plasma,1
+CSA,LLLLPY,Cyclization/Methylation,13,2.8,High stability,4,rat,2
+CSA-3,LL(me)LLPY,Cyclization/Methylation,13,6,High stability,4,human plasma,1
+CSA-3,LL(me)LLPY,Cyclization/Methylation,13,6,High stability,4,rat,2
+VH434,Ac-[CMPRLRGC]c-NH2,Cyclization,3,1.16,Stable,3,mouse plasma,1
+VH445,Ac-[cMPRLRGC]c-NH2,Cyclization,3,3.03,High stability,4,mouse plasma,1
+VH4106,Ac-[D-“Pen”M“Thz”RLRGC]c-NH2,Cyclization/D-amino acid/Propionylation,13,1.89,Stable,3,mouse plasma,1
+VH4127,Pr-[cM“Thz”RLRG“Pen”]c-NH2,Cyclization/Propionylation,13,4.27,High stability,4,mouse plasma,1
+VH4128,Pr-[cM“Thz”RLR“Sar”“Pen”]c-NH2,Cyclization/Propionylation,13,4.35,High stability,4,mouse plasma,1
+VH4129,Pr-[cM“Pip”RLR“Sar”C]c-NH2,Cyclization/Propionylation,13,6.66,Very high stability,5,mouse plasma,1
+VH4130,Pr-[cM“Pip”RLRG“Pen”]c-NH2,Cyclization/Propionylation,13,4.03,High stability,4,mouse plasma,1
+VH4131,Pr-[cM“Pip”RLR“Sar”“Pen”]c-NH2,Cyclization/Propionylation,13,10,Very high stability,5,mouse plasma,1
+CPT31,Ac-HPCDYPEWQWLCELG-PEG4-K-NH2,PEGylation/Lipidation,4,3.3,High stability,4,rat,2
+CPT31,Ac-HPCDYPEWQWLCELG-PEG4-K-NH2,PEGylation/Lipidation,4,5.4,High stability,4,rat,2
+CPT31,Ac-HPCDYPEWQWLCELG-PEG4-K-NH2,PEGylation/Lipidation,4,7.4,Very high stability,5,monkey,2
+CPT31,Ac-HPCDYPEWQWLCELG-PEG4-K-NH2,PEGylation/Lipidation,4,18.8,Undegradable,6,monkey,2
+Alb-ACPP ,Ac-y-e9-x-PLGLAG-r9-x-k-(DOTA)-NH2,Albumin,10,1.9633333333333334,Stable,3,mouse,2
+-,βAβAKLVFF-PEG,PEGylation,8,N.A.,N.A.,N.A.,chymotrypsin,0
+Hydro 2,FDF,D-amino acid,1,42% intact after 24h,Undegradable,6,proteinase K,0
+Hydro 3,DFF,D-amino acid,1,92% intact after 24h,Undegradable,6,proteinase K,0
+Hydro 4,FF-Glycoside,Glycosylation,6,57% intact after 24h,Undegradable,6,proteinase K,0
+Hydro 6,FRGDDF,D-amino acid,1,15% intact after 24h,High stability,4,proteinase K,0
+Hydro 7,FRGD-Glucosamine,Glycosylation,6,50% intact after 24h,Undegradable,6,proteinase K,0
+V114-3,VβEPβNCDIHVIleWβEWECFERβL-NH2,β-peptide,9,0.4,Low stability,2,proteinase K,0
+V114-4,βVEβPNCDIHVIleβWEWβECFERβL-NH2,β-peptide,9,5,High stability,4,proteinase K,0
+Noxa-8,Moc-AmAmc’LRAIGDC’VNLAQALLN,Methylation,5,0.495,Low stability,2,chymotrypsin,0
+Noxa-8,Moc-AmAmc’LRAIGDC’VNLAQALLN,Methylation,5,0.3266666666666667,Low stability,2,trypsin,0
+Noxa-8,Moc-AmAmc’LRAIGDC’VNLAQALLN,Methylation,5,0.35333333333333333,Low stability,2,mouse serum,1
+Peptide 6a,H2N-ITFCDLLCYYGKKK-CONH2,Stapled,11,100% intact after 3h,High stability,4,chymotrypsin,0
+Peptide 6b,H2N-ITFCDLLCYYGKKK-CONH2,Stapled,11,100% intact after 3h,High stability,4,chymotrypsin,0
+R 12-Stp,RRRRR5RRRRRRS8,Stapled,11,0.051666666666666666,Unstable,0,trypsin,0
+R 12-Stc,S5RRRB5RRRRRRS8,Stitched,11,1.0666666666666667,Stable,3,trypsin,0
+IAPP,KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH2,β-sheets,9,100% intact after 1h,Stable,3,thermolysin,0
+IAPP,KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH2,β-sheets,9,100% intact after 1h,Stable,3,human neutrophil elastase,0
+Tat Polymer,Polymer-YGRKRRQRR,Polymer,8,95% intact after 1h,Stable,3,trypsin,0
+Tat Polymer,Polymer-YGRKRRQRR,Polymer,8,95% intact after 1h,Stable,3,chymotrypsin,0
+Tat Polymer,Polymer-YGRKRRQRR,Polymer,8,95% intact after 1h,Stable,3,pronase,0
+Tat Partile,Nanoparticle-YGRKRRQRR,Nanoparticle,10,95% intact after 1h,Stable,3,trypsin,0
+Tat Partile,Nanoparticle-YGRKRRQRR,Nanoparticle,10,95% intact after 1h,Stable,3,chymotrypsin,0
+Tat Partile,Nanoparticle-YGRKRRQRR,Nanoparticle,10,95% intact after 1h,Stable,3,pronase,0
+T-cp4n2m3,REXGDGXE,Cyclization,3,"100% intact after 4,5h",High stability,4,Asp-N,0
+HL2-m1,MDYKDDDDKGSGSTLDD(O2beY)EEMDGCSDT,Cyclization,3,6,High stability,4,human serum,1
+HL2-m3,MDYKDDDDKGSGSTLDW(O2beY)EEMDMCTDT,Cyclization,3,6,High stability,4,human serum,1
+HL2-M5,MDYKDDDDKGSGSTLSW(O2beY)EAMDMCTDT,Cyclization,3,6,High stability,4,human serum,1
+Tat-PS 5,GRKKRRQRRRPQDTC(Acm)RQTFRSH,Unnatural amino acid,7,75% intact after 6h,Very high stability,5,human serum,1
+Tat-KIR,GRKKRRQRRRPQ D52THFRTFRSHSDYRRI67,Unnatural amino acid,7,25% intact after 6h,High stability,4,human serum,1
+Wr-AI1,CAQKGEYCSVYLQCCDPYHCTQPVIGGICA,PseudoCyclization,3,95% intact after 4h,High stability,4,chymotrypsin,0
+CF-[K68[E-Pam)] SD1 α,CF-KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK-FA,Lipidation,4,0.265,Low stability,2,liver homogenates,1
+"[K4(X-Y)]-(F7,P34]-NPY",YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,X-amide,10,31,Undegradable,6,human plasma,1
+"[K4(X-Y)]-(F7,P34]-NPY",YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,X-ester,10,3.4,High stability,4,human plasma,1
+"[K4(X-Y)]-(F7,P34]-NPY",YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,X-disulfide,10,0.7,Low stability,2,human plasma,1
+"[K4(X-Y)]-(F7,P34]-NPY",YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,X-enzymatic,10,57,Undegradable,6,human plasma,1
+(R-XHA-R)4-F-Ac,N.A.,HA = 6-aminohexanoic acid,10,92% intact after 2h,Stable,3,trypsin,0
+(R-XCHA-R)4- F-Ac,N.A.,XCHA =cis-4-aminocyclohexanecarboxylic acid,10,99% intact after 2h,High stability,4,trypsin,0
+(R-XTHAR)4-F-Ac,N.A.,XTHA = trans-4-aminocyclohexanecarboxylic acid,10,97% intact after 2h,High stability,4,trypsin,0
+(R-XCHAAR)4-F-Ac,N.A.,XCHAA = cis-4-aminocyclohexane acetic acid,10,97% intact after 2h,High stability,4,trypsin,0
+(R-XTHAAR)4-F-Ac,N.A.,XTHAA = transN.A.4N.A.aminocyclohexane acetic acid,10,33% intact after 2h,Stable,3,trypsin,0
+Fusaricidin/LI-F 6,TDVVTNA-(12-ADA),Lipidation,4,34% intact after 2h,Stable,3,human serum,1
+Fusaricidin/LI-F 14,Dap-DVVDTDNDA-(12-GDA),Lipidation,4,100% intact after 24h,Undegradable,6,human serum,1
+Deca 1,LF(Me)PLA(Me)LF(Me)PLA(Me),Cyclization/Methylation,13,42.6,Undegradable,6,rat,2
+Deca 3,LT(Me)PLA(Me)LT(Me)PLA(Me),Cyclization/Methylation,13,1.9,Stable,3,rat,2
+Deca 4,LPyrA(Me)PLA(Me)LPyrA(Me)PLA(Me),Cyclization/Methylation,13,2.4,High stability,4,rat,2
+Deca 5,LPyrAPLA(Me)LPyrAPLA(Me),Cyclization/Methylation,13,1.3,Stable,3,rat,2
+Deca 6,LY(Me)PLA(Me)LY(Me)PLA(Me),Cyclization/Methylation,13,4,High stability,4,rat,2
+Deca 7,LF(Me)PLA(Me)LPyrAPLA(Me),Cyclization/Methylation,13,6.1,Very high stability,5,rat,2
+Deca 8,LF(Me)PLA(Me)LPyrAPLA(Me),Cyclization/Methylation,13,0.08,Unstable,0,rat,2
+Deca 9,LF(Me)PLA(Me)LT(Me)PLA(Me),Cyclization/Methylation,13,4.5,High stability,4,rat,2
+Deca 10,LF(Me)PLG(Me)LF(Me)PLG(Me),Cyclization/Methylation,13,5.8,High stability,4,rat,2
+Deca 11,LF(Me)PGL(Me)LF(Me)PGL(Me),Cyclization/Methylation,13,4.8,High stability,4,rat,2
+Deca 12,LF(Me)PLA(Me)LF(Me)PGL(Me),Cyclization/Methylation,13,4.3,High stability,4,rat,2
+Deca 13,LF(Me)PLA(Me)LF(Me)PLD(Me),Cyclization/Methylation,13,2.5,High stability,4,rat,2
+Deca 14,LF(Me)PLA(Me)LF(Me)PLK(Me),Cyclization/Methylation,13,6.1,Very high stability,5,rat,2
+Deca 15,LF(Me)PLA(Me)LF(Me)PLT(Me),Cyclization/Methylation,13,27.6,Undegradable,6,rat,2
+hCT(9-32)-2br,LGTYTQDFNK(PKKKRKVEDPGVGFAPKKKRKVEDPGVGFA)FHTFPQTAIGVGAP-NH2,Branched,11,100% intact after 48h,Undegradable,6,human serum,1
+hCT(9-32)-K7,(KKRKAPKKKRKFA)KFHTFPQTAIGVGAP-NH2,Branched,11,100% intact after 48h,Undegradable,6,human serum,1
+D-SAP,D(VRLPPP)3,D-amino acid,1,95% intcat after 40h,Undegradable,6,human serum,1
+Ape13,GluRPRLSHKGPMPF,Unnatural amino acid,7,27% intact after 1h,Low stability,2,rat plasma,1
+Ape1,GluRPRLSHKGPNlePF,Unnatural amino acid,7,25% intact after 1h,Low stability,2,rat plasma,1
+Ape14,GluRPRLSHKGPNlePDip,Unnatural amino acid,7,49% intact after 3h,High stability,4,rat plasma,1
+Ape15,GluRPRLSHKGPNlePBip,Unnatural amino acid,7,67% intact after 1h,Stable,3,rat plasma,1
+Ape16,GluRPRLSHKGPNleP1Nal,Unnatural amino acid,7,59% intact after 2h,High stability,4,rat plasma,1
+Ape17,GluRPRLSHKGPNleP2Nal,Unnatural amino acid,7,84% intact after 1h,Stable,3,rat plasma,1
+Ape18,GluRPRLSHKGPNlePCha,Unnatural amino acid,7,50% intact after 2h,High stability,4,rat plasma,1
+Ape19,GluRPRLSHKGPNlePW,Unnatural amino acid,7,21% intact after 1h,Very low stability,1,rat plasma,1
+Ape20,GluRPRLSHKGPNleP(4-bromo)F,Unnatural amino acid,7,47% intact after 1h,Low stability,2,rat plasma,1
+Ape21,"GluRPRLSHKGPNleP(2,4,5-trifluoro)F",Unnatural amino acid,7,35% intact after 1h,Low stability,2,rat plasma,1
+Ape22,GluRPRLSHKGPNleP(4-nitro)F,Unnatural amino acid,7,35% intact after 1h,Low stability,2,rat plasma,1
+PP 15b,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,Lipidation,4,436.6,Undegradable,6,human plasma,1
+PP 15b,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,Lipidation,4,46.7,Undegradable,6,liver homogenates,1
+PP 16b,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,Lipidation,4,281.3,Undegradable,6,human plasma,1
+PP 16b,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,Lipidation,4,14.6,Undegradable,6,liver homogenates,1
+PP 18b,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,Lipidation,4,1088.1,Undegradable,6,human plasma,1
+PP 18b,HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,Lipidation,4,11.8,Very high stability,5,liver homogenates,1
+ML 3,Ac-[PEG8]LLLLRVKR-NH2,PEGylation,8,4,High stability,4,mouse plasma,1
+ML 5,Ac-[C8]LLLLRVKR-NH2,Lipidation,4,5,High stability,4,mouse plasma,1
+ML 8,Ac-[PEG8]lLLLRVKR-NH2,PEGylation,8,9,Very high stability,5,mouse plasma,1
+ML 10,Ac-[C8]lLLLRVKR-NH2,Lipidation,4,4,High stability,4,mouse plasma,1
+ML 12,Ac-LLLLRVK[Amba],Unnatural amino acid,7,12,Very high stability,5,mouse plasma,1
+ML 13,Ac-[PEG8]LLLLRVK[Amba],PEGylation,8,10,Very high stability,5,mouse plasma,1
+ML 17,Ac-lLLLRVK[Amba],Lipidation,4,18,Undegradable,6,mouse plasma,1
+ML 21,Ac-[C8]lLLLRVK[Amba],Lipidation/Unnatural amino acid,4,10,Very high stability,5,mouse plasma,1
+Q-peptide,CVWLWEQC,Cyclization,3,"0,02% intact after 1h",Unstable,0,chymotrypsin,0
+Q-peptide,CVWLWEQC,Cyclization,3,65% intact after 1h,Stable,3,pepsin,0
+Q-peptide,CVWLWEQC,Cyclization,3,"5,6% intact after 1h",Very low stability,1,pronase,0
+HTNpep1,GNVWKWEQ,Cyclization,3,79% intact after 1h,Stable,3,chymotrypsin,0
+HTNpep1,GNVWKWEQ,Cyclization,3,"95,5% intact after 1h",Stable,3,pepsin,0
+HTNpep1,GNVWKWEQ,Cyclization,3,"2,1% intact after 1h",Very low stability,1,pronase,0
+HTNpepDap,DapVWLWEQ,Cyclization,3,"80,9% intact after 1h",Stable,3,chymotrypsin,0
+HTNpepDap,DapVWLWEQ,Cyclization,3,"95,5% intact after 1h",Stable,3,pepsin,0
+HTNpepDap,DapVWLWEQ,Cyclization,3,"78,3% intact after 1h",Stable,3,pronase,0
+ΔFm,Ac-GΔFmRKΔFmHKΔFmWA-NH2,Unnatural amino acid,7,100% intact after 1h,Stable,3,trypsin,0
+ΔFm,Ac-GΔFmRKΔFmHKΔFmWA-NH2,Unnatural amino acid,7,100% intact after 1h,Stable,3,chymotrypsin,0
+Fm,Ac-GFmRKFmHKFmWA-NH2,Unnatural amino acid,7,0% intact after 1h,Unstable,0,trypsin,0
+Fm,Ac-GFmRKFmHKFmWA-NH2,Unnatural amino acid,7,0% intact after 1h,Unstable,0,chymotrypsin,0
+Um,Ac-GUmRKUmHKUmWA-NH2,Unnatural amino acid,7,0% intact after 1h,Unstable,0,trypsin,0
+Um,Ac-GUmRKUmHKUmWA-NH2,Unnatural amino acid,7,0% intact after 1h,Unstable,0,chymotrypsin,0
+Crp4-1,CYCRKGHCKRGERVRGTCGIRFLYCCPRRGLL,Cyclization,3,100% intact after 1h,Stable,3,human serum,1
+cgm9a-GLP,GLPSCNNSCQSHSDCASHCICTFRGCGAVN,Cyclization,3,95% intact after 24h,Undegradable,6,human serum,1
+gm9a,SCNNSCQSHSDCASHCICTFRGCGAVN,Linear,9,88% intact after 24h,Undegradable,6,human serum,1
+cbru9a-GLP,GLPSCGGSCFGGCWOGCSCYARTCFRD,Cyclization,3,90% intact after 24h,Undegradable,6,human serum,1
+bru9a,SCGGSCFGGCWOGCSCYARTCFRD ,linear,9,87% intact after 24h,Undegradable,6,human serum,1
+cVc1.1-L1,GCCSDPRCNYDHPEICGKGKGK,Cyclization,3,74% intact after 24h,Undegradable,6,human serum,1
+cVc1.1-L2,GCCSDPRCNYDHPEICGVGVGV,Cyclization,3,69% intact after 24h,Undegradable,6,human serum,1
+cVc1.1-L3,GCCSDPRCNYDHPEICGEGEGE,Cyclization,3,92% intact after 24h,Undegradable,6,human serum,1
+C20,ISQVNEKINWSLAFIRKSDE,NMEGylation,8,55% intact after 4h,High stability,4,human serum,1
+Nmeg-Gly-C20,NMEG1-G-ISQVNEKINWSLAFIRKSDE,NMEGylation,8,75% intact after 4h,High stability,4,human serum,1
+Nmeg-C20,NMEG3-ISQVNEKINWSLAFIRKSDE,NMEGylation,8,75% intact after 4h,High stability,4,human serum,1
+C20-Nmeg,ISQVNEKINWSLAFIRKSDE-NMEG,NMEGylation,8,70% intact after 4h,High stability,4,human serum,1
+Nmeg-C20-Nmeg,NMEG1-ISQVNEKINWSLAFIRKSDENMEG1,NMEGylation,8,60% intact after 4h,High stability,4,human serum,1
+IV,pEHWS(Me)YDKG(tBu)LRP-NHEt,D-amino acid/Methylation,14,20% intact after 2h,Stable,3,human serum,1
+II,pEHWS(Me)YDK(Sar)LRP-NHEt,D-amino acid/Methylation/Unnatural amino acid,14,40% intact after 6h,High stability,4,human serum,1
+VII,pEHWS(Me)YDELRP-NHEt,D-amino acid/Methylation,14,55% intact after 6h,Very high stability,5,human serum,1
+ADP355,DNIPNvaLYDSFADS-NH2,D-amino acid,1,80% intact after 2h,High stability,4,human serum,1
+Mono1,DSNIPNvaLYDSFADYDH-NH2,D-amino acid,1,80% intact after 2h,High stability,4,human serum,1
+Mono3,DSNIPPLYHypFAYDH-NH2,D-amino acid,1,50% intact after 2h,High stability,4,human serum,1
+Mono4,DHDSNIPNvaLYDSFAYDHMeW-NH2,D-amino acid,1,48% intact after 2h,High stability,4,human serum,1
+CTX,MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,Disulfide-bond,9,90% intact after 24h,Undegradable,6,human serum,1
+CTX_M1,MCMPCFTTDHQMARRCDDCCGGRGRGKCYGPQCLCR,Disulfide-bond,9,90% intact after 24h,Undegradable,6,human serum,1
+CTX_M2,MCMPCFTTDHQMARRCDDCCGGRGRGKCWGPQCLCR,Disulfide-bond,9,90% intact after 24h,Undegradable,6,human serum,1
+Pyr1-Nle11-apelin-13,GluRPRLSHKGPNlePF,Unnatural amino acid,7,0.26166666666666666,Low stability,2,rat,2
+Pyr1-Phe5-apelin-13,GluRPRFSHKGPNlePF,Unnatural amino acid,7,0.27666666666666667,Low stability,2,rat,2
+Pyr1-Cha5-apelin-13,GluRPRChaSHKGPNlePF,Unnatural amino acid,7,0.3716666666666667,Low stability,2,rat,2
+Pyr1-Lys5-apelin-13,GluRPRKSHKGPNlePF,Unnatural amino acid,7,0.15166666666666667,Very low stability,1,rat,2
+Pyr1-Glu5-apelin-13,GluRPRESHKGPNlePF,Unnatural amino acid,7,0.5833333333333334,Low stability,2,rat,2
+Pyr1-(D)Leu5-apelin-13,GluRPRDLSHKGPMPF,D-amino acid,1,0.8666666666666667,Low stability,2,rat,2
+Pyr1-(D)Ser6-apelin-13,GluRPRLDSHKGPMPF,D-amino acid,1,0.75,Low stability,2,rat,2
+Pyr1-Tyr(OBn)13-apelin-13,GluRPRLSHKGPNlePY(OBn),Unnatural amino acid,7,1.1,Stable,3,rat,2
+Pyr1-(L-a-Me)Phe13-apelin-13,GluRPRLSHKGPNleP(L-a-Me)F,Unnatural amino acid,7,2,High stability,4,rat,2
+Pyr1-Bpa13-apelin-13,GluRPRLSHKGPNlePBpa,Unnatural amino acid,7,0.9166666666666666,Low stability,2,rat,2
+Pyr1-(4-Me)Phe13-apelin-13,GluRPRLSHKGPNlePF(4-Me),Methylation,5,0.7166666666666667,Low stability,2,rat,2
+Pyr1-(D)Phe13-apelin-13,GluRPRLSHKGPMPDF,D-amino acid,1,0.21666666666666667,Very low stability,1,rat,2
+D- BMAP28,GGDLDRDSDLDGDRDKDIDLDRDVDADWDLDLDYDGDPDIDIDVDPDIDIDRIG,D-amino acid,1,90% intact after 4h,High stability,4,trypsin,0
+D- BMAP28,GGDLDRDSDLDGDRDKDIDLDRDVDADWDLDLDYDGDPDIDIDVDPDIDIDRIG,D-amino acid,1,90% intact after 4h,High stability,4,proteinase K,0
+D- BMAP28,GGDLDRDSDLDGDRDKDIDLDRDVDADWDLDLDYDGDPDIDIDVDPDIDIDRIG,D-amino acid,1,90% intact after 4h,High stability,4,proteinase XXV,0
+RI- BMAP28,GDIDRDIDIDPDVDIDIDPDGDYDLDLDWDADVDRDLDIDKDRDGDLDSDRLGG,Retro/D-amino acid,14,90% intact after 4h,High stability,4,trypsin,0
+RI- BMAP28,GDIDRDIDIDPDVDIDIDPDGDYDLDLDWDADVDRDLDIDKDRDGDLDSDRLGG,Retro/D-amino acid,14,90% intact after 4h,High stability,4,proteinase K,0
+RI- BMAP28,GDIDRDIDIDPDVDIDIDPDGDYDLDLDWDADVDRDLDIDKDRDGDLDSDRLGG,Retro/D-amino acid,14,90% intact after 4h,High stability,4,proteinase XXV,0
+LyP1_RGDS,c[CGNKRTRGC]RGDS,Cyclization,3,24,Undegradable,6,human serum,1
+LyP1-grafted MCo TI-II L6,CPKILKKCRRDSDCPGACICRGNGYCGNKRTRG,Cyclization,3,85% intact after 24h,Undegradable,6,human serum,1
+LyP1-grafted MCo TI-II L2,CPKILKKCGNKRTRGCPGACICRGNGYCGSGSDGGV,Cyclization,3,85% intact after 24h,Undegradable,6,human serum,1
+LyP1-grafted MCo TI-II L1,CGNKRTRGCRRDSDCPGACICRGNGYCGSGSDGGV,Cyclization,3,85% intact after 24h,Undegradable,6,human serum,1
+BTD-2_RGDS,GVCRCVCRGDSCRCVCRR,Cyclization,3,80% intact after 24h,Undegradable,6,human serum,1
+[Lys4]BTD-2,GVCKCVCRRGVCRCVCRR,Cyclization,3,80% intact after 24h,Undegradable,6,human serum,1
+BTD-2_LyP1_b,CGNKRTRGCRCVCRRGVCRCV,Cyclization,3,80% intact after 24h,Undegradable,6,human serum,1
+BTD-2_LyP1_RGDS_b,CGNKRTRGCRCVCRGDSCRCV,Cyclization,3,80% intact after 24h,Undegradable,6,human serum,1
+BTD-2_LyP1_a,CGNKRTRGCRCVCRRGDSCRCV,Cyclization,3,24,Undegradable,6,human serum,1
+BTD-2_LyP1_RGDS_a,CGNKRTRGCRCVCRGDSCR,Cyclization,3,24,Undegradable,6,human serum,1
+[Tyr3] octrotate 16,DOTA-DFc[YDWLTC]T,Monomer/D-amino acid,1,99% intact after 24h,Undegradable,6,human serum,1
+[Tyr3] octrotate 17,DOTA-DFc[YDWLTC]T,Dimer/D-amino acid,1,99% intact after 24h,Undegradable,6,human serum,1
+[Tyr3] octrotate 18,DOTA-DFc[YDWLTC]T,Dimer/D-amino acid,1,99% intact after 24h,Undegradable,6,human serum,1
+P5Ala,VSADPSAVNAYKSADSRVNST,Amino acid substitution,2,0.058333333333333334,Unstable,0,human serum,1
+P4Ala,VSADPSRANAYKSADSRVNST,Amino acid substitution,2,0.26666666666666666,Low stability,2,human serum,1
+P3Ala,VSADPSRVAAYKSADSRVNST,Amino acid substitution,2,0.12833333333333333,Very low stability,1,human serum,1
+P1Ala,VSADPSRVNAAKSADSRVNST,Amino acid substitution,2,120,Undegradable,6,human serum,1
+P1´Ala,VSADPSRVNAYASADSRVNST,Amino acid substitution,2,0.08333333333333333,Unstable,0,human serum,1
+P2´Ala,VSADPSRVNAYKAADSRVNST,Amino acid substitution,2,0.15,Very low stability,1,human serum,1
+P5D,VSADPSDRVNAYKSADSRVNST,D-amino acid,1,0.16666666666666666,Very low stability,1,human serum,1
+P4D,VSADPSRDVNAYKSADSRVNST,D-amino acid,1,9,Very high stability,5,human serum,1
+P3D,VSADPSRVDNAYKSADSRVNST,D-amino acid,1,3.8,High stability,4,human serum,1
+P2D,VSADPSRVNDAYKSADSRVNST,D-amino acid,1,120,Undegradable,6,human serum,1
+P1D,VSADPSRVNADYKSADSRVNST,D-amino acid,1,43,Undegradable,6,human serum,1
+P1´D,VSADPSRVNAYDKSADSRVNST,D-amino acid,1,2.3,High stability,4,human serum,1
+P2´D,VSADPSRVNAYKDSADSRVNST,D-amino acid,1,1.8,Stable,3,human serum,1
+P3´D,VSADPSRVNAYKSDADSRVNST,D-amino acid,1,0.17666666666666667,Very low stability,1,human serum,1
+P5N-Me,VSADPSR(me)VNAYKSADSRVNST,Methylation,5,0.16666666666666666,Very low stability,1,human serum,1
+P4N-Me,VSADPSRV(me)NAYKSADSRVNST,Methylation,5,0.4,Low stability,2,human serum,1
+P3N-Me,VSADPSRVN(me)AYKSADSRVNST,Methylation,5,0.6333333333333333,Low stability,2,human serum,1
+P2N-Me,VSADPSRVNA(me)YKSADSRVNST,Methylation,5,0.14,Very low stability,1,human serum,1
+P1N-Me,VSADPSRVNAY(me)KSADSRVNST,Methylation,5,120,Undegradable,6,human serum,1
+P1´N-Me,VSADPSRVNAYK(me)SADSRVNST,Methylation,5,12,Very high stability,5,human serum,1
+P2´N-Me,VSADPSRVNAYKS(me)ADSRVNST,Methylation,5,1.6,Stable,3,human serum,1
+P3´N-Me,VSADPSRVNAYKSA(me)DSRVNST,Methylation,5,0.16666666666666666,Very low stability,1,human serum,1
+P5β3,VSADPSβRVNAYKSADSRVNST,α-helix,9,0.11166666666666666,Very low stability,1,human serum,1
+Peptide 6,RPAzaGRNIeYDapNIle-NH2,Amino acid substitution,2,30% intact after 6h,High stability,4,human serum,1
+Peptide 7,RAzaGPRNIeYDapNIle-NH2,Amino acid substitution,2,15% intact after 6h,Stable,3,human serum,1
+Peptide 8,AzaGRPRNIeYDapNIle-NH2,Amino acid substitution,2,30% intact after 6h,High stability,4,human serum,1
+1,S(βDGlc) KPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,2.933333333333333,High stability,4,trypsin,0
+1,S(βDGlc) KPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,2.8,High stability,4,proteinase K,0
+1,S(βDGlc) KPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,73% intact after 5h,High stability,4,mouse serum,1
+2,IKPEAPGEDAS(βDGlc)PEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,2.55,High stability,4,trypsin,0
+2,IKPEAPGEDAS(βDGlc)PEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.566666666666667,High stability,4,proteinase K,0
+2,IKPEAPGEDAS(βDGlc)PEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,69% intact after 5h,High stability,4,mouse serum,1
+3,IKPEAPGEDASPEELS(βDGlc)RYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.1333333333333333,High stability,4,trypsin,0
+3,IKPEAPGEDASPEELS(βDGlc)RYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.433333333333333,High stability,4,proteinase K,0
+3,IKPEAPGEDASPEELS(βDGlc)RYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,69% intact after 5h,High stability,4,mouse serum,1
+4,IKPEAPGEDASPEELNRYYS(βDGlc)SLRHYLNLVTRQRY-NH2,Glycosylation,6,2.8,High stability,4,trypsin,0
+4,IKPEAPGEDASPEELNRYYS(βDGlc)SLRHYLNLVTRQRY-NH2,Glycosylation,6,2.5166666666666666,High stability,4,proteinase K,0
+4,IKPEAPGEDASPEELNRYYS(βDGlc)SLRHYLNLVTRQRY-NH2,Glycosylation,6,73% intact after 5h,High stability,4,mouse serum,1
+5,IKPEAPGEDASPEELNRYYAS(βDGlc)LRHYLNLVTRQRY-NH2,Glycosylation,6,2.933333333333333,High stability,4,trypsin,0
+5,IKPEAPGEDASPEELNRYYAS(βDGlc)LRHYLNLVTRQRY-NH2,Glycosylation,6,4.516666666666667,High stability,4,proteinase K,0
+5,IKPEAPGEDASPEELNRYYAS(βDGlc)LRHYLNLVTRQRY-NH2,Glycosylation,6,63% intact after 5h,High stability,4,mouse serum,1
+7,IKPEAPGEDASPEELNRY(βDGlc)YASLRHYLNLVTRQRY-NH2,Glycosylation,6,4.483333333333333,High stability,4,trypsin,0
+7,IKPEAPGEDASPEELNRY(βDGlc)YASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.85,High stability,4,proteinase K,0
+7,IKPEAPGEDASPEELNRY(βDGlc)YASLRHYLNLVTRQRY-NH2,Glycosylation,6,66% intact after 5h,High stability,4,mouse serum,1
+9,IKPEAPS(βDGal) EDASPEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.6166666666666667,High stability,4,trypsin,0
+9,IKPEAPS(βDGal) EDASPEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,2.85,High stability,4,proteinase K,0
+9,IKPEAPS(βDGal) EDASPEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,54% intact after 5h,High stability,4,mouse serum,1
+10,IKPEAPSEDAS(βDGal) PEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,2.566666666666667,High stability,4,trypsin,0
+10,IKPEAPSEDAS(βDGal) PEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.3333333333333335,High stability,4,proteinase K,0
+10,IKPEAPSEDAS(βDGal) PEELNRYYASLRHYLNLVTRQRY-NH2,Glycosylation,6,64% intact after 5h,High stability,4,mouse serum,1
+12,IKPEAPSEDASPEELNRYYAS(βDGal) LRHYLNLVTRQRY-NH2,Glycosylation,6,2.5,High stability,4,proteinase K,0
+13,IKPEAPSEDASPEELNRY(βDGal) YASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.283333333333333,High stability,4,trypsin,0
+13,IKPEAPSEDASPEELNRY(βDGal) YASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.1333333333333333,High stability,4,Proteinase K,0
+14,IKPEAPSEDASPEELNRYY(βDGal) ASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.75,High stability,4,trypsin,0
+14,IKPEAPSEDASPEELNRYY(βDGal) ASLRHYLNLVTRQRY-NH2,Glycosylation,6,3.5,High stability,4,trypsin,0
+1,L(perg)DL(perg)L(perg)LDL(perg)L(perg)LDL(perg)L(perg)LDL(perg)G,D-amino acid/perguanidinylation,14,"100% intact after 0,5h",Low stability,2,trypsin,0
+ABD_CL1,LAEAKGCSAKTAKP,Amino acid substitution ,2,0.016666666666666666,Unstable,0,trypsin,0
+EG00086,Acyl-SCKNTDSRCKARQLELNERTCRCDKPRR,Acylation,10,100% intact after 1h,Stable,3,cell medium,1
+EG00086,Acyl-SCKNTDSRCKARQLELNERTCRCDKPRR,Acylation,10,0.08333333333333333,Unstable,0,human plasma,1
+C34 GLY,WMEWDREINN(Glc)YTSLIHSLIEESQNQQEKNEQELL-NH2,Glycosylation,6,4,High stability,4,trypsin,0
+C34 GLY,WMEWDREINN(Glc)YTSLIHSLIEESQNQQEKNEQELL-NH2,Glycosylation,6,80% intact after 4h,High stability,4,chymotrypsin,0
+cp23B,CTSc[XKLTQC]GTYEDHYLSLQRMp,Cyclization,3,50% intact after 24h,Undegradable,6,human serum,1
+cp23F,GTSc[XKLTQC]GTPEDHYLSLQRZp,Cyclization,3,60% intact after 24h,Undegradable,6,human serum,1
+cp23G,GrSc[XKLTQC]GTPEDHYLSLQRZp,Cyclization,3,60% intact after 24h,Undegradable,6,human serum,1
+SUPR,MFYAYEYAQWSK,Cyclization,3,6.566666666666666,Very high stability,5,chymotrypsin,0
+SUPR,MFYAYEYAQWSK,Cyclization,3,88.33333333333333,Undegradable,6,proteinase K,0
+SUPR,MFYAYEYAQWSK,Cyclization,3,161.66666666666666,Undegradable,6,human serum,1
+SUPR,MFYAYEYAQWSK,Cyclization,3,1.9166666666666667,Stable,3,mouse serum,1
+cycGIBP,MITWYEFVAGTK,Cyclization,3,0.016666666666666666,Unstable,0,chymotrypsin,0
+cycGIBP,MITWYEFVAGTK,Cyclization,3,0.016666666666666666,Unstable,0,proteinase K,0
+cycGIBP,MITWYEFVAGTK,Cyclization,3,2,High stability,4,human serum,1
+cycGIBP,MITWYEFVAGTK,Cyclization,3,0.05,Unstable,0,mouse serum,1
+UK18,ACSRYEVDCRGRGSACG,Cyclization,3,50% intact after 16h,Undegradable,6,mouse plasma,1
+UK201,ACSRYEVDCRGRDASACG,D-amino acid,1,100% intact after 16h,Undegradable,6,mouse plasma,1
+UK202,ACSRYEVDCRGRDSSACG,D-amino acid,1,100% intact after 16h,Undegradable,6,mouse plasma,1
+UK203,ACSRYEVDCRGRDAbaSACG,D-amino acid,1,100% intact after 16h,Undegradable,6,mouse plasma,1
+α/β-16,VDNKFNKEXCNXRAIEAALDPNLNDQQFHAKIWXIIUDCG-NH2,α/β peptide,9,1.1333333333333333,Stable,3,proteinase K,0
+KR-12,KRIVQRIKDFLR,Amino acid substitution,2,0.08333333333333333,Unstable,0,human serum,1
+R6A,KRIVQAIKDFLR,Amino acid substitution,2,0.03333333333333333,Unstable,0,human serum,1
+R6K,KRIVQKIKDFLR,Amino acid substitution,2,0.025,Unstable,0,human serum,1
+R12A,KRIVQRIKDFLA,Amino acid substitution,2,0.025,Unstable,0,human serum,1
+R12K,KRIVQRIKDFLK,Amino acid substitution,2,0.025,Unstable,0,human serum,1
+1,YPFP-NH2,Unnatural amino acid,7,0.44166666666666665,Low stability,2,human serum,1
+2,YPFcAMP-NH2,Unnatural amino acid,7,0.25,Very low stability,1,human serum,1
+3,YcAampFP-NH2,Unnatural amino acid,7,0.22833333333333333,Very low stability,1,human serum,1
+4,YcAmpFcAmp-NH2,Unnatural amino acid,7,0.2916666666666667,Low stability,2,human serum,1
+Ri-P2,RLPSFSRVPLGPPR-NH2,Retro-peptide,12,100% intact after 6h,Very high stability,5,human plasma,1
+Ri-BbKI51-62,LPSEFRVPLGPR-NH2,Retro-peptide,12,100% intact after 6h,Very high stability,5,human plasma,1
+[11Glyc]VIP,HSDAVFTDNYT(βGal)RLRK-QMAVKKYLNSILN,Glycosylation,6,0.75,Low stability,2,trypsin,0
+NPY-BBB2,Ac-YKK(Kp)(Ahx)ARHYINLITRQRY,Unnatural amino acid,7,3,High stability,4,human serum,1
+NT-BBB1,Ac-K(Kp)KKPYIL,Unnatural amino acid,7,3,High stability,4,human serum,1
+PIK2,R(me)KKYKYRDRK-NH2,D-amino acid/Methylation,14,9,Very high stability,5,human plasma,1
+PIK3,R(me)KKYKYRRKPGP-OH,Methylation,5,6,High stability,4,human plasma,1
+PIK4,R(NO2)KKYKYRRK-NH2,Nitro group,10,2,High stability,4,human plasma,1
+PIK5,R(CH2NH)KKYKYRDRK-NH2,Pseudopeptide bond,12,9,Very high stability,5,human plasma,1
+PIK6,R(CH2NH)KKYKYRRKPGP-OH,Pseudopeptide bond,12,6,High stability,4,human plasma,1
+Cyclo-PIK,c[RKKYKYRRK],Cyclization,3,12,Very high stability,5,human plasma,1
+MAC-1/1,GDGDMDADLDKDLDLDKDKDVDL-NH2,D-amino acid,1,24,Undegradable,6,human serum,1
+MAC-1/6,GDFGMALKLLKKVL-NH2,D-amino acid,1,24,Undegradable,6,human serum,1
+MAC-1/10,GFDKMALKLLKKVL-NH2,D-amino acid/Amino acid substitution,14,1,Low stability,2,human serum,1
+MAC-1/20,GFGMALOLLOOVL-NH2,Amino acid substitution,2,6,High stability,4,human serum,1
+MAC-1/28,DAFGMALKLLKKVL-NH2,D-amino acid/Amino acid substitution,14,24,Undegradable,6,human serum,1
+MAC-1/29,DAFKMALKLLKKVL-NH2,D-amino acid/Amino acid substitution,14,24,Undegradable,6,human serum,1
+MAC-1/30,DADFKMALKLLKKVL-NH2,D-amino acid/Amino acid substitution,14,8,Very high stability,5,human serum,1
+Cyc-hCT(9-32),C[BLGTYTQDFNXFHTFPQTAIGVGAP],Cyclization,3,12.9,Undegradable,6,pepsin,0
+Cyc-hCT(9-32),C[BLGTYTQDFNXFHTFPQTAIGVGAP],Cyclization,3,5.516666666666667,High stability,4,human serum,1
+99mTc-[K6T]P8:L-cys,KVTAMTCFLL‐NH2,Homodimer,9,100% intact after 3h,High stability,4,human plasma,1
+10e,"H-KKWb2,2WKK-NH2",Unnatural amino acid,7,24,Undegradable,6,trypsin,0
+10e,"H-KKWb2,2WKK-NH2",Unnatural amino acid,7,100% intact after 96h,Undegradable,6,chymotrypsin,0
+Anoplin-4,D[GLLKRIKTLL-NH2],D-amino acid,1,90% intact after 4h,High stability,4,trypsin,0
+Anoplin-4,D[GLLKRIKTLL-NH2],D-amino acid,1,90% intact after 4h,High stability,4,human serum,1
+MSH,Ac-vpkGwrfhemsys-NH2,Retro-peptide,12,100% intact after 24h,Undegradable,6,human plasma,1
+MSH,Ac-vpkGwrfhemsys-NH2,Retro-peptide,12,48,Undegradable,6,mouse,2
+OP 8,QGLAbupYNleD(GAlloc)L,N-Alloc,10,100% intact after 2h,High stability,4,enzymes,0
+TPP-3-YRFK-NH2,TTP3-YRFK-NH2,Amino acid substitution,2,0.7666666666666667,Low stability,2,trypsin,0
+TPP-6-YRFK-NH2,TPP6-YRFK-NH2,Amino acid substitution,2,1.1666666666666667,Stable,3,trypsin,0
+YrFK-NH2,YDRFK-NH2,D-amino acid,1,14.65,Undegradable,6,trypsin,0
+TPP-6-YrFK-NH2,TPP6-YRFK-NH2,Amino acid substitution/D-amino acid,14,100% intact after 17h,Undegradable,6,trypsin,0
+HPYD,HKQLPFYEEN,β-sheets,9,"81,2% intact after 6h",Very high stability,5,trypsin,0
+PEG-LVPRLVPR-taspoglutide,PEG-LVPRLVPR HbEGTFTSDVSSYLEGQAAKEFIAWLVKbRNH2,PEGylation,8,12.6,Undegradable,6,mouse serum,1
+PEG-LVPR- taspoglutide,PEG-LVPR- HbEGTFTSDVSSYLEGQAAKEFIAWLVKbRNH2,PEGylation,8,80,Undegradable,6,mouse serum,1
+PEG-LDPR- taspoglutide,PEG-LDPR- HbEGTFTSDVSSYLEGQAAKEFIAWLVKbRNH2,PEGylation,8,76.4,Undegradable,6,mouse serum,1
+PEG-LVPRLVPR-amylin,PEG-LVPRLVPR-KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,PEGylation,8,7.4,Very high stability,5,mouse serum,1
+PEG-LVPR-amylin,PEG-LVPR- KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,PEGylation,8,11.8,Very high stability,5,mouse serum,1
+PEG-LDPR-amylin,PEG-LDPR- KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,PEGylation,8,10.6,Very high stability,5,mouse serum,1
+PEG-LVPRLVPR-pramlintide,PEG-LVPRLVPR KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,PEGylation,8,5,High stability,4,mouse serum,1
+PEG-LVPR- pramlintide,PEG-LVPR- KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,PEGylation,8,6.6,Very high stability,5,mouse serum,1
+PEG-LDPR- pramlintide,PEG-LDPR- KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,PEGylation,8,9,Very high stability,5,mouse serum,1
+IGF-PSL-PEG,IGF-GNQEQVSPL-PEG(3)-GPQGIAGQ-PEG(6)-A(N3),PEGylation,8,83% intact after 18h,Undegradable,6,human serum,1
+cA7R,ATWLPPR,Cyclization,3,50% intct after 12h,Undegradable,6,mouse serum,1
+cA7R,ATWLPPR,Cyclization,3,22.2,Undegradable,6,mouse,2
+GG-DSVS-1,DGDGDKDVDKDVDKDVDKDVPDPDTDKDVDKDVDKDVDK-NH2,D-amino acid,1,40% intact after 8h,High stability,4,human serum,1
+LL-IIIs-1,VNWKK[SLGKS]IKVVK-NH2,Stapled,11,"0% intact after 0,25h",Unstable,0,trypsin,0
+LL-IIIs-2,VNWKKILGK[SIKVS]K-NH2,Stapled,11,30% intact after 1h,Low stability,2,trypsin,0
+LL-IIIs-3,V[SWKKS]LGKIIKVVL-NH2,Stapled,11,"15% intact after 0,25h",Very low stability,1,trypsin,0
+LL-IIIs-4,VN[SKKIS]GK[SIKVS]K-NH2,Stapled,11,"20% intact after 0,167h",Very low stability,1,trypsin,0
+LL-IIIs-5 cis,VN[RKKILGKS]IKVVK-NH2,Stapled,11,10% intact after 3h,Low stability,2,trypsin,0
+LL-IIIs-5 trans,VN[RKKILGKS]IKVVK-NH2,Stapled,11,35% intact after 3h,High stability,4,trypsin,0
+LL-IIIs-6a,VN[SKKIS]PK[SIKVS]K-NH2,Stapled,11,80% intact after 3h,High stability,4,trypsin,0
+LL-IIIs-6b,VN[SKKIS]PK[SIKVS]K-NH2,Stapled,11,70% intact after 3h,High stability,4,trypsin,0
+MEP-Ns-1,GFLSILKKVLPK[SXAHS]K-NH2,Stapled,11,"20% intact after 0,167h",Very low stability,1,trypsin,0
+MEP-Ns-2,GFLS[SLKKS]LPKVXAHXK-NH2,Stapled,11,20% intact after 1h,Very low stability,1,trypsin,0
+MEP-Ns-3,GFLS[SLKKS]LPK[SXAHS]K-NH2,Stapled,11,90% intact after 3h,High stability,4,trypsin,0
+MEP-Ns-4 trans,GF[RSILKKVS]PKVXAHXK-NH2,Stapled,11,30% intact after 3h,High stability,4,trypsin,0
+MEP-Ns-4 cis,GF[RSILKKVS]PKVXAHXK-NH2,Stapled,11,20% intact after 3h,High stability,4,trypsin,0
+MEP-Ns-5,GFLS[SLKKS]LGK[SXAHS]K-NH2,Stapled,11,90% intact after 3h,High stability,4,trypsin,0
+MEP-Ns-6,GFLS[SLKKS]LAK[SXAHS]K-NH2,Stapled,11,100% intact after 3h,High stability,4,trypsin,0
+P001,Dh-β-AHTV(Me)EK-NH2,Methylation,5,98% intact after 24h,Undegradable,6,trypsin,0
+P010,Dh-β-AHT(Me)VEK-NH2,Methylation,5,85% intact after 24h,Undegradable,6,trypsin,0
+P100,Dh-β-AH(Me)TVEK-NH2,Methylation,5,85% intact after 24h,Undegradable,6,trypsin,0
+P011,Dh-β-AHT(Me)V(Me)EK-NH2,Methylation,5,100% intact after 24h,Undegradable,6,trypsin,0
+P101,Dh-β-AH(Me)TVEK-NH2,Methylation,5,100% intact after 24h,Undegradable,6,trypsin,0
+P110,Dh-β-AH(Me)T(Me)VEK-NH2,Methylation,5,88% intact after 24h,Undegradable,6,trypsin,0
+P111,Dh-β-AH(Me)T(Me)V(Me)EK-NH2,Methylation,5,100% intact after 24h,Undegradable,6,trypsin,0
+C4,C16H31O-KKLFKKILKYL-NH2,Lipidation,4,2,High stability,4,rat plasma,1
+C9,C16H31O-GGKKLFKKILKYL-NH2,Lipidation,4,2,High stability,4,rat plasma,1
+SFTI-1,c[GRC[TKSIPPIC]FPD],Cyclization,3,100% intact after 8h,Very high stability,5,human serum,1
+cyc-MC12,c[GRCTQAWPPIC]FPD],Cyclization,3,100% intact after 8h,Very high stability,5,human serum,1
+frameshit ANP,SLRRSSCFGGRMDRIGAQSGLGCNSFRYRITAREDKQGWA,frameshit,12,0.075,Unstable,0,human serum,1
+Endomorphin-2,Glu-YPFF-NH2,Glycosylation,6,0.955,Low stability,2,human plasma,1
+A15K_A23K Ctx,MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,Amino acid substitution,2,70% intact after 24h,Undegradable,6,human serum,1
+Cyclic CTX,c[MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCRGAGAAGG],Cyclization,3,90% intact after 24h,Undegradable,6,human serum,1
+Cyclic CTX,c[MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCRGAGAAGG],Cyclization,3,11,Very high stability,5,mouse,2
+Phybrids 2,L14-HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPSGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,Lipidation,4,0.8333333333333334,Low stability,2,rat,2
+Phybrids 2,L14-HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPSGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,Lipidation,4,1.2,Stable,3,rat,2
+NK1 5,"YDAGFNlePS(Glc)W(NH(3,5-Bzl(CF3)2)",Glycosylation,6,65% intact after 6h,Very high stability,5,rat plasma,1
+NK1 6,"YDAGFNlePLS(Glc)WNH(3,5-Bzl(CF3)2)",Glycosylation,6,100% intact after 6h,Very high stability,5,rat plasma,1
+ψRGDechi,(c(KRDGe)MDDPGRNPH,Pseudopeptide,12,100% intact after 48h,Undegradable,6,human serum,1
+2b,Acetyl-CiS1W2P3A4R5CiiL6H7Q8D9L10Ciii,Amino acid substitution,2,24,Undegradable,6,human vitreous,1
+2b,Acetyl-CiS1W2P3A4R5CiiL6H7Q8D9L10Ciii,Amino acid substitution,2,24,Undegradable,6,mouse plasma,1
+2b,Acetyl-CiS1W2P3A4R5CiiL6H7Q8D9L10Ciii,Amino acid substitution,2,24,Undegradable,6,rat plasma,1
+2b,Acetyl-CiS1W2P3A4R5CiiL6H7Q8D9L10Ciii,Amino acid substitution,2,24,Undegradable,6,human plasma,1
+2b,Acetyl-CiS1W2P3A4R5CiiL6H7Q8D9L10Ciii,Amino acid substitution,2,48,Undegradable,6,rat,2
+2d,Acetyl-CiS1F2Aze3Y4R5CiiaLA(Me)6H7Q8D9L10Ciii,Amino acid substitution/Methylation,5,24,Undegradable,6,human vitreous,1
+2d,Acetyl-CiS1F2Aze3Y4R5CiiaLA(Me)6H7Q8D9L10Ciii,Amino acid substitution/Methylation,5,1.5,Stable,3,mouse plasma,1
+2d,Acetyl-CiS1F2Aze3Y4R5CiiaLA(Me)6H7Q8D9L10Ciii,Amino acid substitution/Methylation,5,2.8,High stability,4,rat plasma,1
+2d,Acetyl-CiS1F2Aze3Y4R5CiiaLA(Me)6H7Q8D9L10Ciii,Amino acid substitution/Methylation,5,7,Very high stability,5,human plasma,1
+Ac-N-MePhe-(N-MePhe)3-CONH2,F(Me)F(Me)F(Me)F(Me),Methylation,5,91%intact after 12h,Undegradable,6,human serum,1
+Ac-Cha-(N-MePhe)3-CONH2,ChaF(Me)F(Me)F(Me),Methylation/Unnatural amino acid,5,57% intact after 12h,Undegradable,6,human serum,1
+c-2Nal-(N-MePhe)3-CONH2,2NaIF(Me)F(Me)F(Me),Methylation/Unnatural amino acid,5,86% intact after 12h,Undegradable,6,human serum,1
+Cycle,Ac-c[CVDINNNC]-NH2,Cyclization,3,90% intact after 24h,Undegradable,6,pepsin,0
+Cycle,Ac-c[CVDINNNC]-NH2,Cyclization,3,90% intact after 24h,Undegradable,6,trypsin,0
+Cycle,Ac-c[CVDINNNC]-NH2,Cyclization,3,90% intact after 24h,Undegradable,6,chymotrypsin,0
+Cycle,Ac-c[CVDINNNC]-NH2,Cyclization,3,80% intact after 50h,Undegradable,6,human plasma,1
+Pyr-apelin13 2,c[XRPRX]cSHKGPNlePF,Cyclization/Unnatural amino acid,13,0.8,Low stability,2,human serum,1
+Pyr-apelin13 3,Pyrc[RxPRLX]cHKGPNlePF,Cyclization/Unnatural amino acid,13,2.2,High stability,4,human serum,1
+Pyr-apelin13 5,PyrRc[XRLSX]cKGPNlePF,Cyclization/Unnatural amino acid,13,3.9,High stability,4,human serum,1
+Pyr-apelin13 6,PyrRPc[RxLSHX]cGPNlePF,Cyclization/Unnatural amino acid,13,7.7,Very high stability,5,human serum,1
+Pyr-apelin13 11,PyrRPRLSc[XKGPX]cPF,Cyclization,3,6.6,Very high stability,5,human serum,1
+Pyr-apelin13 12,PyrRPRLSHc[XGPNleX]cF,Cyclization/Unnatural amino acid,13,4.6,High stability,4,human serum,1
+Pyr-apelin13 13,PyrRPRLSHKc[XPNlePX]c,Cyclization/Unnatural amino acid,13,8.6,Very high stability,5,human serum,1
+CXCR4 19,Ac-RA[DCR2NaI-HPen]-COOH,Unnatural amino acid,7,100% intact after 2h,High stability,4,human serum,1
+18-4,WxEAAYQrFL,α-amino acid,9,100% intact after 24h,Undegradable,6,human serum,1
+18-9,zXEaAYQkFL,β-amino acid,9,100% intact after 24h,Undegradable,6,human serum,1
+18-10,zXEAaYQkFL,β-amino acid,9,100% intact after 24h,Undegradable,6,human serum,1
+"CF-[K13(E-Pam), Q34]hPP",CF-APLEPVYPGDNAK(E-pam)PEQMAQYAADLRRYINMLTRQRY-NH2,Lipidation,4,90% intact after 150h,Undegradable,6,human plasma,1
+"CF-[K13 (PEG2), Q34]hPP",CF-APLEPVYPGDNAK(PEG2)PEQMAQYAADLRRYINMLTRQRY-NH2,PEGylation,8,40% intact after 150h,Undegradable,6,human plasma,1
+"CF-[K13 (PEG20), Q34]hPP",CF-APLEPVYPGDNAK(PE20)PEQMAQYAADLRRYINMLTRQRY-NH2,PEGylation,8,90% intact after 150h,Undegradable,6,human plasma,1

@@ -1,0 +1,19 @@
+PEP_LIFE_original
+1137 seq
+
+shape
+(1137, 6)
+
+Existen MOD?
+Si
+
+PEP_LIFE
+Contiene todos los valores del archivo original, pero se separa la columna half_life_data y se agregan columna is_mod
+shape
+(1137, 13)
+
+
+
+
+True     899
+False    238

@@ -1,0 +1,15 @@
+plife_freemod
+163 seq
+
+plife_mod
+261 seq
+
+shape free, mod
+((163, 9), (261, 9))
+
+Existen MOD?
+Si
+
+plifepred
+Concatena plife_freemod y plife_mod y elimina duplicados
+shape (262, 11)

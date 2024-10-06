@@ -1,0 +1,17 @@
+PepTherDia_original
+120 seq
+
+shape
+(120, 39)
+
+Existen MOD?
+Si
+
+
+PepTherDia
+Contiene solo los valores float del archivo original, se quita columna ID y se agrega columna is_mod
+shape (50, 38)
+
+PepTherDia_object
+Contiene solo los valores object del archivo original y se quita columna ID y se agrega columna is_mod
+shape (70, 38)
