@@ -8,9 +8,9 @@ Existen MOD?
 Si
 
 PEP_LIFE
-Contiene todos los valores del archivo original, pero se separa la columna half_life_data y se agregan columna is_mod
+Se filtran las columnas y se agrega columna is_mod
 shape
-(1137, 13)
+(1137, 4)
 
 
 

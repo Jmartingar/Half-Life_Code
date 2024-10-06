@@ -9,9 +9,9 @@ Si
 
 
 serum
-Contiene solo valores float del archivo original y se agrega columna is_mod
+Contiene solo valores float del archivo original, se filtran las columnas y se agrega columna is_mod
 shape (329, 10)
 
 serum_object
-Contiene solo valores object del archivo original y se agrega columna is_mod
+Contiene solo valores object del archivo original, se filtran las columnas y se agrega columna is_mod
 shape (249, 10)

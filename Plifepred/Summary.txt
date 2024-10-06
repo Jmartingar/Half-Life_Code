@@ -11,5 +11,5 @@ Existen MOD?
 Si
 
 plifepred
-Concatena plife_freemod y plife_mod y elimina duplicados
+Concatena plife_freemod y plife_mod y elimina duplicados, se filtran las columnas y se agrega columna is_mod
 shape (262, 11)
