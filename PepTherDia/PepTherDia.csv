@@ -1,0 +1,51 @@
+sequence,half_life_seconds,modifications,is_mod
+XXGDWPC-NH2,9000.0,"deamino, NH2",True
+HSDGTFTSELSRLREGARLQRLLQGLV-NH2,2700.0,"H, NH2",True
+Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN,7200.0,"acetyl, OH",True
+SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH,1080.0,"H, OH",True
+HAEGTFTSDVSSYLEGQAAK(EX)EFIAWLVRGRG,46800.0,"H, OH",True
+KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,2880.0,"H, NH2",True
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS-NH2,8640.0,"H, NH2",True
+GGGCYFQNCPKG-NH2,3000.0,"H, NH2",True
+XKP,168120.0,"4-phenylbutanoyl, OH",True
+XHWSYXLRPG-NH2,10800.0,"pyroglutamyl, NH2",True
+SLRRSSCFGGRMDRIGAQSGLGCNSFRY,120.0,"H, OH",True
+Ac-XXXSYXLRPa-NH2,226080.0,"acetyl, NH2",True
+Ac-XXXSYXLXPa-NH2,58320.0,"acetyl, NH2",True
+XXITNCPXG-NH2,6120.0,"deamino, NH2",True
+XHP,7140.0,"1-methyl-2,6-dioxohexahydropyrimidyl, NH2",True
+HSDAVFTDNYTRLRKQMAVKKYLNSILN,102.0,"H, OH",True
+XXIQNCPLG-NH2,2400.0,"butyril , NH2",True
+C(1)KGKGAKC(2)SRLMYDC(3)C(1)TGSC(2)RSGKC(3)-NH2,16560.0,"H, NH2",True
+XAXAX,64800.0,"N-acetylmuramoyl, dipalmitoyl phosphatidyl ethanolamine",True
+XXXwKXF,43200.0,"cycle, cycle",True
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPSKKKKKK-NH2,10800.0,"H, NH2",True
+Ac-SYSXEHfRWGKPV-NH2,1800.0,"acetyl, NH2",True
+-,882000.0,"CH3, OH",True
+DXMGWMDF-NH2,120.0,"H, NH2",True
+H-XEGTFTSDVSSYLEGQAAK-(XXEX)-EFIAWLVRGRG,604800.0,"H, OH",True
+Ac-XDHfRWK,9720.0,"acetyl, OH",True
+gGlu-CG,600.0,"H, OH",True
+-,6900.0,"N.A., N.A.",True
+XXT-XX(1)XlLXXT(1),18000.0,"5-methyl-heptanoyl, cycle",True
+XXXXVXAaXXX,68400.0,"cycle, cycle",True
+vPXXTXTXXPv,129600.0,"2-amino-4,6-dimethyl-3-oxo-3H-phenoxazine-1,9-dicarbonyl , cycle",True
+vcXVXX,10800.0,"cycle, cycle",True
+HSDGTFTSELSRLRDSARLQRLLQGLV-NH2,1620.0,"H, NH2",True
+-,21600.0,"CH3, OH",True
+XwX,14759.999999999998,"H, N-1-(formylamino)-2-(1H-indol-3-yl)ethyl]-acetate",True
+XFCYWKTCT,4080.0,"DOTA, OH",True
+-,1245600.0,"CH3, N.A.",True
+XXGGG,21672.0,"benzoyl-deamino-Cys, OH",True
+XFCYWKTCX,4080.0,"DOTA, 2-aminobutane-1,3-diol",True
+-,19800.0,"5-methyl-pyrazinoyl, cyclopropanesulfonamide",True
+-,111600.0,"cycle, cyclopropanesulfonamide",True
+-,118800.0,"cycle, cyclopropanesulfonamide",True
+XFCYWKTCT,45720.0,"DOTA, OH",True
+XXXXVXAaXXX,108000.0,"cycle, cycle",True
+HSQGTFTSDYSKYLDXARAEEFVKWLEST,1800.0,"H, OH",True
+-,8496.0,"small molecule, OH",True
+GXE,5400.0,"H, OH",True
+XXXX,21780.0,"trifluoroacetyl, (R)-2-methyl-3-((R)-2-oxopyrrolidin-3-yl)propanenitrile",True
+Ac-KVERFDXXYXEYPXKXgX,619200.0,"acetyl, OH",True
+X-GXX,28440.0,"1-(5-(2-methylpyrimidin-5-yl)-1H-indazol-3-yl)ethan-1-one, 6-bromopyridin-2-amine",True
