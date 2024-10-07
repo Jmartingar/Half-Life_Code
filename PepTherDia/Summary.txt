@@ -7,11 +7,25 @@ shape
 Existen MOD?
 Si
 
+Unidad de tiempo
+Minutos, Horas, Dias
 
-PepTherDia
-Contiene solo los valores float del archivo original, se filtran las columnas y se agrega columna is_mod
-shape (50, 38)
+
+
+
+
 
 PepTherDia_object
 Contiene solo los valores object del archivo original, se filtran las columnas y se agrega columna is_mod
-shape (70, 38)
+shape (70, 4)
+
+
+
+
+
+PepTherDia
+Contiene solo los valores float del archivo original, se filtran las columnas y se agrega columna is_mod
+shape (50, 4)
+
+Unidad de tiempo
+Minutos y Horas convertidos a Segundos

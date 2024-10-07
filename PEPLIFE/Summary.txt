@@ -7,13 +7,17 @@ shape
 Existen MOD?
 Si
 
+Unidad de tiempo
+Segundos
+
+
+
+
+
 PEP_LIFE
 Se filtran las columnas y se agrega columna is_mod
 shape
 (1137, 4)
-
-
-
 
 True     899
 False    238

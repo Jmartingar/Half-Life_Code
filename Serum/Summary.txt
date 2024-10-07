@@ -7,11 +7,25 @@ shape
 Existen MOD?
 Si
 
+Unidad de tiempo
+Horas
 
-serum
-Contiene solo valores float del archivo original, se filtran las columnas y se agrega columna is_mod
-shape (329, 10)
+
+
+
+
 
 serum_object
 Contiene solo valores object del archivo original, se filtran las columnas y se agrega columna is_mod
-shape (249, 10)
+shape (249, 4)
+
+
+
+
+
+serum
+Contiene solo valores float del archivo original, se filtran las columnas y se agrega columna is_mod
+shape (329, 4)
+
+Unidad de tiempo
+Horas convertidos a Segundos

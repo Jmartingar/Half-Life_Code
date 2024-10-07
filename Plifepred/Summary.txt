@@ -10,6 +10,13 @@ shape free, mod
 Existen MOD?
 Si
 
+Unidad de tiempo
+Segundos
+
+
+
+
+
 plifepred
 Concatena plife_freemod y plife_mod y elimina duplicados, se filtran las columnas y se agrega columna is_mod
-shape (262, 11)
+shape (262, 4)

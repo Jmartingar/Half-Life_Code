@@ -8,3 +8,6 @@ shape (186, 2)
 
 Existen MOD?
 No
+
+Unidad de tiempo
+Segundos
