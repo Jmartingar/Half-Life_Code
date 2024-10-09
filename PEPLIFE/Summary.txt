@@ -14,10 +14,27 @@ Segundos
 
 
 
+PEP_LIFE_object
+Contiene solo valores object del archivo original, se filtran las columnas y se agrega columna is_mod
+shape (6, 4)
+shape_not_duplicated (4, 4)
+shape_upper (3, 4)
+
+is_mod
+True     2
+False    2
+Name: count, dtype: int64
+
+
+
+
+
 PEP_LIFE
 Se filtran las columnas y se agrega columna is_mod
-shape
-(1137, 4)
+shape (1131, 4)
+shape_not_duplicated (965, 4)
+shape_upper (939, 4)
 
-True     899
-False    238
+is_mod
+True     740
+False    225
