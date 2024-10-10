@@ -17,13 +17,11 @@ Horas
 serum_object
 Contiene solo valores object del archivo original, se filtran las columnas y se agrega columna is_mod
 shape (249, 4)
-shape_not_duplicated (192, 4)
-shape_upper (192, 4)
-shape_not_null (190, 4)
+shape (175, 4)
 
 is_mod
-True     140
-False     52
+True     124
+False     51
 
 
 
@@ -32,13 +30,11 @@ False     52
 serum
 Contiene solo valores float del archivo original, se filtran las columnas y se agrega columna is_mod
 shape (329, 4)
-shape_not_duplicated (242, 4)
-shape_upper (242, 4)
-shape_not_null (237, 4)
+shape (227, 4)
 
 is_mod
-True     167
-False     75
+True     157
+False     70
 
 Unidad de tiempo
 Horas convertidos a Segundos

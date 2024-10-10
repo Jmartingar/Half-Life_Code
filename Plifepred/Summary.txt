@@ -20,9 +20,8 @@ Segundos
 plifepred
 Concatena plife_freemod y plife_mod y elimina duplicados, se filtran las columnas y se agrega columna is_mod
 shape (262, 4)
-shape_not_duplicated (244, 4)
-shape_upper (234, 4)
+shape (234, 4)
 
 is_mod
-False    182
-True      80
+False    178
+True      56
