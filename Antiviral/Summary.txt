@@ -1,35 +1,35 @@
-PepTherDia_original
-120 seq
+Antiviral_original
+5958 seq
 
 shape
-(120, 39)
+(5958, 11)
 
 Existen MOD?
 Si
 
 Unidad de tiempo
-Minutos, Horas, Dias, luego convertidos a segundos
+Minutos, Horas, luego convertidos a segundos
 
 
 
 
 
-PepTherDia_object
+Antiviral_object
 Contiene solo los valores object del archivo original, se filtran las columnas y se agrega columna is_mod
-shape (70, 4)
-shape (59, 4)
+shape (57, 5)
 
 is_mod
-True    59
+True    43
+False   14
 
 
 
 
 
-PepTherDia
+Antiviral
 Contiene solo los valores float del archivo original, se filtran las columnas y se agrega columna is_mod
-shape (50, 4)
-shape (40, 4)
+shape (146, 5)
 
 is_mod
-True    40
+True    103
+False   43

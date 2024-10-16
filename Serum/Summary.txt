@@ -8,7 +8,7 @@ Existen MOD?
 Si
 
 Unidad de tiempo
-Horas
+Horas, luego convertidos a segundos
 
 
 
@@ -35,6 +35,3 @@ shape (227, 4)
 is_mod
 True     157
 False     70
-
-Unidad de tiempo
-Horas convertidos a Segundos

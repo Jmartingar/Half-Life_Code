@@ -1,176 +1,175 @@
-sequence,half_life_seconds,is_mod,modifications
-AC-DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK-NH2,80 % intact after 48h,False,
-AC-GTCRTFGCTCKPLRCKAPRMVRCGETCMG-NH2,Degraded,False,
-ILKKLLKKVKK-NH2,80% intact after 2h,False,
-YGRKRRQRR,10% intact after 1h,False,
-REAGDEE,0% intact after 1h,False,
-N.A.,62% intact after 2h,False,
-LGTYTQDFNKFHTFPQTAIGVGAP-NH2,100% intact after 48h,False,
-GNVWKWEQ,"2,3% intact after 1h",False,
-GLLCYCRKGHCKRGERVRGTCGIRFLYCCPRR,100% intact after 1h,False,
-GLLAYARKGHAKRGERVRGTAGIRFLYAAPRR,"0% intact after 0,167h",False,
-CYCRKGHCKRGERVRGTCGIRFLYCCPRRGLL,"0% intact after 0,5h",False,
-ATCYCRTGRCATRESLSGVCEISGRLYRLCCR,100% intact after 1h,False,
-ATSYCRTGRCATRESLSGVCEISGRLYRLCSR,100% intact after 1h,False,
-ATAYCRTGRCATRESÇSGVCEISGRLYRLCAR,"0% intact after 0,033h",False,
-LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,100% intact after 1h,False,
-PEHWSYGLEPG-NH2,5% intact after 1h,False,
-GGLRSLGRKILRAWLLYGPIIVPIIRIG,"0% intact after 0,5h",False,
-CPKILKKCRRDSDCPGACICRGNGYCGSGSDGGV,85% intact after 24h,False,
-GVCRCVCRRGVCRCVCRR,80% intact after 24h,False,
-CGNKRTRGCRCVCRGDSCR,0% intact after 10h,False,
-RPRNIEYDAPNILE-OH,0% intact after 6h,False,
-RRRRRRRR-OH,0% intact after 5 min,False,
-SCKNTDSRCKARQLELNERTCRCDKPRR,100% intact after 1h,False,
-WMEWDREINNYTSLIHSLIEESQNQQEKNEQELL-NH2,0% intact after 4h,False,
-RPPGLPVRSFSPLR-NH2,0% intact after 6h,False,
-RPGLPVRFESPL-NH2,0% intact after 6h,False,
-KVTAMTCFLL‐NH2,100% intact after 3h,False,
-GLLKRIKTLL-NH2,0% intact after 1h,False,
-AC-SYSMEHFRWGKPV-NH2,0% intact after 24h,False,
-HKQLPFFEED,41% intact after 6h,False,
-NH2-YGRKARRRRRR-COOH,0% intact after 1h,False,
-GGVPKILKKRRDSDPGARGNGYGSGSD,80% intact after 24h,False,
-GGVPRILRRRRDSDPGAKGNGYGSGSD,80% intact after 24h,False,
-GGVYGRRARRRRRDSDPGAKGNGYGSGSD,40% intact after 24h,False,
-ATWLPPR,0% intact after 2h,False,
-GGKVKVKVKVDPPTKVKVKVK-NH2,40% intact after 8h,False,
-VNWKKILGKIIKVVK-NH2,95% intact after 8h,False,
-GFSILKKVLPKVXAHXK-NH2,0% intact after 1h,False,
-DH-Β-AHTVEK-NH2,85% intact after 24h,False,
-NH2-DKPKKKPPPPAGPPPPPPPPPGPPPPGP-28,100% intact after 24h,False,
-GR[CTQAWPPIC]FPD,75% intact after 8h,False,
-[CTQAWPPIC]FPDGR,75% intact after 8h,False,
-QAW,10% intact after 8h,False,
-MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,70% intact after 24h,False,
-"YDAGFMPLWNH(3,5-BZL(CF3)2)",40% intact after 6h,False,
-"YDAGFNIEPLWNH(3,5-BZL(CF3)2)",60% intact after 6h,False,
-(C(KRDGE)MDDPGRNPH,0% intact after 3h,False,
-FFFF,6% intact after 12h,False,
-C-KEEKDINNNVKKT-NH2,40% intact after 50h,False,
-H-RA[CRFFC]-COOH,"0% intact after 0,5h",False,
-WXEAAYQRFL,"0% intact after 0,5h",False,
-AC-YLKGCWTKSIPPKPCFSR-NH2,"57,2% intact after 24h",True,Cyclization
-AC-GRCTKSIPPICFPD-NH2,Undegraded,True,Cyclization
-DAPLWKNR,80% intact after 24h,True,Cyclization
-AC-GTCNTPGCTCSWPVCIDGGRLMCGETCVG-NH2,80% intact after 2h,True,Cyclization
-PRYTIAALLSPTSTSQSLVVTP,N.A.,True,Cyclization
-KKLKLFKKLQ,100% intact after 2h,True,Cyclization
-KLKKKFKKLQ,100% intact after 2h,True,Cyclization
-ΒAΒAKLVFF-PEG,N.A.,True,PEGylation
-FDF,42% intact after 24h,True,D-amino acid
-DFF,92% intact after 24h,True,D-amino acid
-FF-GLYCOSIDE,57% intact after 24h,True,Glycosylation
-FRGDDF,15% intact after 24h,True,D-amino acid
-FRGD-GLUCOSAMINE,50% intact after 24h,True,Glycosylation
-H2N-ITFCDLLCYYGKKK-CONH2,100% intact after 3h,True,Stapled
-KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH2,100% intact after 1h,True,β-sheets
-POLYMER-YGRKRRQRR,95% intact after 1h,True,Polymer
-NANOPARTICLE-YGRKRRQRR,95% intact after 1h,True,Nanoparticle
-REXGDGXE,"100% intact after 4,5h",True,Cyclization
-GRKKRRQRRRPQDTC(ACM)RQTFRSH,75% intact after 6h,True,Unnatural amino acid
-GRKKRRQRRRPQ D52THFRTFRSHSDYRRI67,25% intact after 6h,True,Unnatural amino acid
-CAQKGEYCSVYLQCCDPYHCTQPVIGGICA,95% intact after 4h,True,PseudoCyclization
-TDVVTNA-(12-ADA),34% intact after 2h,True,Lipidation
-DAP-DVVDTDNDA-(12-GDA),100% intact after 24h,True,Lipidation
-LGTYTQDFNK(PKKKRKVEDPGVGFAPKKKRKVEDPGVGFA)FHTFPQTAIGVGAP-NH2,100% intact after 48h,True,Branched
-(KKRKAPKKKRKFA)KFHTFPQTAIGVGAP-NH2,100% intact after 48h,True,Branched
-D(VRLPPP)3,95% intcat after 40h,True,D-amino acid
-GLURPRLSHKGPNLEPF,25% intact after 1h,True,Unnatural amino acid
-GLURPRLSHKGPNLEPDIP,49% intact after 3h,True,Unnatural amino acid
-GLURPRLSHKGPNLEPBIP,67% intact after 1h,True,Unnatural amino acid
-GLURPRLSHKGPNLEP1NAL,59% intact after 2h,True,Unnatural amino acid
-GLURPRLSHKGPNLEP2NAL,84% intact after 1h,True,Unnatural amino acid
-GLURPRLSHKGPNLEPCHA,50% intact after 2h,True,Unnatural amino acid
-GLURPRLSHKGPNLEPW,21% intact after 1h,True,Unnatural amino acid
-GLURPRLSHKGPNLEP(4-BROMO)F,47% intact after 1h,True,Unnatural amino acid
-"GLURPRLSHKGPNLEP(2,4,5-TRIFLUORO)F",35% intact after 1h,True,Unnatural amino acid
-GLURPRLSHKGPNLEP(4-NITRO)F,35% intact after 1h,True,Unnatural amino acid
-CVWLWEQC,"0,02% intact after 1h",True,Cyclization
-DAPVWLWEQ,"80,9% intact after 1h",True,Cyclization
-AC-GΔFMRKΔFMHKΔFMWA-NH2,100% intact after 1h,True,Unnatural amino acid
-AC-GFMRKFMHKFMWA-NH2,0% intact after 1h,True,Unnatural amino acid
-AC-GUMRKUMHKUMWA-NH2,0% intact after 1h,True,Unnatural amino acid
-GLPSCNNSCQSHSDCASHCICTFRGCGAVN,95% intact after 24h,True,Cyclization
-SCNNSCQSHSDCASHCICTFRGCGAVN,88% intact after 24h,True,Linear
-GLPSCGGSCFGGCWOGCSCYARTCFRD,90% intact after 24h,True,Cyclization
-SCGGSCFGGCWOGCSCYARTCFRD ,87% intact after 24h,True,linear
-GCCSDPRCNYDHPEICGKGKGK,74% intact after 24h,True,Cyclization
-GCCSDPRCNYDHPEICGVGVGV,69% intact after 24h,True,Cyclization
-GCCSDPRCNYDHPEICGEGEGE,92% intact after 24h,True,Cyclization
-ISQVNEKINWSLAFIRKSDE,55% intact after 4h,True,NMEGylation
-NMEG1-G-ISQVNEKINWSLAFIRKSDE,75% intact after 4h,True,NMEGylation
-NMEG3-ISQVNEKINWSLAFIRKSDE,75% intact after 4h,True,NMEGylation
-ISQVNEKINWSLAFIRKSDE-NMEG,70% intact after 4h,True,NMEGylation
-NMEG1-ISQVNEKINWSLAFIRKSDENMEG1,60% intact after 4h,True,NMEGylation
-PEHWS(ME)YDKG(TBU)LRP-NHET,20% intact after 2h,True,D-amino acid/Methylation
-PEHWS(ME)YDK(SAR)LRP-NHET,40% intact after 6h,True,D-amino acid/Methylation/Unnatural amino acid
-PEHWS(ME)YDELRP-NHET,55% intact after 6h,True,D-amino acid/Methylation
-DNIPNVALYDSFADS-NH2,80% intact after 2h,True,D-amino acid
-DSNIPNVALYDSFADYDH-NH2,80% intact after 2h,True,D-amino acid
-DSNIPPLYHYPFAYDH-NH2,50% intact after 2h,True,D-amino acid
-DHDSNIPNVALYDSFAYDHMEW-NH2,48% intact after 2h,True,D-amino acid
-MCMPCFTTDHQMARRCDDCCGGRGRGKCYGPQCLCR,90% intact after 24h,True,Disulfide-bond
-MCMPCFTTDHQMARRCDDCCGGRGRGKCWGPQCLCR,90% intact after 24h,True,Disulfide-bond
-GGDLDRDSDLDGDRDKDIDLDRDVDADWDLDLDYDGDPDIDIDVDPDIDIDRIG,90% intact after 4h,True,D-amino acid
-GDIDRDIDIDPDVDIDIDPDGDYDLDLDWDADVDRDLDIDKDRDGDLDSDRLGG,90% intact after 4h,True,Retro/D-amino acid
-CPKILKKCRRDSDCPGACICRGNGYCGNKRTRG,85% intact after 24h,True,Cyclization
-CPKILKKCGNKRTRGCPGACICRGNGYCGSGSDGGV,85% intact after 24h,True,Cyclization
-CGNKRTRGCRRDSDCPGACICRGNGYCGSGSDGGV,85% intact after 24h,True,Cyclization
-GVCRCVCRGDSCRCVCRR,80% intact after 24h,True,Cyclization
-GVCKCVCRRGVCRCVCRR,80% intact after 24h,True,Cyclization
-CGNKRTRGCRCVCRRGVCRCV,80% intact after 24h,True,Cyclization
-CGNKRTRGCRCVCRGDSCRCV,80% intact after 24h,True,Cyclization
-DOTA-DFC[YDWLTC]T,99% intact after 24h,True,Monomer/D-amino acid
-RPAZAGRNIEYDAPNILE-NH2,30% intact after 6h,True,Amino acid substitution
-RAZAGPRNIEYDAPNILE-NH2,15% intact after 6h,True,Amino acid substitution
-AZAGRPRNIEYDAPNILE-NH2,30% intact after 6h,True,Amino acid substitution
-L(PERG)DL(PERG)L(PERG)LDL(PERG)L(PERG)LDL(PERG)L(PERG)LDL(PERG)G,"100% intact after 0,5h",True,D-amino acid/perguanidinylation
-ACYL-SCKNTDSRCKARQLELNERTCRCDKPRR,100% intact after 1h,True,Acylation
-CTSC[XKLTQC]GTYEDHYLSLQRMP,50% intact after 24h,True,Cyclization
-GTSC[XKLTQC]GTPEDHYLSLQRZP,60% intact after 24h,True,Cyclization
-GRSC[XKLTQC]GTPEDHYLSLQRZP,60% intact after 24h,True,Cyclization
-ACSRYEVDCRGRGSACG,50% intact after 16h,True,Cyclization
-ACSRYEVDCRGRDASACG,100% intact after 16h,True,D-amino acid
-ACSRYEVDCRGRDSSACG,100% intact after 16h,True,D-amino acid
-ACSRYEVDCRGRDABASACG,100% intact after 16h,True,D-amino acid
-RLPSFSRVPLGPPR-NH2,100% intact after 6h,True,Retro-peptide
-LPSEFRVPLGPR-NH2,100% intact after 6h,True,Retro-peptide
-D[GLLKRIKTLL-NH2],90% intact after 4h,True,D-amino acid
-AC-VPKGWRFHEMSYS-NH2,100% intact after 24h,True,Retro-peptide
-QGLABUPYNLED(GALLOC)L,100% intact after 2h,True,N-Alloc
-HKQLPFYEEN,"81,2% intact after 6h",True,β-sheets
-IGF-GNQEQVSPL-PEG(3)-GPQGIAGQ-PEG(6)-A(N3),83% intact after 18h,True,PEGylation
-DGDGDKDVDKDVDKDVDKDVPDPDTDKDVDKDVDKDVDK-NH2,40% intact after 8h,True,D-amino acid
-VNWKK[SLGKS]IKVVK-NH2,"0% intact after 0,25h",True,Stapled
-VNWKKILGK[SIKVS]K-NH2,30% intact after 1h,True,Stapled
-V[SWKKS]LGKIIKVVL-NH2,"15% intact after 0,25h",True,Stapled
-VN[SKKIS]GK[SIKVS]K-NH2,"20% intact after 0,167h",True,Stapled
-VN[RKKILGKS]IKVVK-NH2,10% intact after 3h,True,Stapled
-VN[SKKIS]PK[SIKVS]K-NH2,80% intact after 3h,True,Stapled
-GFLSILKKVLPK[SXAHS]K-NH2,"20% intact after 0,167h",True,Stapled
-GFLS[SLKKS]LPKVXAHXK-NH2,20% intact after 1h,True,Stapled
-GFLS[SLKKS]LPK[SXAHS]K-NH2,90% intact after 3h,True,Stapled
-GF[RSILKKVS]PKVXAHXK-NH2,30% intact after 3h,True,Stapled
-GFLS[SLKKS]LGK[SXAHS]K-NH2,90% intact after 3h,True,Stapled
-GFLS[SLKKS]LAK[SXAHS]K-NH2,100% intact after 3h,True,Stapled
-DH-Β-AHTV(ME)EK-NH2,98% intact after 24h,True,Methylation
-DH-Β-AHT(ME)VEK-NH2,85% intact after 24h,True,Methylation
-DH-Β-AH(ME)TVEK-NH2,85% intact after 24h,True,Methylation
-DH-Β-AHT(ME)V(ME)EK-NH2,100% intact after 24h,True,Methylation
-DH-Β-AH(ME)T(ME)VEK-NH2,88% intact after 24h,True,Methylation
-DH-Β-AH(ME)T(ME)V(ME)EK-NH2,100% intact after 24h,True,Methylation
-C[GRC[TKSIPPIC]FPD],100% intact after 8h,True,Cyclization
-C[GRCTQAWPPIC]FPD],100% intact after 8h,True,Cyclization
-C[MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCRGAGAAGG],90% intact after 24h,True,Cyclization
-"YDAGFNLEPS(GLC)W(NH(3,5-BZL(CF3)2)",65% intact after 6h,True,Glycosylation
-"YDAGFNLEPLS(GLC)WNH(3,5-BZL(CF3)2)",100% intact after 6h,True,Glycosylation
-F(ME)F(ME)F(ME)F(ME),91%intact after 12h,True,Methylation
-CHAF(ME)F(ME)F(ME),57% intact after 12h,True,Methylation/Unnatural amino acid
-2NAIF(ME)F(ME)F(ME),86% intact after 12h,True,Methylation/Unnatural amino acid
-AC-C[CVDINNNC]-NH2,90% intact after 24h,True,Cyclization
-AC-RA[DCR2NAI-HPEN]-COOH,100% intact after 2h,True,Unnatural amino acid
-ZXEAAYQKFL,100% intact after 24h,True,β-amino acid
-CF-APLEPVYPGDNAK(E-PAM)PEQMAQYAADLRRYINMLTRQRY-NH2,90% intact after 150h,True,Lipidation
-CF-APLEPVYPGDNAK(PEG2)PEQMAQYAADLRRYINMLTRQRY-NH2,40% intact after 150h,True,PEGylation
-CF-APLEPVYPGDNAK(PE20)PEQMAQYAADLRRYINMLTRQRY-NH2,90% intact after 150h,True,PEGylation
+sequence,half_life_seconds,is_mod,modifications,experimental_characteristics
+AC-DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK-NH2,80 % intact after 48h,False,,human serum
+AC-GTCRTFGCTCKPLRCKAPRMVRCGETCMG-NH2,Degraded,False,,uPA 
+ILKKLLKKVKK-NH2,80% intact after 2h,False,,trypsin
+YGRKRRQRR,10% intact after 1h,False,,chymotrypsin
+REAGDEE,0% intact after 1h,False,,Asp-N
+LGTYTQDFNKFHTFPQTAIGVGAP-NH2,100% intact after 48h,False,,human serum
+GLLCYCRKGHCKRGERVRGTCGIRFLYCCPRR,100% intact after 1h,False,,human serum
+GLLAYARKGHAKRGERVRGTAGIRFLYAAPRR,"0% intact after 0,167h",False,,human serum
+CYCRKGHCKRGERVRGTCGIRFLYCCPRRGLL,"0% intact after 0,5h",False,,human serum
+ATCYCRTGRCATRESLSGVCEISGRLYRLCCR,100% intact after 1h,False,,trypsin
+ATSYCRTGRCATRESLSGVCEISGRLYRLCSR,100% intact after 1h,False,,trypsin
+ATAYCRTGRCATRESÇSGVCEISGRLYRLCAR,"0% intact after 0,033h",False,,trypsin
+LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,100% intact after 1h,False,,cathepsins
+PEHWSYGLEPG-NH2,5% intact after 1h,False,,human serum
+GGLRSLGRKILRAWLLYGPIIVPIIRIG,"0% intact after 0,5h",False,,trypsin
+CPKILKKCRRDSDCPGACICRGNGYCGSGSDGGV,85% intact after 24h,False,,human serum
+GVCRCVCRRGVCRCVCRR,80% intact after 24h,False,,human serum
+CGNKRTRGCRCVCRGDSCR,0% intact after 10h,False,,human serum
+RPRNIEYDAPNILE-OH,0% intact after 6h,False,,human serum
+RRRRRRRR-OH,0% intact after 5 min,False,,trypsin
+WMEWDREINNYTSLIHSLIEESQNQQEKNEQELL-NH2,0% intact after 4h,False,,chymotrypsin
+RPPGLPVRSFSPLR-NH2,0% intact after 6h,False,,human plasma
+RPGLPVRFESPL-NH2,0% intact after 6h,False,,human plasma
+KVTAMTCFLL‐NH2,100% intact after 3h,False,,human plasma
+HKQLPFFEED,41% intact after 6h,False,,trypsin
+NH2-YGRKARRRRRR-COOH,0% intact after 1h,False,,trypsin
+GGVPKILKKRRDSDPGARGNGYGSGSD,80% intact after 24h,False,,trypsin
+GGVPRILRRRRDSDPGAKGNGYGSGSD,80% intact after 24h,False,,trypsin
+GGVYGRRARRRRRDSDPGAKGNGYGSGSD,40% intact after 24h,False,,trypsin
+GGKVKVKVKVDPPTKVKVKVK-NH2,40% intact after 8h,False,,human serum
+VNWKKILGKIIKVVK-NH2,95% intact after 8h,False,,trypsin
+GFSILKKVLPKVXAHXK-NH2,0% intact after 1h,False,,trypsin
+DH-Β-AHTVEK-NH2,85% intact after 24h,False,,trypsin
+NH2-DKPKKKPPPPAGPPPPPPPPPGPPPPGP-28,100% intact after 24h,False,,human serum
+GR[CTQAWPPIC]FPD,75% intact after 8h,False,,human serum
+[CTQAWPPIC]FPDGR,75% intact after 8h,False,,human serum
+QAW,10% intact after 8h,False,,human serum
+"YDAGFMPLWNH(3,5-BZL(CF3)2)",40% intact after 6h,False,,rat plasma
+"YDAGFNIEPLWNH(3,5-BZL(CF3)2)",60% intact after 6h,False,,rat plasma
+(C(KRDGE)MDDPGRNPH,0% intact after 3h,False,,human serum
+FFFF,6% intact after 12h,False,,human serum
+C-KEEKDINNNVKKT-NH2,40% intact after 50h,False,,human plasma
+H-RA[CRFFC]-COOH,"0% intact after 0,5h",False,,human serum
+WXEAAYQRFL,"0% intact after 0,5h",False,,human serum
+AC-YLKGCWTKSIPPKPCFSR-NH2,"57,2% intact after 24h",True,Cyclization,human serum
+AC-GRCTKSIPPICFPD-NH2,Undegraded,True,Cyclization,N.A.
+DAPLWKNR,80% intact after 24h,True,Cyclization,trypsin
+AC-GTCNTPGCTCSWPVCIDGGRLMCGETCVG-NH2,80% intact after 2h,True,Cyclization,trypsin
+AC-GTCRTFGCTCKPLRCKAPRMVRCGETCMG-NH2,Degraded,True,Cyclization,uPA 
+N.A.,40% intact after 6h,True,Cyclization,human serum
+PRYTIAALLSPTSTSQSLVVTP,N.A.,True,Cyclization,proteinase K
+KKLKLFKKLQ,100% intact after 2h,True,Cyclization,human serum
+KLKKKFKKLQ,100% intact after 2h,True,Cyclization,human serum
+ΒAΒAKLVFF-PEG,N.A.,True,PEGylation,chymotrypsin
+FDF,42% intact after 24h,True,D-amino acid,proteinase K
+DFF,92% intact after 24h,True,D-amino acid,proteinase K
+FF-GLYCOSIDE,57% intact after 24h,True,Glycosylation,proteinase K
+FRGDDF,15% intact after 24h,True,D-amino acid,proteinase K
+FRGD-GLUCOSAMINE,50% intact after 24h,True,Glycosylation,proteinase K
+H2N-ITFCDLLCYYGKKK-CONH2,100% intact after 3h,True,Stapled,chymotrypsin
+KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH2,100% intact after 1h,True,β-sheets,human neutrophil elastase
+POLYMER-YGRKRRQRR,95% intact after 1h,True,Polymer,pronase
+NANOPARTICLE-YGRKRRQRR,95% intact after 1h,True,Nanoparticle,pronase
+REXGDGXE,"100% intact after 4,5h",True,Cyclization,Asp-N
+GRKKRRQRRRPQDTC(ACM)RQTFRSH,75% intact after 6h,True,Unnatural amino acid,human serum
+GRKKRRQRRRPQ D52THFRTFRSHSDYRRI67,25% intact after 6h,True,Unnatural amino acid,human serum
+CAQKGEYCSVYLQCCDPYHCTQPVIGGICA,95% intact after 4h,True,PseudoCyclization,chymotrypsin
+N.A.,92% intact after 2h,True,HA = 6-aminohexanoic acid,trypsin
+N.A.,99% intact after 2h,True,XCHA =cis-4-aminocyclohexanecarboxylic acid,trypsin
+N.A.,97% intact after 2h,True,XTHA = trans-4-aminocyclohexanecarboxylic acid,trypsin
+N.A.,97% intact after 2h,True,XCHAA = cis-4-aminocyclohexane acetic acid,trypsin
+N.A.,33% intact after 2h,True,XTHAA = transN.A.4N.A.aminocyclohexane acetic acid,trypsin
+TDVVTNA-(12-ADA),34% intact after 2h,True,Lipidation,human serum
+DAP-DVVDTDNDA-(12-GDA),100% intact after 24h,True,Lipidation,human serum
+LGTYTQDFNK(PKKKRKVEDPGVGFAPKKKRKVEDPGVGFA)FHTFPQTAIGVGAP-NH2,100% intact after 48h,True,Branched,human serum
+(KKRKAPKKKRKFA)KFHTFPQTAIGVGAP-NH2,100% intact after 48h,True,Branched,human serum
+D(VRLPPP)3,95% intcat after 40h,True,D-amino acid,human serum
+GLURPRLSHKGPMPF,27% intact after 1h,True,Unnatural amino acid,rat plasma
+GLURPRLSHKGPNLEPDIP,49% intact after 3h,True,Unnatural amino acid,rat plasma
+GLURPRLSHKGPNLEPBIP,67% intact after 1h,True,Unnatural amino acid,rat plasma
+GLURPRLSHKGPNLEP1NAL,59% intact after 2h,True,Unnatural amino acid,rat plasma
+GLURPRLSHKGPNLEP2NAL,84% intact after 1h,True,Unnatural amino acid,rat plasma
+GLURPRLSHKGPNLEPCHA,50% intact after 2h,True,Unnatural amino acid,rat plasma
+GLURPRLSHKGPNLEPW,21% intact after 1h,True,Unnatural amino acid,rat plasma
+GLURPRLSHKGPNLEP(4-BROMO)F,47% intact after 1h,True,Unnatural amino acid,rat plasma
+"GLURPRLSHKGPNLEP(2,4,5-TRIFLUORO)F",35% intact after 1h,True,Unnatural amino acid,rat plasma
+GLURPRLSHKGPNLEP(4-NITRO)F,35% intact after 1h,True,Unnatural amino acid,rat plasma
+AC-GΔFMRKΔFMHKΔFMWA-NH2,100% intact after 1h,True,Unnatural amino acid,trypsin
+AC-GFMRKFMHKFMWA-NH2,0% intact after 1h,True,Unnatural amino acid,trypsin
+AC-GUMRKUMHKUMWA-NH2,0% intact after 1h,True,Unnatural amino acid,chymotrypsin
+CYCRKGHCKRGERVRGTCGIRFLYCCPRRGLL,100% intact after 1h,True,Cyclization,human serum
+GLPSCNNSCQSHSDCASHCICTFRGCGAVN,95% intact after 24h,True,Cyclization,human serum
+SCNNSCQSHSDCASHCICTFRGCGAVN,88% intact after 24h,True,Linear,human serum
+GLPSCGGSCFGGCWOGCSCYARTCFRD,90% intact after 24h,True,Cyclization,human serum
+SCGGSCFGGCWOGCSCYARTCFRD ,87% intact after 24h,True,linear,human serum
+GCCSDPRCNYDHPEICGKGKGK,74% intact after 24h,True,Cyclization,human serum
+GCCSDPRCNYDHPEICGVGVGV,69% intact after 24h,True,Cyclization,human serum
+GCCSDPRCNYDHPEICGEGEGE,92% intact after 24h,True,Cyclization,human serum
+ISQVNEKINWSLAFIRKSDE,55% intact after 4h,True,NMEGylation,human serum
+NMEG1-G-ISQVNEKINWSLAFIRKSDE,75% intact after 4h,True,NMEGylation,human serum
+NMEG3-ISQVNEKINWSLAFIRKSDE,75% intact after 4h,True,NMEGylation,human serum
+ISQVNEKINWSLAFIRKSDE-NMEG,70% intact after 4h,True,NMEGylation,human serum
+NMEG1-ISQVNEKINWSLAFIRKSDENMEG1,60% intact after 4h,True,NMEGylation,human serum
+PEHWS(ME)YDKG(TBU)LRP-NHET,20% intact after 2h,True,D-amino acid/Methylation,human serum
+PEHWS(ME)YDK(SAR)LRP-NHET,40% intact after 6h,True,D-amino acid/Methylation/Unnatural amino acid,human serum
+PEHWS(ME)YDELRP-NHET,55% intact after 6h,True,D-amino acid/Methylation,human serum
+DNIPNVALYDSFADS-NH2,80% intact after 2h,True,D-amino acid,human serum
+DSNIPNVALYDSFADYDH-NH2,80% intact after 2h,True,D-amino acid,human serum
+DSNIPPLYHYPFAYDH-NH2,50% intact after 2h,True,D-amino acid,human serum
+DHDSNIPNVALYDSFAYDHMEW-NH2,48% intact after 2h,True,D-amino acid,human serum
+MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,90% intact after 24h,True,Disulfide-bond,human serum
+MCMPCFTTDHQMARRCDDCCGGRGRGKCYGPQCLCR,90% intact after 24h,True,Disulfide-bond,human serum
+MCMPCFTTDHQMARRCDDCCGGRGRGKCWGPQCLCR,90% intact after 24h,True,Disulfide-bond,human serum
+GGDLDRDSDLDGDRDKDIDLDRDVDADWDLDLDYDGDPDIDIDVDPDIDIDRIG,90% intact after 4h,True,D-amino acid,trypsin
+GDIDRDIDIDPDVDIDIDPDGDYDLDLDWDADVDRDLDIDKDRDGDLDSDRLGG,90% intact after 4h,True,Retro/D-amino acid,proteinase XXV
+CPKILKKCRRDSDCPGACICRGNGYCGNKRTRG,85% intact after 24h,True,Cyclization,human serum
+CPKILKKCGNKRTRGCPGACICRGNGYCGSGSDGGV,85% intact after 24h,True,Cyclization,human serum
+CGNKRTRGCRRDSDCPGACICRGNGYCGSGSDGGV,85% intact after 24h,True,Cyclization,human serum
+GVCRCVCRGDSCRCVCRR,80% intact after 24h,True,Cyclization,human serum
+GVCKCVCRRGVCRCVCRR,80% intact after 24h,True,Cyclization,human serum
+CGNKRTRGCRCVCRRGVCRCV,80% intact after 24h,True,Cyclization,human serum
+CGNKRTRGCRCVCRGDSCRCV,80% intact after 24h,True,Cyclization,human serum
+DOTA-DFC[YDWLTC]T,99% intact after 24h,True,Monomer/D-amino acid,human serum
+DOTA-DFC[YDWLTC]T,99% intact after 24h,True,Dimer/D-amino acid,human serum
+RPAZAGRNIEYDAPNILE-NH2,30% intact after 6h,True,Amino acid substitution,human serum
+RAZAGPRNIEYDAPNILE-NH2,15% intact after 6h,True,Amino acid substitution,human serum
+AZAGRPRNIEYDAPNILE-NH2,30% intact after 6h,True,Amino acid substitution,human serum
+L(PERG)DL(PERG)L(PERG)LDL(PERG)L(PERG)LDL(PERG)L(PERG)LDL(PERG)G,"100% intact after 0,5h",True,D-amino acid/perguanidinylation,trypsin
+CTSC[XKLTQC]GTYEDHYLSLQRMP,50% intact after 24h,True,Cyclization,human serum
+GTSC[XKLTQC]GTPEDHYLSLQRZP,60% intact after 24h,True,Cyclization,human serum
+GRSC[XKLTQC]GTPEDHYLSLQRZP,60% intact after 24h,True,Cyclization,human serum
+ACSRYEVDCRGRGSACG,50% intact after 16h,True,Cyclization,mouse plasma
+ACSRYEVDCRGRDASACG,100% intact after 16h,True,D-amino acid,mouse plasma
+ACSRYEVDCRGRDSSACG,100% intact after 16h,True,D-amino acid,mouse plasma
+ACSRYEVDCRGRDABASACG,100% intact after 16h,True,D-amino acid,mouse plasma
+RLPSFSRVPLGPPR-NH2,100% intact after 6h,True,Retro-peptide,human plasma
+LPSEFRVPLGPR-NH2,100% intact after 6h,True,Retro-peptide,human plasma
+KVTAMTCFLL‐NH2,100% intact after 3h,True,Homodimer,human plasma
+D[GLLKRIKTLL-NH2],90% intact after 4h,True,D-amino acid,human serum
+QGLABUPYNLED(GALLOC)L,100% intact after 2h,True,N-Alloc,enzymes
+TPP6-YRFK-NH2,100% intact after 17h,True,Amino acid substitution/D-amino acid,trypsin
+HKQLPFYEEN,"81,2% intact after 6h",True,β-sheets,trypsin
+IGF-GNQEQVSPL-PEG(3)-GPQGIAGQ-PEG(6)-A(N3),83% intact after 18h,True,PEGylation,human serum
+DGDGDKDVDKDVDKDVDKDVPDPDTDKDVDKDVDKDVDK-NH2,40% intact after 8h,True,D-amino acid,human serum
+VNWKK[SLGKS]IKVVK-NH2,"0% intact after 0,25h",True,Stapled,trypsin
+VNWKKILGK[SIKVS]K-NH2,30% intact after 1h,True,Stapled,trypsin
+V[SWKKS]LGKIIKVVL-NH2,"15% intact after 0,25h",True,Stapled,trypsin
+VN[SKKIS]GK[SIKVS]K-NH2,"20% intact after 0,167h",True,Stapled,trypsin
+GFLSILKKVLPK[SXAHS]K-NH2,"20% intact after 0,167h",True,Stapled,trypsin
+GFLS[SLKKS]LPKVXAHXK-NH2,20% intact after 1h,True,Stapled,trypsin
+GFLS[SLKKS]LPK[SXAHS]K-NH2,90% intact after 3h,True,Stapled,trypsin
+GFLS[SLKKS]LGK[SXAHS]K-NH2,90% intact after 3h,True,Stapled,trypsin
+GFLS[SLKKS]LAK[SXAHS]K-NH2,100% intact after 3h,True,Stapled,trypsin
+DH-Β-AHTV(ME)EK-NH2,98% intact after 24h,True,Methylation,trypsin
+DH-Β-AHT(ME)VEK-NH2,85% intact after 24h,True,Methylation,trypsin
+DH-Β-AHT(ME)V(ME)EK-NH2,100% intact after 24h,True,Methylation,trypsin
+DH-Β-AH(ME)T(ME)VEK-NH2,88% intact after 24h,True,Methylation,trypsin
+DH-Β-AH(ME)T(ME)V(ME)EK-NH2,100% intact after 24h,True,Methylation,trypsin
+C[GRC[TKSIPPIC]FPD],100% intact after 8h,True,Cyclization,human serum
+C[GRCTQAWPPIC]FPD],100% intact after 8h,True,Cyclization,human serum
+MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,70% intact after 24h,True,Amino acid substitution,human serum
+"YDAGFNLEPS(GLC)W(NH(3,5-BZL(CF3)2)",65% intact after 6h,True,Glycosylation,rat plasma
+"YDAGFNLEPLS(GLC)WNH(3,5-BZL(CF3)2)",100% intact after 6h,True,Glycosylation,rat plasma
+(C(KRDGE)MDDPGRNPH,100% intact after 48h,True,Pseudopeptide,human serum
+F(ME)F(ME)F(ME)F(ME),91%intact after 12h,True,Methylation,human serum
+CHAF(ME)F(ME)F(ME),57% intact after 12h,True,Methylation/Unnatural amino acid,human serum
+2NAIF(ME)F(ME)F(ME),86% intact after 12h,True,Methylation/Unnatural amino acid,human serum
+AC-C[CVDINNNC]-NH2,90% intact after 24h,True,Cyclization,chymotrypsin
+AC-RA[DCR2NAI-HPEN]-COOH,100% intact after 2h,True,Unnatural amino acid,human serum
+WXEAAYQRFL,100% intact after 24h,True,α-amino acid,human serum
+ZXEAAYQKFL,100% intact after 24h,True,β-amino acid,human serum
+CF-APLEPVYPGDNAK(E-PAM)PEQMAQYAADLRRYINMLTRQRY-NH2,90% intact after 150h,True,Lipidation,human plasma
+CF-APLEPVYPGDNAK(PEG2)PEQMAQYAADLRRYINMLTRQRY-NH2,40% intact after 150h,True,PEGylation,human plasma
+CF-APLEPVYPGDNAK(PE20)PEQMAQYAADLRRYINMLTRQRY-NH2,90% intact after 150h,True,PEGylation,human plasma
