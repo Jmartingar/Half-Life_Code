@@ -1,58 +1,1877 @@
 sequence,half_life,is_mod,modifications,experimental_characteristics
+AAAMSQVTN,>10 hour,False,,E_coli
+AAAMSQVTN,>20 hour,False,,Yeast
 AACEVAKNLNESLIDLQELGKYEQYIKW,>10 hour,False,,E_coli
+AACEVAKNLNESLIDLQELGKYEQYIKW,>20 hour,False,,Yeast
+AAGAVVNDL,>20 hour,False,,Yeast
+AAGAVVNDL,>10 hour,False,,E_coli
+AAHLIDALYAEFLGGRVLTT,>20 hour,False,,Yeast
+AAHLIDALYAEFLGGRVLTT,>10 hour,False,,E_coli
+AAHLIDALYAEFLGGRVLTTPVVHRALFYASAVLRQPFLAGVPSA,>20 hour,False,,Yeast
+AAHLIDALYAEFLGGRVLTTPVVHRALFYASAVLRQPFLAGVPSA,>10 hour,False,,E_coli
+AAKAWKKAKAWKKAKWWKKAA,>10 hour,False,,E_coli
+AAKAWKKAKAWKKAKWWKKAA,>20 hour,False,,Yeast
+AALGDTAWDFGSIGGVFNSIGRAVHQVFGGAFRTL,>20 hour,False,,Yeast
+AALGDTAWDFGSIGGVFNSIGRAVHQVFGGAFRTL,>10 hour,False,,E_coli
+AAQRRGRIGRNPSQVGD,>20 hour,False,,Yeast
+AAQRRGRIGRNPSQVGD,>10 hour,False,,E_coli
+AAQRRGRVGRNPNQVGD,>20 hour,False,,Yeast
+AAQRRGRVGRNPNQVGD,>10 hour,False,,E_coli
+AAWWAGIKQEF,>20 hour,False,,Yeast
+AAWWAGIKQEF,>10 hour,False,,E_coli
+AAYFLLKLAGRW,>20 hour,False,,Yeast
+AAYFLLKLAGRW,>10 hour,False,,E_coli
+ACAPWGNTWCGGK,>20 hour,False,,Yeast
+ACAPWGNTWCGGK,>10 hour,False,,E_coli
+ACAWAGIKQEF,>10 hour,False,,E_coli
+ACAWAGIKQEF,>20 hour,False,,Yeast
+ACELKWESEFWRWTEQLA,>10 hour,False,,E_coli
+ACELKWESEFWRWTEQLA,>20 hour,False,,Yeast
+ACFAWGNTWCGGK,>20 hour,False,,Yeast
+ACFAWGNTWCGGK,>10 hour,False,,E_coli
+ACFPAGNTWCGGK,>20 hour,False,,Yeast
+ACFPAGNTWCGGK,>10 hour,False,,E_coli
+ACFPWANTWCGGK,>10 hour,False,,E_coli
+ACFPWANTWCGGK,>20 hour,False,,Yeast
+ACFPWGATWCGGK,>10 hour,False,,E_coli
+ACFPWGATWCGGK,>20 hour,False,,Yeast
 ACFPWGKEYCGGK,>10 hour,False,,E_coli
+ACFPWGKEYCGGK,>20 hour,False,,Yeast
+ACFPWGNAWCGGK,>10 hour,False,,E_coli
+ACFPWGNAWCGGK,>20 hour,False,,Yeast
+ACFPWGNQWCGGK,>20 hour,False,,Yeast
 ACFPWGNQWCGGK,>10 hour,False,,E_coli
+ACFPWGNTACGGK,>10 hour,False,,E_coli
+ACFPWGNTACGGK,>20 hour,False,,Yeast
+ACFPWGNTWCGGK,>20 hour,False,,Yeast
+ACFPWGNTWCGGK,>10 hour,False,,E_coli
+ACGWAGIKQEF,>20 hour,True, Amidation,Yeast
+ACGWAGIKQEF,>10 hour,True, Amidation,E_coli
+ACKFWW,>20 hour,True, Amidation,Yeast
+ACKFWW,>10 hour,True, Amidation,E_coli
+ACWAAGIKQEF,>20 hour,False,,Yeast
+ACWAAGIKQEF,>10 hour,False,,E_coli
+ACWGAGIKQEF,>20 hour,True, Amidation,Yeast
+ACWGAGIKQEF,>10 hour,True, Amidation,E_coli
+ACWWAAIKQEF,>10 hour,False,,E_coli
+ACWWAAIKQEF,>20 hour,False,,Yeast
+ACWWAG,>10 hour,True, Amidation,E_coli
+ACWWAG,>20 hour,True, Amidation,Yeast
+ACWWAGAKQEF,>20 hour,False,,Yeast
+ACWWAGAKQEF,>10 hour,False,,E_coli
+ACWWAGIAQEF,>20 hour,False,,Yeast
+ACWWAGIAQEF,>10 hour,False,,E_coli
+ACWWAGIKAEF,>20 hour,False,,Yeast
+ACWWAGIKAEF,>10 hour,False,,E_coli
+ACWWAGIKQAF,>20 hour,False,,Yeast
+ACWWAGIKQAF,>10 hour,False,,E_coli
+ACWWAGIKQEA,>20 hour,False,,Yeast
+ACWWAGIKQEA,>10 hour,False,,E_coli
+ACWWAGIRQEF,>10 hour,True, Amidation,E_coli
+ACWWAGIRQEF,>20 hour,True, Amidation,Yeast
+ACYCRIPACIAGERRYGTCIYQGRLWAFCC,>10 hour,True, Cyclization(Cys2 and Cys30).,E_coli
+ACYCRIPACIAGERRYGTCIYQGRLWAFCC,>20 hour,True, Cyclization(Cys2 and Cys30).,Yeast
+ADLEVVAATFVLVA,>20 hour,False,,Yeast
+ADLEVVAATFVLVA,>10 hour,False,,E_coli
+ADLEVVAATHVLVA,>10 hour,False,,E_coli
+ADLEVVAATHVLVA,>20 hour,False,,Yeast
+ADLEVVAATYAAAA,>10 hour,False,,E_coli
+ADLEVVAATYAAAA,>20 hour,False,,Yeast
+ADLEVVAATYKKKK,>20 hour,False,,Yeast
+ADLEVVAATYKKKK,>10 hour,False,,E_coli
+ADLEVVAATYV,>10 hour,False,,E_coli
+ADLEVVAATYV,>20 hour,False,,Yeast
+ADLEVVAATYVDDA,>10 hour,False,,E_coli
+ADLEVVAATYVDDA,>20 hour,False,,Yeast
+ADLEVVAATYVDDD,>10 hour,False,,E_coli
+ADLEVVAATYVDDD,>20 hour,False,,Yeast
+ADLEVVAATYVDVA,>20 hour,False,,Yeast
+ADLEVVAATYVDVA,>10 hour,False,,E_coli
+ADLEVVAATYVDVD,>10 hour,False,,E_coli
+ADLEVVAATYVDVD,>20 hour,False,,Yeast
+ADLEVVAATYVKKK,>20 hour,False,,Yeast
+ADLEVVAATYVKKK,>10 hour,False,,E_coli
+ADLEVVAATYVLDA,>20 hour,False,,Yeast
+ADLEVVAATYVLDA,>10 hour,False,,E_coli
+ADLEVVAATYVLDD,>10 hour,False,,E_coli
+ADLEVVAATYVLDD,>20 hour,False,,Yeast
+ADLEVVAATYVLVA,>20 hour,False,,Yeast
+ADLEVVAATYVLVA,>10 hour,False,,E_coli
+ADLEVVAATYVLVD,>10 hour,False,,E_coli
+ADLEVVAATYVLVD,>20 hour,False,,Yeast
+ADVILMCFSIDSPDSLENI,>20 hour,False,,Yeast
+ADVILMCFSIDSPDSLENI,>10 hour,False,,E_coli
+AEAASQVTNTATIM,>20 hour,False,,Yeast
+AEAASQVTNTATIM,>10 hour,False,,E_coli
+AEAIPMSIPPEVKFNKPFVF,>10 hour,False,,E_coli
+AEAIPMSIPPEVKFNKPFVF,>20 hour,False,,Yeast
+AEAMAQVTN,>20 hour,False,,Yeast
+AEAMAQVTN,>10 hour,False,,E_coli
+AEAMSQVANTATIM,>10 hour,False,,E_coli
+AEAMSQVANTATIM,>20 hour,False,,Yeast
+AEAMSQVTN,>10 hour,False,,E_coli
+AEAMSQVTN,>20 hour,False,,Yeast
+AEAMSQVTNTATIM,>10 hour,False,,E_coli
+AEAMSQVTNTATIM,>20 hour,False,,Yeast
+AEASQVTNTATIM,>10 hour,False,,E_coli
+AEASQVTNTATIM,>20 hour,False,,Yeast
+AECVVSCSMSYTKA,>20 hour,False,,Yeast
+AECVVSCSMSYTKA,>10 hour,False,,E_coli
+AEDWVRWI,>10 hour,False,,E_coli
+AEDWVRWI,>20 hour,False,,Yeast
+AEEASKKAEEASKKAEEASKKAEEASKKAEEASKKXX,>10 hour,True,"Acetylation, Amidation",E_coli
+AEEASKKAEEASKKAEEASKKAEEASKKAEEASKKXX,>20 hour,True,"Acetylation, Amidation",Yeast
+AEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+AEEQQKKNEEELKKLEX,>20 hour,True,"Acetylation, Amidation",Yeast
+AEPERRNIKYL,>10 hour,False,,E_coli
+AEPERRNIKYL,>20 hour,False,,Yeast
+AETVESCLAKPHTEN,>20 hour,True,"Alkylated(C18), Amidation",Yeast
+AETVESCLAKPHTEN,>10 hour,True,"Alkylated(C18), Amidation",E_coli
+AFLGWIGAIVSTALPQWR,>20 hour,False,,Yeast
+AFLGWIGAIVSTALPQWR,>10 hour,False,,E_coli
+AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL,>10 hour,False,,E_coli
+AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL,>20 hour,False,,Yeast
+AGAGTGATAIGMVTQYHQVL,>20 hour,False,,Yeast
+AGAGTGATAIGMVTQYHQVL,>10 hour,False,,E_coli
+AGALMFAWLLLGLQGIFN,>20 hour,False,,Yeast
+AGALMFAWLLLGLQGIFN,>10 hour,False,,E_coli
+AGAVVNDL,>20 hour,False,,Yeast
+AGAVVNDL,>10 hour,False,,E_coli
+AGDDQGLDKCVPNSKEK,>20 hour,False,,Yeast
+AGDDQGLDKCVPNSKEK,>10 hour,False,,E_coli
+AGERIVDIIA,>20 hour,True, Amidation,Yeast
+AGERIVDIIA,>10 hour,True, Amidation,E_coli
+AGERIVDIIATDIQ,>10 hour,True, Amidation,E_coli
+AGERIVDIIATDIQ,>20 hour,True, Amidation,Yeast
+AGHNKVGSLQYLALA,>20 hour,False,,Yeast
+AGHNKVGSLQYLALA,>10 hour,False,,E_coli
+AGVKDGKLDF,>20 hour,False,,Yeast
+AGVKDGKLDF,>10 hour,False,,E_coli
+AGVSGHGQHGVHG,>10 hour,False,,E_coli
+AGVSGHGQHGVHG,>20 hour,False,,Yeast
+AIGSILGALAKGLPTLISWIKNR,>10 hour,True, Amidation,E_coli
+AIGSILGALAKGLPTLISWIKNR,>20 hour,True, Amidation,Yeast
+AIGWGDPITHWSHGQNRW,>20 hour,False,,Yeast
+AIGWGDPITHWSHGQNRW,>10 hour,False,,E_coli
+AIIRILQQLLFIHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+AIIRILQQLLFIHFRIGRRRRRRRR,>20 hour,True,"Acetylation, Amidation",Yeast
+AIKWEYVLLLFLL,>20 hour,False,,Yeast
+AIKWEYVLLLFLL,>10 hour,False,,E_coli
+AIPCGESCVWIPCISAAIGCSCKNKVCYR,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+AIPCGESCVWIPCISAAIGCSCKNKVCYR,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+AKDLEVVCSTYVLVEA,>20 hour,False,,Yeast
+AKDLEVVCSTYVLVEA,>10 hour,False,,E_coli
+AKDLEVVTSTYVLVEA,>20 hour,False,,Yeast
+AKDLEVVTSTYVLVEA,>10 hour,False,,E_coli
+AKIXQSLXFIXKSDXLLHNV,>20 hour,True,Acetylation,Yeast
+AKIXQSLXFIXKSDXLLHNV,>10 hour,True,Acetylation,E_coli
+AKKAAKKAKKAAKKAKKAAKK,>20 hour,False,,Yeast
+AKKAAKKAKKAAKKAKKAAKK,>10 hour,False,,E_coli
+AKKAAKKAKKAAKKAKKWAKK,>20 hour,False,,Yeast
+AKKAAKKAKKAAKKAKKWAKK,>10 hour,False,,E_coli
+AKKAAKKAKKAAKKIEKAAKK,>20 hour,False,,Yeast
+AKKAAKKAKKAAKKIEKAAKK,>10 hour,False,,E_coli
+AKKAKKKAKKAAKKIKKKAKK,>10 hour,False,,E_coli
+AKKAKKKAKKAAKKIKKKAKK,>20 hour,False,,Yeast
+AKKAWKKAKKAAKKAKKWAKK,>20 hour,False,,Yeast
+AKKAWKKAKKAAKKAKKWAKK,>10 hour,False,,E_coli
+AKLKVVAATYVLKK,>20 hour,False,,Yeast
+AKLKVVAATYVLKK,>10 hour,False,,E_coli
+AKTIRLESEVTAIKNALKKTNEAVSTLGNGVRVLATAVRELKDFVSKN,>20 hour,False,,Yeast
+AKTIRLESEVTAIKNALKKTNEAVSTLGNGVRVLATAVRELKDFVSKN,>10 hour,False,,E_coli
+AKVNGQSGRMEFFWTILK,>10 hour,False,,E_coli
+AKVNGQSGRMEFFWTILK,>20 hour,False,,Yeast
+AKVTMTCSAS,>10 hour,False,,E_coli
+AKVTMTCSAS,>20 hour,False,,Yeast
+ALAALITPKKIKPPL,>20 hour,False,,Yeast
+ALAALITPKKIKPPL,>10 hour,False,,E_coli
+ALDPIDISIELNKAKSDLEESKEWIRRSNQKLDSI,>20 hour,True,"Acetylation, Amidation",Yeast
+ALDPIDISIELNKAKSDLEESKEWIRRSNQKLDSI,>10 hour,True,"Acetylation, Amidation",E_coli
+ALHKTMLKKLGTMAL,>10 hour,True, Amidation,E_coli
+ALHKTMLKKLGTMAL,>20 hour,True, Amidation,Yeast
+ALNCYWPLNDYGFYTTTGIGYQPYRVVVLSFEL,>10 hour,False,,E_coli
+ALNCYWPLNDYGFYTTTGIGYQPYRVVVLSFEL,>20 hour,False,,Yeast
+ALPQWRIYSYAGDNIVTA,>20 hour,False,,Yeast
+ALPQWRIYSYAGDNIVTA,>10 hour,False,,E_coli
+ALQELLGEYIQWLKDGGPSSGRPPPS,>10 hour,True,"Acetylation, Amidation",E_coli
+ALQELLGEYIQWLKDGGPSSGRPPPS,>20 hour,True,"Acetylation, Amidation",Yeast
+ALQELLGQWLKDGGPSSGRPPPS,>10 hour,True,"Acetylation, Amidation",E_coli
+ALQELLGQWLKDGGPSSGRPPPS,>20 hour,True,"Acetylation, Amidation",Yeast
+ALWDTLLKKVLKAAAKAALDAVLVGANA,>20 hour,False,,Yeast
+ALWDTLLKKVLKAAAKAALDAVLVGANA,>10 hour,False,,E_coli
+ALWKTLLKKVLKAAAK,>20 hour,True, Amidation,Yeast
+ALWKTLLKKVLKAAAK,>10 hour,True, Amidation,E_coli
+ALWKTLLKKVLKAAAKAALKAVLVGANA,>20 hour,False,,Yeast
+ALWKTLLKKVLKAAAKAALKAVLVGANA,>10 hour,False,,E_coli
+ALWKTLLKKVLKAAAKAALNAVLVGANA,>10 hour,False,,E_coli
+ALWKTLLKKVLKAAAKAALNAVLVGANA,>20 hour,False,,Yeast
+ALWKTMLKKLGT,>20 hour,True, Amidation,Yeast
+ALWKTMLKKLGT,>10 hour,True, Amidation,E_coli
+ALWKTMLKKLGTM,>20 hour,True, Amidation,Yeast
+ALWKTMLKKLGTM,>10 hour,True, Amidation,E_coli
+ALWKTMLKKLGTMA,>10 hour,True, Amidation,E_coli
+ALWKTMLKKLGTMA,>20 hour,True, Amidation,Yeast
+ALWKTMLKKLGTMALHAGK,>20 hour,True, Amidation,Yeast
+ALWKTMLKKLGTMALHAGK,>10 hour,True, Amidation,E_coli
+ALWKTMLKKLGTMALHAGKAALGAAADTI,>20 hour,True, Amidation,Yeast
+ALWKTMLKKLGTMALHAGKAALGAAADTI,>10 hour,True, Amidation,E_coli
+ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ,>10 hour,False,,E_coli
+ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ,>20 hour,False,,Yeast
+ALWMTLLKKVLKAAAKAALNAVLVGANA,>20 hour,False,,Yeast
+ALWMTLLKKVLKAAAKAALNAVLVGANA,>10 hour,True, Amidation,E_coli
+ALWTTMLKKLGKMALHAGKAALGAAADTI,>10 hour,True, Amidation,E_coli
+ALWTTMLKKLGKMALHAGKAALGAAADTI,>20 hour,True, Amidation,Yeast
+ALXKTMLKKLGTMAL,>10 hour,True, Amidation,E_coli
+ALXKTMLKKLGTMAL,>20 hour,True, Amidation,Yeast
+ANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQ,>10 hour,False,,E_coli
+ANQFNSAIGKIQDSLSSTASALGKLQDVVNQNAQALNTLVKQ,>20 hour,False,,Yeast
+APKAMRLLRRLLRRLLR,>10 hour,False,,E_coli
+APKAMRLLRRLLRRLLR,>20 hour,False,,Yeast
+AQNAISTTFPYT,>10 hour,False,,E_coli
+AQNAISTTFPYT,>20 hour,False,,Yeast
+AQQLLFIHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+AQQLLFIHFRIGRRRRRRRR,>20 hour,True,"Acetylation, Amidation",Yeast
+ARILMRIRQMMT,>20 hour,False,,Yeast
+ARILMRIRQMMT,>10 hour,False,,E_coli
+ARRAKRRARRAARRARRKARR,>20 hour,False,,Yeast
+ARRAKRRARRAARRARRKARR,>10 hour,False,,E_coli
+ARRAKRRARRAKRRARRKKRR,>10 hour,False,,E_coli
+ARRAKRRARRAKRRARRKKRR,>20 hour,False,,Yeast
+ARRARRRARRAARRARRGARR,>20 hour,False,,Yeast
+ARRARRRARRAARRARRGARR,>10 hour,False,,E_coli
+ARRARRRARRAARRARRWARR,>10 hour,False,,E_coli
+ARRARRRARRAARRARRWARR,>20 hour,False,,Yeast
+ARRAWRRARRAARRARRAARR,>20 hour,False,,Yeast
+ARRAWRRARRAARRARRAARR,>10 hour,False,,E_coli
+ASCDKCQLKG,>10 hour,True, Amidation,E_coli
+ASCDKCQLKG,>20 hour,True, Amidation,Yeast
+ASCDKCQLKGEAMHG,>10 hour,False,,E_coli
+ASCDKCQLKGEAMHG,>20 hour,False,,Yeast
+ASNYWILEYLWKVPFDFW,>20 hour,False,,Yeast
+ASNYWILEYLWKVPFDFW,>10 hour,False,,E_coli
+ASWWAGIKQEF,>10 hour,True, Amidation,E_coli
+ASWWAGIKQEF,>20 hour,True, Amidation,Yeast
+ATAGWTFGAGAALQIPFAMQMAY,>20 hour,False,,Yeast
+ATAGWTFGAGAALQIPFAMQMAY,>10 hour,False,,E_coli
+ATCYCRRGRCATRESLSGVCEISGRLYRLCCR,>10 hour,False,,E_coli
+ATCYCRRGRCATRESLSGVCEISGRLYRLCCR,>20 hour,False,,Yeast
+ATCYCRTGRCATRESLSGVCEIRGRLYRLCCR,>10 hour,False,,E_coli
+ATCYCRTGRCATRESLSGVCEIRGRLYRLCCR,>20 hour,False,,Yeast
+ATCYCRTGRCATRESLSGVCEISGRLYRLCCR,>10 hour,False,,E_coli
+ATCYCRTGRCATRESLSGVCEISGRLYRLCCR,>20 hour,False,,Yeast
+ATCYCRTGRCATRESLSGVCRISGRLYRLCCR,>10 hour,False,,E_coli
+ATCYCRTGRCATRESLSGVCRISGRLYRLCCR,>20 hour,False,,Yeast
+ATCYCRTGRCATRESRSGVCEISGRLYRLCCR,>10 hour,False,,E_coli
+ATCYCRTGRCATRESRSGVCEISGRLYRLCCR,>20 hour,False,,Yeast
+ATHQEAIEKVTGALKINNLR,>10 hour,False,,E_coli
+ATHQEAIEKVTGALKINNLR,>20 hour,False,,Yeast
+ATKALTEVIPLTEEAEC,>20 hour,False,,Yeast
+ATKALTEVIPLTEEAEC,>10 hour,False,,E_coli
+ATSSANSKA,>10 hour,False,,E_coli
+ATSSANSKA,>20 hour,False,,Yeast
+AVACELKWESEFWRWTEQ,>10 hour,False,,E_coli
+AVACELKWESEFWRWTEQ,>20 hour,False,,Yeast
+AVASVPRARGKYWWG,>20 hour,True,"Alkylated(C18), Amidation",Yeast
+AVASVPRARGKYWWG,>10 hour,True,"Alkylated(C18), Amidation",E_coli
+AVKRVGRRLKKLARKIARLGVAF,>20 hour,False,,Yeast
+AVKRVGRRLKKLARKIARLGVAF,>10 hour,False,,E_coli
+AVSKVLHLEGEVNKISALLSTNKAVVSLSNGANTI-VSVLTSKVLDLDNYIDKQLLPIVNK,>10 hour,False,,E_coli
+AVSKVLHLEGEVNKISALLSTNKAVVSLSNGANTI-VSVLTSKVLDLDNYIDKQLLPIVNK,>20 hour,False,,Yeast
+AVVNDL,>20 hour,False,,Yeast
+AVVNDL,>10 hour,False,,E_coli
+AVYLHRIDLGPPISLERLDVGTNLQNAIAKLEDAK,>10 hour,True,"Acetylation, Amidation",E_coli
+AVYLHRIDLGPPISLERLDVGTNLQNAIAKLEDAK,>20 hour,True,"Acetylation, Amidation",Yeast
+AWDFGSIGGVFNSIGRAVHQVF,>10 hour,False,,E_coli
+AWDFGSIGGVFNSIGRAVHQVF,>20 hour,False,,Yeast
+AWDFGSIGGVFNSIGRAVHQVFGGAFRTL,>20 hour,False,,Yeast
+AWDFGSIGGVFNSIGRAVHQVFGGAFRTL,>10 hour,False,,E_coli
+AWDFGSIGGVFTSVGKLVHQVFGTAYGVL,>10 hour,False,,E_coli
+AWDFGSIGGVFTSVGKLVHQVFGTAYGVL,>20 hour,False,,Yeast
 AWDFGSLGGVFTSIGKALHQVFGAIYGAA,>20 hour,False,,Yeast
+AWDFGSLGGVFTSIGKALHQVFGAIYGAA,>10 hour,False,,E_coli
+AWDFGSLGGVFTSIGKALHQVFGGAFGAA,>10 hour,False,,E_coli
+AWDFGSLGGVFTSIGKALHQVFGGAFGAA,>20 hour,False,,Yeast
+AWDFGSVGGLFTSLGKAVHQVFGSVYTTM,>20 hour,False,,Yeast
+AWDFGSVGGLFTSLGKAVHQVFGSVYTTM,>10 hour,False,,E_coli
+AWDFGSVGGVFNSLGKGIHQIFGAAFKSL,>20 hour,False,,Yeast
+AWDFGSVGGVFNSLGKGIHQIFGAAFKSL,>10 hour,False,,E_coli
+AWDFGSVGGVLNSLGKMVHQIFGSAYTAL,>20 hour,False,,Yeast
+AWDFGSVGGVLNSLGKMVHQIFGSAYTAL,>10 hour,False,,E_coli
+AWLVHRQWFLDLPLPWLPG,>10 hour,False,,E_coli
+AWLVHRQWFLDLPLPWLPG,>20 hour,False,,Yeast
+AWLVHTQWFLDLPLPWLPGADTQGSNWI,>10 hour,False,,E_coli
+AWLVHTQWFLDLPLPWLPGADTQGSNWI,>20 hour,False,,Yeast
+ANTI-HEVVPLEVYTRHEIK,>10 hour,False,,E_coli
+ANTI-MEVVQQTRMD KLTQGRQTYD,>20 hour,False,,Yeast
+ANTI-MEVVQQTRMD KLTQGRQTYD,>10 hour,False,,E_coli
+CAVACELKWESEFWRWTE,>10 hour,False,,E_coli
+CAVACELKWESEFWRWTE,>20 hour,False,,Yeast
+CCFLNITNSHVSILQERPPLENRVLTGWGL,>10 hour,True,"Acetylation, Amidation",E_coli
+CCFLNITNSHVSILQERPPLENRVLTGWGL,>20 hour,True,"Acetylation, Amidation",Yeast
+CDVIALLACHLNT,>10 hour,False,,E_coli
+CDVIALLACHLNT,>20 hour,False,,Yeast
+CDVIALLCHLNT,>10 hour,False,,E_coli
+CDVIALLCHLNT,>20 hour,False,,Yeast
+CDVIALLCHLNTPSF,>10 hour,False,,E_coli
+CDVIALLCHLNTPSF,>20 hour,False,,Yeast
+CDVIALLCHLNTPSFNTTHYRESWY,>10 hour,False,,E_coli
+CDVIALLCHLNTPSFNTTHYRESWY,>20 hour,False,,Yeast
+CEEIRARLSTHLRKMRKRLMRDADDLQKRLAVY,>20 hour,False,,Yeast
+CEEIRARLSTHLRKMRKRLMRDADDLQKRLAVY,>10 hour,False,,E_coli
+CEELRVRLASHLRKLRKRLLRDADDLQKRLAVY,>10 hour,False,,E_coli
+CEELRVRLASHLRKLRKRLLRDADDLQKRLAVY,>20 hour,False,,Yeast
+CEEQAQQIRLQAEAFQARLKSWFEPLVEDM,>20 hour,False,,Yeast
+CEEQAQQIRLQAEAFQARLKSWFEPLVEDM,>10 hour,False,,E_coli
+CELKWESEFWRWTEQLAS,>10 hour,False,,E_coli
+CELKWESEFWRWTEQLAS,>20 hour,False,,Yeast
+CEVLSDFK,>10 hour,False,,E_coli
+CEVLSDFK,>20 hour,False,,Yeast
+CEYQAGHNKVGSLQY,>10 hour,False,,E_coli
+CEYQAGHNKVGSLQY,>20 hour,False,,Yeast
+CFLNITNSHVSILQEAPPLENAV,>20 hour,True,"Acetylation, Amidation",Yeast
+CFLNITNSHVSILQEAPPLENAV,>10 hour,True,"Acetylation, Amidation",E_coli
+CFLNITNSHVSILQEAPPLENRV,>10 hour,True,"Acetylation, Amidation",E_coli
+CFLNITNSHVSILQEAPPLENRV,>20 hour,True,"Acetylation, Amidation",Yeast
+CFLNITNSHVSILQERPPLENRV,>10 hour,True,"Acetylation, Amidation",E_coli
+CFLNITNSHVSILQERPPLENRV,>20 hour,True,"Acetylation, Amidation",Yeast
+CFPWGC,>20 hour,True,"Cyclization of a n-terminal Cys residue (forming a disulfide bond), Cyclization of a C-terminal Cys residue (forming a disulfide bond)",Yeast
+CFPWGC,>10 hour,False,,E_coli
+CFSIDSPDSLENI,>10 hour,False,,E_coli
+CFSIDSPDSLENI,>20 hour,False,,Yeast
+CFVPWFSKFLXRIL,>20 hour,True,"Cholesterol-PEG4, Amidation",Yeast
+CFVPWFSKFLXRIL,>10 hour,True,"Cholesterol-PEG4, Amidation",E_coli
+CGESCAXISFCFTEVIGCSCKNKVCYLNSIS,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
+CGESCAXISFCFTEVIGCSCKNKVCYLNSIS,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
+CGGFVPWFSKFLXRIL,>20 hour,True,"Cholesterol-PEG4, Amidation",Yeast
+CGGFVPWFSKFLXRIL,>10 hour,True,"Cholesterol-PEG4, Amidation",E_coli
+CGGGGGSLTEINTELLDLEYEMKKLEEVVKKLEESYIDLKEL,>10 hour,False,,E_coli
+CGGGGGSLTEINTELLDLEYEMKKLEEVVKKLEESYIDLKEL,>20 hour,False,,Yeast
+CIRLQAEAFQARLKSWFEPLV,>20 hour,False,,Yeast
+CIRLQAEAFQARLKSWFEPLV,>10 hour,False,,E_coli
+CKIPFEIMDLEKRHV,>20 hour,False,,Yeast
+CKIPFEIMDLEKRHV,>10 hour,False,,E_coli
+CLRKLRKRLLRC,>20 hour,False,,Yeast
+CLRKLRKRLLRC,>10 hour,False,,E_coli
+CLRVRLASHLRKLRKRLLRDADDL,>20 hour,False,,Yeast
+CLRVRLASHLRKLRKRLLRDADDL,>10 hour,False,,E_coli
+CNCTNSSSSYSGTKMACPSNRG,>20 hour,False,,Yeast
+CNCTNSSSSYSGTKMACPSNRG,>10 hour,False,,E_coli
+CNDFRSKTC,>20 hour,False,,Yeast
+CNDFRSKTC,>10 hour,False,,E_coli
+CNSTKNLTFAMRSSGDYGEV,>20 hour,False,,Yeast
+CNSTKNLTFAMRSSGDYGEV,>10 hour,False,,E_coli
+CPEVFLM,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+CPEVFLM,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+CPFVFLE,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+CPFVFLE,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+CPFVFLM,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+CPFVFLM,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+CPFVFLR,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+CPFVFLR,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+CSICSNNPTCWAICKRIPNKKPGKK,>20 hour,True,"Acetylation, Amidation",Yeast
+CSICSNNPTCWAICKRIPNKKPGKK,>10 hour,True,"Acetylation, Amidation",E_coli
+CSIELSDIPLSVDFNTMID,>10 hour,False,,E_coli
+CSIELSDIPLSVDFNTMID,>20 hour,False,,Yeast
+CSSHFPYSQYQFWK,>10 hour,False,,E_coli
+CSSHFPYSQYQFWK,>20 hour,False,,Yeast
+CTSDLPSSWGYMNCNCTNSSSS,>20 hour,False,,Yeast
+CTSDLPSSWGYMNCNCTNSSSS,>10 hour,False,,E_coli
+CVRLASHLRKLRKRLLRDADDL,>10 hour,False,,E_coli
+CVRLASHLRKLRKRLLRDADDL,>20 hour,False,,Yeast
+CVRLASHLRKLRKRLLRDADDLQKRLAVY,>20 hour,False,,Yeast
+CVRLASHLRKLRKRLLRDADDLQKRLAVY,>10 hour,False,,E_coli
+CWVRIGRYILRRIKTPFT,>20 hour,False,,Yeast
+CWVRIGRYILRRIKTPFT,>10 hour,False,,E_coli
+CWVRLARYLLRRLKTPFT,>10 hour,False,,E_coli
+CWVRLARYLLRRLKTPFT,>20 hour,False,,Yeast
+CWVRLGRELLRRLKEPFT,>20 hour,False,,Yeast
+CWVRLGRELLRRLKEPFT,>10 hour,False,,E_coli
+CWVRLGRELLRRLKTPFT,>10 hour,False,,E_coli
+CWVRLGRELLRRLKTPFT,>20 hour,False,,Yeast
+CWVRLGRKLLRRLKKPFT,>20 hour,False,,Yeast
+CWVRLGRKLLRRLKKPFT,>10 hour,False,,E_coli
+CWVRLGRKLLRRLKTPFT,>20 hour,False,,Yeast
+CWVRLGRKLLRRLKTPFT,>10 hour,False,,E_coli
+CWVRLGRYALRRLKTPFT,>20 hour,False,,Yeast
+CWVRLGRYALRRLKTPFT,>10 hour,False,,E_coli
+CWVRLGRYILRRIKTPFT,>20 hour,False,,Yeast
+CWVRLGRYILRRIKTPFT,>10 hour,False,,E_coli
+CWVRLGRYILRRLKTPFT,>10 hour,False,,E_coli
+CWVRLGRYILRRLKTPFT,>20 hour,False,,Yeast
+CWVRLGRYKLRRLKTPFT,>20 hour,False,,Yeast
+CWVRLGRYKLRRLKTPFT,>10 hour,False,,E_coli
+CWVRLGRYLLRRLKTLFT,>20 hour,False,,Yeast
+CWVRLGRYLLRRLKTLFT,>10 hour,False,,E_coli
+CWVRLGRYLLRRLKTPFT,>10 hour,False,,E_coli
+CWVRLGRYLLRRLKTPFT,>20 hour,False,,Yeast
+CWVRLGRYLLRRLKTPFTRL,>10 hour,False,,E_coli
+CWVRLGRYLLRRLKTPFTRL,>20 hour,False,,Yeast
+CWVRLGRYSLRRLKTPFT,>20 hour,False,,Yeast
+CWVRLGRYSLRRLKTPFT,>10 hour,False,,E_coli
+CWVRLGRYVLRRLKTPFT,>10 hour,False,,E_coli
+CWVRLGRYVLRRLKTPFT,>20 hour,False,,Yeast
+CWVRLLRYLLRRLKTLFT,>20 hour,False,,Yeast
+CWVRLLRYLLRRLKTLFT,>10 hour,False,,E_coli
+CWVRLLRYLLRRLKTPFT,>20 hour,False,,Yeast
+CWVRLLRYLLRRLKTPFT,>10 hour,False,,E_coli
+CWVRLVRYLLRRLKTPFT,>10 hour,False,,E_coli
+CWVRLVRYLLRRLKTPFT,>20 hour,False,,Yeast
+CYCRIPACIAGERRYGTCIYQGRLWAFCC,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+CYCRIPACIAGERRYGTCIYQGRLWAFCC,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+DASISQVNEKINQSLAFIRKSDELLHNVNAGKSTT,>10 hour,True,"Acetylation, Amidation",E_coli
+DAVYLHRIDLGPPISLERLDVGTNLQNAIAKLEDA,>10 hour,True,"Acetylation, Amidation",E_coli
+DCPNGPWVWVPAFCQAVGWG,>10 hour,False,,E_coli
+DCWVRLGRYLLRRLKTPF,>10 hour,False,,E_coli
+DCYCRIPACIAGERRYGTCIYQGRLWAFCC,>10 hour,True, Cyclization of a C-terminal Cys residue (forming a disulfide bond),E_coli
+DDDEVVAATYVLVA,>10 hour,False,,E_coli
+DDSVVAAMSYSFA,>10 hour,False,,E_coli
+DDSVVAAMSYSHA,>10 hour,False,,E_coli
+DDSVVAAMSYSYA,>10 hour,False,,E_coli
+DDSVVCAAMSYSFA,>10 hour,False,,E_coli
+DDSVVCAAMSYSHA,>10 hour,False,,E_coli
+DDSVVCAAMSYSYA,>10 hour,False,,E_coli
+DDSVVSAAMSYSFA,>10 hour,False,,E_coli
+DDSVVSAAMSYSYA,>10 hour,False,,E_coli
+DEDLEELERLYRKAEEVAKEAKDASRRGDDERAKEQMERAMRLFDQVFELAQELQEKQTDGNRQKATHLDKAVKEAADELYQRVR,>10 hour,False,,E_coli
+DEFDASISQVNEKINQSLAFIRKSDELLHNVNAGK,>10 hour,True,"Acetylation, Amidation",E_coli
+DFHFEVFNFVPBSIBG,>10 hour,True,"Acetylation, Amidation",E_coli
+DFRELNKRTQDFWEVQLGIP,>10 hour,False,,E_coli
+DFRRLPGAFWQLRQP,>10 hour,True,"Alkylated(C18), Amidation",E_coli
+DFWRGVISLTPLLVCVAA,>10 hour,False,,E_coli
+DHVTPDIAYNP,>10 hour,False,,E_coli
+DHVTPDIAYNPRTYM,>10 hour,False,,E_coli
+DHVTPDIAYNPWAYF,>10 hour,False,,E_coli
+DIQKLVGKLNWASQIYPGIK,>10 hour,False,,E_coli
+DISGINASVVNIQKEIDRLNEVAKNLNESLIDLQEL,>10 hour,True, PEG8-K(Chol),E_coli
 DISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>10 hour,False,,E_coli
+DISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGSGSGC,>10 hour,False,,E_coli
+DISIELNKAKSDLEESKEWIRRSNQKLDSIGNWHQ,>10 hour,True,"Acetylation, Amidation",E_coli
+DITLNNSVALDPIDISIELNKAKSDLEESKEWIRR,>10 hour,True,"Acetylation, Amidation",E_coli
+DITLNNSVALDPIDISIELNKAKSDLEESKEWIRRSNQKLDSIGN,>10 hour,False,,E_coli
+DIWDWICEVLSDFK,>10 hour,False,,E_coli
+DKEWILQKIYEIMRLLDELGHAEASMRVSDLIYEFMKKGDERLLEEAERLLEEVER,>10 hour,False,,E_coli
+DKFNHEAED,>10 hour,False,,E_coli
+DKFNHEAEDLFYQSSLASWNYNT,>10 hour,True, Amidation,E_coli
+DLADQLIHLYYFDCF,>10 hour,False,,E_coli
+DLGPPISLERLDVGTNLGNAIAKLEDAKELLESSD,>10 hour,True,"Acetylation, Amidation",E_coli
+DLSLDFEKLNVTLLDLTYEMNRIQDAIKKLNESYINLKE,>10 hour,False,,E_coli
+DPIDISIELNKAKSDLEESKEWIRRSNQKLDSIGN,>10 hour,True,"Acetylation, Amidation",E_coli
+DPLVFPSDEFDASISQVNEKINQSLAFIRKSDELL,>10 hour,True,"Acetylation, Amidation",E_coli
+DRGWGNGCGLFG,>10 hour,False,,E_coli
+DSGEGDFLAEGGGVR,>10 hour,False,,E_coli
+DTRACDVIALLCHLNT,>10 hour,False,,E_coli
+DTVVELSEWGVPCATCIL,>10 hour,False,,E_coli
+DVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYI,>10 hour,False,,E_coli
+DVILMCFSIDSPDSLENI,>10 hour,False,,E_coli
+DWLKAFYDKVAEKLKEAF,>10 hour,False,,E_coli
+DWLRIIWDWVCSVVSDFK,>10 hour,False,,E_coli
+DWVRWI,>10 hour,False,,E_coli
+EAEIRIKQQLLFIHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+EAIERILKQLLFIHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+EAIIRILQELLFKHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+EAIIRILQQLEFIHKRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+EAIIRILQQLLFIEFRIKRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
 EAIIRILQQLLFIHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+EAIXQSLXFIXKSDXLLHNV,>10 hour,True,Acetylation,E_coli
+EANTTLLDLTYEMLSLQQVVKALNESYIDLKEL,>10 hour,False,,E_coli
+ECRSTSYAGAVVNDL,>10 hour,False,,E_coli
+EDLFYQ,>10 hour,False,,E_coli
+EDLFYQSSL,>10 hour,False,,E_coli
+EEHEKYHSNW,>10 hour,True, Amidation,E_coli
+EEIIRKLQQLLFIEFRIKRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+EEIIRKLQQLLFIHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+EELLKKAEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+EELRVRLASHLRKLRKRLLRDADDL,>10 hour,False,,E_coli
+EELRVRLASHLRKLRKRLLRDADDLQKRLAVY,>10 hour,False,,E_coli
+EELRVRLASHLRKLRKRLLRDADDLQKRLAVYEEQAQQIRLQAEAFQARLKSWFEPLVEDM,>10 hour,False,,E_coli
+EEQAKTFLDK,>10 hour,False,,E_coli
+EEQAKTFLDKFNHEAEDLFYQSS,>10 hour,False,,E_coli
+EEQAKTFLDKFNHEAEDLFYQSSGLGKGDFR,>10 hour,False,,E_coli
+EEQAKTFLDKFNHEAEDLFYQSSLASWNYNTNITEE,>10 hour,False,,E_coli
+EEQKTQLKNKIEIDWTKMELEQDWSKIYKEI,>10 hour,False,,E_coli
+EF,>10 hour,False,,E_coli
+EFDASISQVNEKINQSLAFIRKSDELLHNVNAGKS,>10 hour,True,"Acetylation, Amidation",E_coli
+EFVFLM,>10 hour,False,,E_coli
+EFWRWTEQLASNYWILEY,>10 hour,False,,E_coli
+EGPTLGNWAREIWATLFKKA,>10 hour,False,,E_coli
+EISGINASVVNIQKEIDRLNEVAKNLNESLIDLQEL,>10 hour,True, PEG8-K(Chol),E_coli
+EISKINTTLLDLSDEMAMLLQEVVKQLNDSYIDLKEL,>10 hour,False,,E_coli
+EIWATLFKKATRQCRRGRIW,>10 hour,False,,E_coli
+EKAXQSLXFIXKSDXLLHNV,>10 hour,True,Acetylation,E_coli
+EKIAQSLXFIRXSDXLLHXV,>10 hour,True,Acetylation,E_coli
+EKINQSLAFIRKSDELLHNV,>10 hour,True,Acetylation,E_coli
+EKINQSLXFIAXSDXLLHXV,>10 hour,True,Acetylation,E_coli
+EKINQSLXFIRXSDXLLHXV,>10 hour,True,Acetylation,E_coli
+EKIXASLXFIXKSDXLLHNV,>10 hour,True,Acetylation,E_coli
+EKIXQALXFIXKSDXLLHNV,>10 hour,True,Acetylation,E_coli
+EKIXQSAXFIXKSDXLLHNV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXAIXKSDXLLHNV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFAXKSDXLLHNV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFIRXSDELLHXV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFIXASDXLLHNV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFIXKADXLLHNV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFIXKSAXLLHNV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFIXKSDXALHNV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFIXKSDXLLANV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFIXKSDXLLHAV,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFIXKSDXLLHNA,>10 hour,True,Acetylation,E_coli
+EKIXQSLXFIXKSDXLLHNV,>10 hour,True,Acetylation,E_coli
+ELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQEL,>10 hour,False,,E_coli
 ELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIK,>10 hour,False,,E_coli
+ELDSPKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLID,>10 hour,False,,E_coli
+ELDSPKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>10 hour,False,,E_coli
+ELEEQVMHVLDQVSELAHELLHKLTGEELERAAYFNWWATEMMLELIKSDDEREIREIEEEARRILEHLEELARK,>10 hour,False,,E_coli
+ELKWESEFWRWTEQLASN,>10 hour,False,,E_coli
+ELNKAKSDLEESKEWIRRSNQKLDSIGNWHQSSTT,>10 hour,True,"Acetylation, Amidation",E_coli
+ELSGINASVVNLQKEIDRLNEVAKNLNESLIDLQEL,>10 hour,True, PEG8-K(Chol),E_coli
+ELVNQIIEQLIKKEKVYLAW,>10 hour,False,,E_coli
+EMTWEEWEKKIEEYIKKIEEILKKSQNQQIDL,>10 hour,False,,E_coli
+EMTWEEWEKKIEEYIKKIEEILKKSQNQQIDLGSGX,>10 hour,False,,E_coli
+EMTWEEWEKKIEEYTKKIEEILKKSEEQQKKNEEELKKLEK,>10 hour,True,"Acetylation, Amidation",E_coli
+EMTWEEWEKKIEEYTKKIEEILKKSEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+EMTWEEWEKKIEEYTKKIEEILKKSQNQQIDL,>10 hour,False,,E_coli
+EMTWEEWEKKIEEYTKKIEEILXX,>10 hour,True,"Acetylation, Amidation",E_coli
+EMTWEEWEKKVEELEKKIEELLXX,>10 hour,True,"Acetylation, Amidation",E_coli
+EQKIEELLKKAEEQQKKNEEELKKLEK,>10 hour,True,"Acetylation, Amidation",E_coli
+EQKIEELLKKAEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+EQLASNYWILEYLWKVPF,>10 hour,False,,E_coli
+EQVDKLVSAGIRKVLFLDGI,>10 hour,False,,E_coli
+EQVLKAVTNVLSPVFPGGET,>10 hour,False,,E_coli
+ESAIRKAILGHIVSP,>10 hour,False,,E_coli
+ESEFWRWTEQLASNYWIL,>10 hour,False,,E_coli
+ESELVSQIIEQLIKK,>10 hour,False,,E_coli
+ESMNKELKKI,>10 hour,True, Amidation,E_coli
+ESTHPRISSEVHIPL,>10 hour,False,,E_coli
+ETWETWWTEYWQATWIPEWE,>10 hour,False,,E_coli
+EVFNFVPBSIBG,>10 hour,True,"Acetylation, Amidation",E_coli
+EWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLW,>10 hour,False,,E_coli
+EWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLWX,>10 hour,False,,E_coli
+EWDREINNYTSLIHSLIEESQNQQEKNEXELLELDKWASLW,>10 hour,False,,E_coli
 EWDREINNYTSLIHSLIEESQXQQEKNEQELLELDKWASLW,>10 hour,False,,E_coli
 EWDREINNYTSLIHSLIEEXQNQQEKNEQELLELDKWASLW,>10 hour,False,,E_coli
 EWDREINNYTSLIHSLIXESQNQQEKNEQELLELDKWASLW,>10 hour,False,,E_coli
+EWDREINNYTSLIHXLIEESQNQQEKNEQELLELDKWASLW,>10 hour,False,,E_coli
 EWDREINNYTXLIHSLIEESQNQQEKNEQELLELDKWASLW,>10 hour,False,,E_coli
 EWDXEINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLW,>10 hour,False,,E_coli
+EWVRLGRELLRRLKEPFE,>10 hour,False,,E_coli
+EWVRLGRELLRRLKEPFT,>10 hour,False,,E_coli
+EWYNQTKDLQQKFYEIIMDIEQNNVQGKKGIQQLQ,>10 hour,True,"Acetylation, Amidation",E_coli
+EXINXSLXFIRXSDALLHNV,>10 hour,True,Acetylation,E_coli
+EXINXSLXFIRXSDELLHNV,>10 hour,True,Acetylation,E_coli
+EYLWKVPFDFWRGVISLT,>10 hour,False,,E_coli
+GAIVSTALPQWRIYSYAG,>20 hour,False,,Yeast
+GAIVSTALPQWRIYSYAG,>10 hour,False,,E_coli
+GAKALTEVIPLTEEAEC,>20 hour,False,,Yeast
+GAKALTEVIPLTEEAEC,>10 hour,False,,E_coli
+GAKKGAKKGKKGAKKGAKGAGAKGAGAFKKKK,>20 hour,False,,Yeast
+GAKKGAKKGKKGAKKGAKGAGAKGAGAFKKKK,>10 hour,False,,E_coli
+GAKTETLVIPETELEAC,>20 hour,False,,Yeast
+GAKTETLVIPETELEAC,>10 hour,False,,E_coli
+GAVVNDL,>10 hour,False,,E_coli
+GAVVNDL,>20 hour,False,,Yeast
+GAWKNFWSSLRKGFYDGEAGRAIRR,>10 hour,False,,E_coli
+GAWKNFWSSLRKGFYDGEAGRAIRR,>20 hour,False,,Yeast
+GAWYKGRARPVSAVA,>10 hour,True,"Alkylated(C18), Amidation",E_coli
+GAWYKGRARPVSAVA,>20 hour,True,"Alkylated(C18), Amidation",Yeast
+GCKKYRRFRWKFKGKFWFWG,>20 hour,False,,Yeast
+GCKKYRRFRWKFKGKFWFWG,>10 hour,False,,E_coli
+GDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELG,>10 hour,False,,E_coli
+GDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELG,>20 hour,False,,Yeast
+GDPPY,>10 hour,False,,E_coli
+GDPPY,>20 hour,True,Acetylation,Yeast
+GDPTFCGETCRVIPVCTYSAALGCTCDDRSDGLCKRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GDPTFCGETCRVIPVCTYSAALGCTCDDRSDGLCKRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GEWYNQTKDLQQKFYEIIMDIEQNNVQGKKGIQQL,>10 hour,True,"Acetylation, Amidation",E_coli
+GEWYNQTKDLQQKFYEIIMDIEQNNVQGKKGIQQL,>20 hour,True,"Acetylation, Amidation",Yeast
+GFCRCICTRGFCRCICTR,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GFCRCICTRGFCRCICTR,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GFCRCLCRRGVCRCICTR,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GFCRCLCRRGVCRCICTR,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE,>20 hour,False,,Yeast
+GFFALIPKIISSPLFKTLLSAVGSALSSSGGQE,>10 hour,False,,E_coli
+GFGCPFNQGKCHRHCRSIRRRGGYCDGFLKQRCVCYRK,>20 hour,False,,Yeast
+GFGCPFNQGKCHRHCRSIRRRGGYCDGFLKQRCVCYRK,>10 hour,False,,E_coli
+GFGCPFNQGQCHKHCQSIRRRGGYCDGFLKTRCVCYR,>10 hour,False,,E_coli
+GFGCPFNQGQCHKHCQSIRRRGGYCDGFLKTRCVCYR,>20 hour,False,,Yeast
+GFGKAFHSVSNFAKKHKTA,>10 hour,True, Amidation,E_coli
+GFGKAFHSVSNFAKKHKTA,>20 hour,True, Amidation,Yeast
+GFIFHIIKGLFHAGKMIHGLV,>20 hour,True, Amidation,Yeast
+GFIFHIIKGLFHAGKMIHGLV,>10 hour,True, Amidation,E_coli
+GFKDLLKGAAKALVKTVLF,>10 hour,True, Amidation,E_coli
+GFKDLLKGAAKALVKTVLF,>20 hour,True, Amidation,Yeast
+GFKRIVQRIKDFLRNLV,>10 hour,False,,E_coli
 GFKRIVQRIKDFLRNLV,>20 hour,False,,Yeast
+GFLDIIEKIAKSW,>10 hour,True, Amidation,E_coli
+GFLDIIEKIAKSW,>20 hour,True, Amidation,Yeast
+GFLSIFRGVAKFASKGLGKDLARLGVNLVACKISKQC,>20 hour,True, Cyclization of a C-terminal Cys residue (forming a disulfide bond),Yeast
+GFLSIFRGVAKFASKGLGKDLARLGVNLVACKISKQC,>10 hour,True, Cyclization of a C-terminal Cys residue (forming a disulfide bond),E_coli
+GFLSILKKVLPKVMAHMK,>20 hour,True, Amidation,Yeast
+GFLSILKKVLPKVMAHMK,>10 hour,True, Amidation,E_coli
+GFLYVYKGYQPI,>20 hour,False,,Yeast
+GFLYVYKGYQPI,>10 hour,False,,E_coli
+GFNEIVQDIEDFLQNLV,>10 hour,False,,E_coli
+GFNEIVQDIEDFLQNLV,>20 hour,False,,Yeast
+GFPCGESCVFIPCISAAIGCSCKNKVCYRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GFPCGESCVFIPCISAAIGCSCKNKVCYRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GFSSLFKAGAKYLLKQVGKAGAQQLACKAANNC,>10 hour,False,,E_coli
+GFSSLFKAGAKYLLKQVGKAGAQQLACKAANNC,>20 hour,False,,Yeast
+GGARDAGKAEWW,>20 hour,False,,Yeast
+GGARDAGKAEWW,>10 hour,False,,E_coli
+GGGSLTQINTTLLDLTYEMLSLQQVVKALNESYIDLKEL,>10 hour,False,,E_coli
+GGGSLTQINTTLLDLTYEMLSLQQVVKALNESYIDLKEL,>20 hour,False,,Yeast
+GGKMLYNKVTKQLSYCTDPL,>10 hour,False,,E_coli
+GGKMLYNKVTKQLSYCTDPL,>20 hour,False,,Yeast
+GGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKAL,>10 hour,True, Amidtion,E_coli
+GGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKAL,>20 hour,True, Amidtion,Yeast
+GGLRSLGRKILRAWKKYGPIIVPIIRIG,>20 hour,True, Amidation,Yeast
+GGLRSLGRKILRAWKKYGPIIVPIIRIG,>10 hour,True, Amidation,E_coli
+GGTIFDCGETCFLGTCYTPGCSCGNYGFCYGTN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GGTIFDCGETCFLGTCYTPGCSCGNYGFCYGTN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GGVLVQPG,>10 hour,True,"Acylation, Methyl amidation",E_coli
+GGVLVQPG,>20 hour,True,"Pivaloylation, Methyl amidation",Yeast
+GHGQHGVHG,>10 hour,False,,E_coli
+GHGQHGVHG,>20 hour,False,,Yeast
+GHRAYFTFGGGYVYF,>20 hour,False,,Yeast
+GHRAYFTFGGGYVYF,>10 hour,False,,E_coli
+GHRRAFTFGGGYVYF,>20 hour,False,,Yeast
+GHRRAFTFGGGYVYF,>10 hour,False,,E_coli
+GHRRYATFGGGYVYF,>20 hour,False,,Yeast
+GHRRYATFGGGYVYF,>10 hour,False,,E_coli
+GHRRYFTAGGGYVYF,>20 hour,False,,Yeast
+GHRRYFTAGGGYVYF,>10 hour,False,,E_coli
+GHRRYFTFG,>10 hour,False,,E_coli
+GHRRYFTFG,>20 hour,False,,Yeast
+GHRRYFTFGAGYVYF,>10 hour,False,,E_coli
+GHRRYFTFGAGYVYF,>20 hour,False,,Yeast
+GHRRYFTFGGGY,>10 hour,False,,E_coli
+GHRRYFTFGGGY,>20 hour,False,,Yeast
+GHRRYFTFGGGYVAF,>10 hour,False,,E_coli
+GHRRYFTFGGGYVAF,>20 hour,False,,Yeast
+GHRRYFTFGGGYVYA,>10 hour,False,,E_coli
+GHRRYFTFGGGYVYA,>20 hour,False,,Yeast
+GHRRYFTFGGGYVYF,>20 hour,False,,Yeast
+GHRRYFTFGGGYVYF,>10 hour,False,,E_coli
+GICRCICGKGICRCICGR,>10 hour,False,,E_coli
+GICRCICGKGICRCICGR,>20 hour,False,,Yeast
+GICRCICGRGICRCICGR,>20 hour,False,,Yeast
+GICRCICGRGICRCICGR,>10 hour,False,,E_coli
+GICRCICGRRICRCICGR,>20 hour,False,,Yeast
+GICRCICGRRICRCICGR,>10 hour,False,,E_coli
+GICRCICGRYICRCICGR,>20 hour,False,,Yeast
+GICRCICGRYICRCICGR,>10 hour,False,,E_coli
+GIFDKLAKEISIW,>20 hour,True, Amidation,Yeast
+GIFDKLAKEISIW,>10 hour,True, Amidation,E_coli
+GIGAVLKVLTTGLPALISWIKRKRQQ,>10 hour,True, Amidtion,E_coli
+GIGAVLKVLTTGLPALISWIKRKRQQ,>20 hour,True, Amidtion,Yeast
+GIGDPVTCLKSGAICANTI-HPVFCPRRYKQIGTCGLPGTKCCKKP,>20 hour,False,,Yeast
+GIGDPVTCLKSGAICANTI-HPVFCPRRYKQIGTCGLPGTKCCKKP,>10 hour,False,,E_coli
+GIGGKILSGLKTALKGAAKELASTYLH,>20 hour,False,,Yeast
+GIGGKILSGLKTALKGAAKELASTYLH,>10 hour,False,,E_coli
+GIGGVLLSAGKAALKGLAKVLAEKYAN,>10 hour,True, Amidation,E_coli
+GIGGVLLSAGKAALKGLAKVLAEKYAN,>20 hour,True, Amidation,Yeast
+GIGKFLHSAGKFGKAFVGEIMKS,>10 hour,False,,E_coli
+GIGKFLHSAGKFGKAFVGEIMKS,>20 hour,False,,Yeast
+GIGKFLHSAKKFGKAFVGEIMNS,>10 hour,False,,E_coli
+GIGKFLHSAKKFGKAFVGEIMNS,>20 hour,False,,Yeast
+GIGTKILGGVKTALKGALKELASTYAN,>10 hour,True, Amidation,E_coli
+GIGTKILGGVKTALKGALKELASTYAN,>20 hour,True, Amidation,Yeast
+GIIDIAKKLFESW,>10 hour,True, Amidation,E_coli
+GIIDIAKKLFESW,>20 hour,True, Amidation,Yeast
+GIKEFKREFQRIKDFLRNLV,>10 hour,False,,E_coli
+GIKEFKREFQRIKDFLRNLV,>20 hour,False,,Yeast
+GIKEWKRIVQRIKDFLRNLV,>20 hour,False,,Yeast
+GIKEWKRIVQRIKDFLRNLV,>10 hour,False,,E_coli
+GIKEXKRIVQRIKDFLRNLV,>10 hour,False,,E_coli
+GIKEXKRIVQRIKDFLRNLV,>20 hour,False,,Yeast
+GIKQFKRIVQRIKDFLRNLV,>10 hour,False,,E_coli
+GIKQFKRIVQRIKDFLRNLV,>20 hour,False,,Yeast
+GINASVVNIQKEIDRLNEVAKNL,>10 hour,False,,E_coli
+GINASVVNIQKEIDRLNEVAKNL,>20 hour,False,,Yeast
+GINASVVNIQKEIDRLNEVAKNLNESLIDL,>20 hour,False,,Yeast
+GINASVVNIQKEIDRLNEVAKNLNESLIDL,>10 hour,False,,E_coli
+GINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>10 hour,False,,E_coli
+GINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>20 hour,False,,Yeast
+GIPCAESCVWIPCTVTALVGCSCSDKVCYN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GIPCAESCVWIPCTVTALVGCSCSDKVCYN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GIPCGESCVFIPCITSVAGCSCKSKVCYRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GIPCGESCVFIPCITSVAGCSCKSKVCYRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GIPCGESCVFIPCLTTVAGCSCKNKVCYRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GIPCGESCVFIPCLTTVAGCSCKNKVCYRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GIPCGESCVWIPCISAAIGCSCKSKVCYRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GIPCGESCVWIPCISAAIGCSCKSKVCYRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GIPCGESCVWIPCISAALGCSCKNKVCYRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",E_coli
+GIPCGESCVWIPCISAALGCSCKNKVCYRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",Yeast
+GIWDTIKSMGKVFAGKILQNL,>20 hour,True, Amidation,Yeast
+GIWDTIKSMGKVFAGKILQNL,>10 hour,True, Amidation,E_coli
+GIWSDLAEIIKKF,>10 hour,True, Amidation,E_coli
+GIWSDLAEIIKKF,>20 hour,True, Amidation,Yeast
+GKGDFRIL,>20 hour,False,,Yeast
+GKGDFRIL,>10 hour,False,,E_coli
+GKINISLCLTGGKMLYNKVT,>10 hour,False,,E_coli
+GKINISLCLTGGKMLYNKVT,>20 hour,False,,Yeast
+GKKYRRFRWKFKFGKWFWFG,>10 hour,False,,E_coli
+GKKYRRFRWKFKFGKWFWFG,>20 hour,False,,Yeast
+GKPRPYSPRPTSHPRPIRV,>20 hour,False,,Yeast
+GKPRPYSPRPTSHPRPIRV,>10 hour,False,,E_coli
+GKR,>20 hour,True,"Phenylacetyl, Amidation",Yeast
+GKR,>10 hour,True,"Phenylacetyl, Amidation",E_coli
+GKRKSFCA,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
+GKRKSFCA,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
+GKRKSGAA,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
+GKRKSGAA,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
+GKRKSGCA,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
+GKRKSGCA,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
+GKRKSXAA,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
+GKRKSXAA,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
+GKRKSXAF,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
+GKRKSXAF,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
 GKRKSXAX,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
+GKRKSXAX,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
+GKRKSXSF,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
+GKRKSXSF,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
 GKRKSXCA,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
+GKRKSXCA,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
+GLADFLNKAVGKVVDFVKS,>20 hour,True, Amidation,Yeast
+GLADFLNKAVGKVVDFVKS,>10 hour,True, Amidation,E_coli
+GLASTLTRWAHYNALIRAF,>10 hour,False,,E_coli
+GLASTLTRWAHYNALIRAF,>20 hour,False,,Yeast
+GLEEELQFSLGSKINVK,>10 hour,False,,E_coli
+GLEEELQFSLGSKINVK,>20 hour,False,,Yeast
+GLFDIIKKIAESW,>10 hour,True, Amidation,E_coli
+GLFDIIKKIAESW,>20 hour,True, Amidation,Yeast
+GLFGILGSVAKHVLPHVIPVVAEHL,>20 hour,True, Amidation,Yeast
+GLFGILGSVAKHVLPHVIPVVAEHL,>10 hour,True, Amidation,E_coli
+GLFGVLAKVAAHVVPAIAEHF,>20 hour,True, Amidation,Yeast
+GLFGVLAKVAAHVVPAIAEHF,>10 hour,True, Amidation,E_coli
+GLFGVLGSIAKHLLPHVVPVIAEKL,>20 hour,True, Amidation,Yeast
+GLFGVLGSIAKHLLPHVVPVIAEKL,>10 hour,True, Amidation,E_coli
+GLFGVLGSIAKHVLPHVVPVIAEKL,>20 hour,True, Amidation,Yeast
+GLFGVLGSIAKHVLPHVVPVIAEKL,>10 hour,True, Amidation,E_coli
+GLFKVLGSVAKHLLPHVAPIIAEKL,>20 hour,True, Amidation,Yeast
+GLFKVLGSVAKHLLPHVAPIIAEKL,>10 hour,True, Amidation,E_coli
+GLFKVLGSVAKHLLPHVAPVIAEKL,>10 hour,True, Amidation,E_coli
+GLFKVLGSVAKHLLPHVAPVIAEKL,>20 hour,True, Amidation,Yeast
+GLFSVLGAVAKHVLPHVVPVIAEKL,>20 hour,True, Amidation,Yeast
+GLFSVLGAVAKHVLPHVVPVIAEKL,>10 hour,True, Amidation,E_coli
+GLKKLLGKLLKKLGKLLLK,>10 hour,False,,E_coli
+GLKKLLGKLLKKLGKLLLK,>20 hour,False,,Yeast
+GLLGLLGSVVSHVVPAIVGHF,>10 hour,True, Amidation,E_coli
+GLLGLLGSVVSHVVPAIVGHF,>20 hour,True, Amidation,Yeast
+GLLGVLGSVAKHVLPHVVPVIAEHL,>10 hour,True, Amidation,E_coli
+GLLGVLGSVAKHVLPHVVPVIAEHL,>20 hour,True, Amidation,Yeast
+GLLHLHQNIVDVQYM,>20 hour,False,,Yeast
+GLLHLHQNIVDVQYM,>10 hour,False,,E_coli
+GLLKVLGSVAKKVLPKVVPVIAEKL,>10 hour,True, Amidation,E_coli
+GLLKVLGSVAKKVLPKVVPVIAEKL,>20 hour,True, Amidation,Yeast
+GLLSVLGSVAKHVLPHVVPVIAAAL,>10 hour,True, Amidation,E_coli
+GLLSVLGSVAKHVLPHVVPVIAAAL,>20 hour,True, Amidation,Yeast
+GLLSVLGSVAKHVLPHVVPVIAEHL,>10 hour,True, Amidation,E_coli
+GLLSVLGSVAKHVLPHVVPVIAEHL,>20 hour,True, Amidation,Yeast
+GLLSVLGSVAKHVLPHVVPVIAEKL,>20 hour,True, Amidation,Yeast
+GLLSVLGSVAKHVLPHVVPVIAEKL,>10 hour,True, Amidation,E_coli
+GLLSVLGSVAKHVLPHVVPVIAKLH,>20 hour,True, Amidation,Yeast
+GLLSVLGSVAKHVLPHVVPVIAKLH,>10 hour,True, Amidation,E_coli
+GLLSVLGSVVKHVIPHVVPVIAEHL,>20 hour,True, Amidation,Yeast
+GLLSVLGSVVKHVIPHVVPVIAEHL,>10 hour,True, Amidation,E_coli
+GLLYFAIFFVAAWHIRGR,>10 hour,True, Amidation,E_coli
+GLLYFAIFFVAAWHIRGR,>20 hour,True, Amidation,Yeast
+GLMDTVKNVAKNLAGHMLDKLKCKITGC,>20 hour,True, Cyclization of a C-terminal Cys residue (forming a disulfide bond),Yeast
+GLMDTVKNVAKNLAGHMLDKLKCKITGC,>10 hour,True, Cyclization of a C-terminal Cys residue (forming a disulfide bond),E_coli
+GLNTLKKVFQGLHEAIKLINNHVQ,>10 hour,False,,E_coli
+GLNTLKKVFQGLHEAIKLINNHVQ,>20 hour,False,,Yeast
+GLPICGETCVGGTCNTPGCSCSWPVCTRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",E_coli
+GLPICGETCVGGTCNTPGCSCSWPVCTRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",Yeast
+GLPTCGETCFGGTCNTPGCTCDPWPVCTHN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GLPTCGETCFGGTCNTPGCTCDPWPVCTHN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GLPVCGETCVGGTCNTPGCTCSWPVCTRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",Yeast
+GLPVCGETCVGGTCNTPGCTCSWPVCTRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",E_coli
+GLQLLGFILAFLGWIGAI,>10 hour,False,,E_coli
+GLQLLGFILAFLGWIGAI,>20 hour,False,,Yeast
+GLRRLLGRLLRRLGRLLLR,>20 hour,False,,Yeast
+GLRRLLGRLLRRLGRLLLR,>10 hour,False,,E_coli
+GLRSKIWLWVLLMIWQESNKFKKM,>20 hour,False,,Yeast
+GLRSKIWLWVLLMIWQESNKFKKM,>10 hour,False,,E_coli
+GLRSRIWLWVLLMIWQESNRFKRM,>10 hour,False,,E_coli
+GLRSRIWLWVLLMIWQESNRFKRM,>20 hour,False,,Yeast
+GLWEKIDKFASII,>20 hour,True, Amidation,Yeast
+GLWEKIDKFASII,>10 hour,True, Amidation,E_coli
+GMASKAGAIAGKIAKVALKAL,>20 hour,True, Amidation,Yeast
+GMASKAGAIAGKIAKVALKAL,>10 hour,True, Amidation,E_coli
+GMVTQYHQVLATHQEAIEKV,>10 hour,False,,E_coli
+GMVTQYHQVLATHQEAIEKV,>20 hour,False,,Yeast
+GNHILSLVQNAPYGLYFIHFSW,>10 hour,False,,E_coli
+GNHILSLVQNAPYGLYFIHFSW,>20 hour,False,,Yeast
+GNITLGEWYNQTKDLQQKFYEIIMDIEQNNVQG,>20 hour,True,"Acetylation, Amidation",Yeast
+GNITLGEWYNQTKDLQQKFYEIIMDIEQNNVQG,>10 hour,True,"Acetylation, Amidation",E_coli
+GNNRPVYIPQPRPPHPRI,>20 hour,False,,Yeast
+GNNRPVYIPQPRPPHPRI,>10 hour,False,,E_coli
+GPNFAEISKINTTLLDLSDEMAMLLQEVVKQLNDSYI,>20 hour,False,,Yeast
+GPNFAEISKINTTLLDLSDEMAMLLQEVVKQLNDSYI,>10 hour,False,,E_coli
+GPPISLERLDVGTNLGNAIAKLEDAKELLESSDQI,>20 hour,True,"Acetylation, Amidation",Yeast
+GPPISLERLDVGTNLGNAIAKLEDAKELLESSDQI,>10 hour,True,"Acetylation, Amidation",E_coli
+GPWVWVPAFCQAVGWGDPIT,>20 hour,False,,Yeast
+GPWVWVPAFCQAVGWGDPIT,>10 hour,False,,E_coli
+GQGKAHNGRLITANP,>10 hour,False,,E_coli
+GQGKAHNGRLITANP,>20 hour,False,,Yeast
+GQHGVHG,>10 hour,False,,E_coli
+GQHGVHG,>20 hour,False,,Yeast
+GREERRQRRRC,>20 hour,True, Amidation,Yeast
+GREERRQRRRC,>10 hour,True, Amidation,E_coli
+GRFKRFRKKFKKLFK,>10 hour,False,,E_coli
+GRFKRFRKKFKKLFK,>20 hour,False,,Yeast
+GRFKRFRKKFKKLFKKIS,>10 hour,False,,E_coli
+GRFKRFRKKFKKLFKKIS,>20 hour,False,,Yeast
+GRFKRFRKPFKKLFKKIS,>10 hour,False,,E_coli
+GRFKRFRKPFKKLFKKIS,>20 hour,False,,Yeast
+GRFKRIRKKLKKLFKKIS,>10 hour,False,,E_coli
+GRFKRIRKKLKKLFKKIS,>20 hour,False,,Yeast
+GRFKRXRKKXKKLFKKIS,>10 hour,False,,E_coli
+GRFKRXRKKXKKLFKKIS,>20 hour,False,,Yeast
+GRKKRRQRRR,>10 hour,False,,E_coli
+GRKKRRQRRR,>20 hour,False,,Yeast
+GRKKRRQRRRC,>10 hour,True, Amidation,E_coli
+GRKKRRQRRRC,>20 hour,True, Amidation,Yeast
+GRKKRRRRRR,>10 hour,False,,E_coli
+GRKKRRRRRR,>20 hour,False,,Yeast
+GRRRRSVQWCAVSQPEATKCFQWQRNMRKVRGPPVSCIKRDSPIQCIQA,>10 hour,False,,E_coli
+GRRRRSVQWCAVSQPEATKCFQWQRNMRKVRGPPVSCIKRDSPIQCIQA,>20 hour,False,,Yeast
+GRWPVKT,>20 hour,True, Amidation,Yeast
+GRWPVKT,>10 hour,True, Amidation,E_coli
+GSDTSLIDTCGNTPNVSGAN,>20 hour,False,,Yeast
+GSDTSLIDTCGNTPNVSGAN,>10 hour,False,,E_coli
+GSIPACGESCFKGKCYTPGCSCSKYPLCAKN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GSIPACGESCFKGKCYTPGCSCSKYPLCAKN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GSVLNCGETCLLGTCYTTGCTCNKYRVCTKD,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",Yeast
+GSVLNCGETCLLGTCYTTGCTCNKYRVCTKD,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",E_coli
+GSWFRAISSWKQRNRWEWRPDF,>10 hour,False,,E_coli
+GSWFRAISSWKQRNRWEWRPDF,>20 hour,False,,Yeast
+GSWLRDIWDWICEVLSDFK,>20 hour,False,,Yeast
+GSWLRDIWDWICEVLSDFK,>10 hour,False,,E_coli
+GTAALTEVIPLTEEAEC,>10 hour,False,,E_coli
+GTAALTEVIPLTEEAEC,>20 hour,False,,Yeast
+GTACGESCYVLPCFTVGCTCTSSQCFKN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GTACGESCYVLPCFTVGCTCTSSQCFKN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GTKAATEVIPLTC,>10 hour,False,,E_coli
+GTKAATEVIPLTC,>20 hour,False,,Yeast
+GTKAATEVIPLTEEAEC,>20 hour,False,,Yeast
+GTKAATEVIPLTEEAEC,>10 hour,False,,E_coli
+GTKALAEVIPLTEEAEC,>20 hour,False,,Yeast
+GTKALAEVIPLTEEAEC,>10 hour,False,,E_coli
+GTKALTAVIPLTEEAEC,>20 hour,False,,Yeast
+GTKALTAVIPLTEEAEC,>10 hour,False,,E_coli
+GTKALTEAIPLTEEAEC,>10 hour,False,,E_coli
+GTKALTEAIPLTEEAEC,>20 hour,False,,Yeast
+GTKALTEVAPLTEEAEC,>10 hour,False,,E_coli
+GTKALTEVAPLTEEAEC,>20 hour,False,,Yeast
+GTKALTEVIALTEEAEC,>10 hour,False,,E_coli
+GTKALTEVIALTEEAEC,>20 hour,False,,Yeast
+GTKALTEVIPATEEAEC,>10 hour,False,,E_coli
+GTKALTEVIPATEEAEC,>20 hour,False,,Yeast
+GTKALTEVIPLAEEAEC,>10 hour,False,,E_coli
+GTKALTEVIPLAEEAEC,>20 hour,False,,Yeast
+GTKALTEVIPLTAEAEC,>20 hour,False,,Yeast
+GTKALTEVIPLTAEAEC,>10 hour,False,,E_coli
+GTKALTEVIPLTC,>20 hour,False,,Yeast
+GTKALTEVIPLTC,>10 hour,False,,E_coli
+GTKALTEVIPLTEAAEC,>10 hour,False,,E_coli
+GTKALTEVIPLTEAAEC,>20 hour,False,,Yeast
+GTKALTEVIPLTEEAEC,>20 hour,False,,Yeast
+GTKALTEVIPLTEEAEC,>10 hour,False,,E_coli
+GTKAWTEVWPLC,>10 hour,False,,E_coli
+GTKAWTEVWPLC,>20 hour,False,,Yeast
+GTKGLTEVIPLTEEAEC,>20 hour,False,,Yeast
+GTKGLTEVIPLTEEAEC,>10 hour,False,,E_coli
+GTKWATEWAPLTAEAEC,>20 hour,False,,Yeast
+GTKWATEWAPLTAEAEC,>10 hour,False,,E_coli
+GTKWLTEVWPLC,>10 hour,False,,E_coli
+GTKWLTEVWPLC,>20 hour,False,,Yeast
+GTKWLTEWIPLC,>20 hour,False,,Yeast
+GTKWLTEWIPLC,>10 hour,False,,E_coli
+GTKWLTEWIPLTAEAEC,>10 hour,False,,E_coli
+GTKWLTEWIPLTAEAEC,>20 hour,False,,Yeast
+GTKWLTEWIPLTAEC,>20 hour,False,,Yeast
+GTKWLTEWIPLTAEC,>10 hour,False,,E_coli
+GVCRCLCRRGVCRCLCRR,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GVCRCLCRRGVCRCLCRR,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GVFVFNGTSWFITQRNFFS,>10 hour,False,,E_coli
 GVFVFNGTSWFITQRNFFS,>20 hour,False,,Yeast
+GVHG,>10 hour,False,,E_coli
+GVHG,>20 hour,False,,Yeast
+GVIPCGESCVFIPCISAAIGCSCKNKVCYRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GVIPCGESCVFIPCISAAIGCSCKNKVCYRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GVIPCGESCVFIPCISTLLGCSCKNKVCYRN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",E_coli
+GVIPCGESCVFIPCISTLLGCSCKNKVCYRN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (C termini to N termini)",Yeast
+GVISLTPLLVCVAALLLL,>10 hour,False,,E_coli
+GVISLTPLLVCVAALLLL,>20 hour,False,,Yeast
+GVLLLILCLPTLVDCIRNCI,>10 hour,False,,E_coli
+GVLLLILCLPTLVDCIRNCI,>20 hour,False,,Yeast
+GVLV,>10 hour,True,"Acylation, Methyl amidation",E_coli
+GVLV,>20 hour,True,"Acylation, Methyl amidation",Yeast
+GVLVQ,>20 hour,True,"Acylation, Methyl amidation",Yeast
+GVLVQ,>10 hour,True,"Acylation, Methyl amidation",E_coli
+GVPCGESCVFIPCITGVIGCSCSSNVCYLN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+GVPCGESCVFIPCITGVIGCSCSSNVCYLN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+GWAGWLLSPRGSRPS,>10 hour,False,,E_coli
+GWAGWLLSPRGSRPS,>20 hour,False,,Yeast
+GWAGWLLSPRGSRPSWGP,>20 hour,False,,Yeast
+GWAGWLLSPRGSRPSWGP,>10 hour,False,,E_coli
+GWFDIIKKIASEL,>20 hour,True, Amidation,Yeast
+GWFDIIKKIASEL,>10 hour,True, Amidation,E_coli
+GWFDVVKHIAKRF,>10 hour,True, Amidation,E_coli
+GWFDVVKHIAKRF,>20 hour,True, Amidation,Yeast
+GWIGAIVSTALPQWRIYS,>10 hour,False,,E_coli
+GWIGAIVSTALPQWRIYS,>20 hour,False,,Yeast
+GWINEKKMQQKIDEKIGKNIIGGMAKAVIHKMAKNEFQCVANVDTLGNCKKHCAKTTGEKGYCHGTKCKCGIELSY,>20 hour,False,,Yeast
+GWINEKKMQQKIDEKIGKNIIGGMAKAVIHKMAKNEFQCVANVDTLGNCKKHCAKTTGEKGYCHGTKCKCGIELSY,>10 hour,False,,E_coli
+GWLKKIESIIDAF,>20 hour,True, Amidation,Yeast
+GWLKKIESIIDAF,>10 hour,True, Amidation,E_coli
+GWWYKGRARAVSAVA,>10 hour,True,"Alkylated(C18), Amidation",E_coli
+GWWYKGRARAVSAVA,>20 hour,True,"Alkylated(C18), Amidation",Yeast
+GWWYKGRARPVSAVA,>20 hour,True,"Alkylated(C18), Amidation",Yeast
+GWWYKGRARPVSAVA,>10 hour,True,"Alkylated(C18), Amidation",E_coli
+GXKRLVQRLKDXLRNLV,>20 hour,True, Amidation,Yeast
+GXKRLVQRLKDXLRNLV,>10 hour,True, Amidation,E_coli
+GYFVQDDGEWKFTGSSYYY,>10 hour,False,,E_coli
 GYFVQDDGEWKFTGSSYYY,>20 hour,False,,Yeast
+GYHLMSFPQAAP-HGVVFLHVTW,>20 hour,False,,Yeast
+GYHLMSFPQAAP-HGVVFLHVTW,>10 hour,False,,E_coli
+GYHLMSFPQAAPHGVVFLHVTW,>10 hour,False,,E_coli
+GYHLMSFPQAAPHGVVFLHVTW,>20 hour,False,,Yeast
+GYIEAEVI,>10 hour,True, Amidation,E_coli
+GYIEAEVI,>20 hour,True, Amidation,Yeast
+GYRARPKFKAGKR,>10 hour,False,,E_coli
+GYRARPKFKAGKR,>20 hour,False,,Yeast
+GYSAGERIVD,>20 hour,True, Amidation,Yeast
+GYSAGERIVD,>10 hour,True, Amidation,E_coli
+GYVTNRGRQKVVTLTDTTNQ,>20 hour,False,,Yeast
+GYVTNRGRQKVVTLTDTTNQ,>10 hour,False,,E_coli
+HAKFWW,>10 hour,True, Amidation,E_coli
+HCAFWW,>10 hour,True, Amidation,E_coli
+HCKAWW,>10 hour,True, Amidation,E_coli
+HCKFAW,>10 hour,True, Amidation,E_coli
+HCKFWA,>10 hour,True, Amidation,E_coli
+HCKFWF,>10 hour,True, Amidation,E_coli
+HCKFWI,>10 hour,True, Amidation,E_coli
+HCKFWW,>10 hour,True, Amidation,E_coli
+HFPRIWLHSLGQHIY,>10 hour,False,,E_coli
+HGLLYFAIFFVAAWHIRGR,>10 hour,True, Amidation,E_coli
+HGNITLGEWYNQTKDLQQKF,>10 hour,False,,E_coli
+HGQHGVHG,>10 hour,False,,E_coli
+HGQNRWPLSCPQYVYGSV,>10 hour,False,,E_coli
+HGQVDCSPGIWQLDCTH,>10 hour,True, Amidation,E_coli
+HGVHG,>10 hour,False,,E_coli
+HGVSGHG,>10 hour,False,,E_coli
+HGVSGHGQ,>10 hour,False,,E_coli
+HGVSGHGQHG,>10 hour,False,,E_coli
+HGVSGHGQHGV,>10 hour,False,,E_coli
+HKILGYTVIAMPEVEGEEIQ,>10 hour,False,,E_coli
+HLKTAVQMAVFIHNFKR,>10 hour,True, Amidation,E_coli
+HRALMRIRQMMT,>10 hour,False,,E_coli
+HRIAMRIRQMMT,>10 hour,False,,E_coli
+HRIDLGPPISLERLDVGTNLGNAIAKLEDAKELLE,>10 hour,True,"Acetylation, Amidation",E_coli
+HRILARIRQMMT,>10 hour,False,,E_coli
+HRILMRARQMMT,>10 hour,False,,E_coli
+HRILMRIAQMMT,>10 hour,False,,E_coli
+HRILMRIR,>10 hour,False,,E_coli
+HRILMRIRAMMT,>10 hour,False,,E_coli
+HRILMRIRQAMT,>10 hour,False,,E_coli
+HRILMRIRQMAT,>10 hour,False,,E_coli
+HRILMRIRQMMA,>10 hour,False,,E_coli
+HRRYFTFGGGYVYF,>10 hour,False,,E_coli
+HSLIEESQNQQEKNEQELLELDKWASLWNWFNITNW,>10 hour,False,,E_coli
+HTDNGSNF,>10 hour,True, Amidation,E_coli
+HTGERDWHLGQGVSI,>10 hour,False,,E_coli
+HVDKKVADKVLLLKQLRIMRLLTRL,>10 hour,False,,E_coli
+HVMLALATVLSIAGAGTGATAI,>10 hour,False,,E_coli
+IAEIQKQGQGQWTYQIYQEP,>10 hour,False,,E_coli
+IDENARSYIDKFQHDAEEMWYQ,>10 hour,True, Amidation,E_coli
+IDISIELNKAKSDLEESKEWIRRSNQKLDSIGNWH,>10 hour,True,"Acetylation, Amidation",E_coli
+IDLGPPISLERLDVGTNLGNAIAKLEDAKELLESS,>10 hour,True,"Acetylation, Amidation",E_coli
+IDRLNEVAKNLNESLIDLQELGK,>10 hour,True, Chol,E_coli
+IEEIEKKIEEIEKKIEEIEKKIEEIEKKIEEIEKKXX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEEIHKKIEEIHKKIEEIHKKIEEIHKKIEEIHKKXX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEEIKKKIEEIKKKIEEIKKKIEEIKKKIEEIKKKXX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEEIQKKIEEIQKKIEEIQKKIEEIQKKIEEIQKKXX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEEISKKIEEISKKIEEISKKIEEISKKIEEISKKXX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEEIWKKIEEIWKKIEEIWKKIEEIWKKIEEIWKKXX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEEIYKKIEEIYKKIEEIYKKIEEIYKKIEEIYKKXX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEELIKKSEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEELLKKAEEQQKKNEEELKK,>10 hour,True,"Acetylation, Amidation",E_coli
+IEELLKKAEEQQKKNEEELKKLEK,>10 hour,True,"Acetylation, Amidation",E_coli
+IEELLKKAEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEELLKKAEEQQKKNEEELKX,>10 hour,True,"Acetylation, Amidation",E_coli
+IEEQAKTFLDKFQANTI-HEVEEIYWQS,>10 hour,True, Amidation,E_coli
+IEEYTKKIEEILKKSEEQQKKNEEELKKLEK,>10 hour,True,"Acetylation, Amidation",E_coli
+IEEYTKKIEEILKKSEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+IELNKAKSDLEESKEWIRRSNQKLDSIGNWHQSST,>10 hour,True,"Acetylation, Amidation",E_coli
+IEVTFVNRRGDGAELWYLSA,>10 hour,False,,E_coli
+IFKAIWSGIKSLF,>10 hour,True, Amidation,E_coli
+IGLKVEAMEKFLYTAFAMQE,>10 hour,False,,E_coli
+IGNIPQYLKGLLGGILGIGL,>10 hour,False,,E_coli
+IGVTVI,>10 hour,False,,E_coli
+IGVTVIKNNMI,>10 hour,False,,E_coli
+IHAEIKNSLKIDNLDVNRCIEAL,>10 hour,False,,E_coli
+IHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+IINFYDPLVFPSDEFDASISQVNEKINQSLAFIRK,>10 hour,True,"Acetylation, Amidation",E_coli
+IIRILQQLLFIHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+IKKEIEAIKKEQEAIKKKIEAIEKEIEAQQHLLQLTVWGIKQLQARIL,>10 hour,True,"Acetylation, Amidation",E_coli
+IKKEIEAIKKEQEAIKKKIEAIEKEISGIVQQQNNLLRAIEAQQHLLQLTVWGIKQLQARIL,>10 hour,True,"Acetylation, Amidation",E_coli
+IKKEIEAIKKEQEAIKKKIEAIEKLLQLTVWGIKQLQARIL,>10 hour,True,"Acetylation, Amidation",E_coli
+IKKEKVYLAWVPAHKGIGN,>10 hour,False,,E_coli
+IKQEF,>10 hour,True, Amidation,E_coli
+IKWEYVLLLFLL,>10 hour,False,,E_coli
+IKWKKLLRAAKRIL,>10 hour,True, Amidation,E_coli
+ILAWKWAWWAWPP,>10 hour,True, Amidtion,E_coli
+ILEYLWKVPFDFWRGVIS,>10 hour,False,,E_coli
+ILGKIWEGIKSIF,>10 hour,True, Amidation,E_coli
+ILGPVLGLVSDTLDDVLGIL,>10 hour,False,,E_coli
+ILGPVLGLVSRTLRRVLGIL,>10 hour,False,,E_coli
+ILMCFS,>10 hour,False,,E_coli
+ILMCFSI,>10 hour,False,,E_coli
+ILMCFSID,>10 hour,False,,E_coli
+ILMCFSIDS,>10 hour,False,,E_coli
+ILMCFSIDSP,>10 hour,False,,E_coli
+ILMCFSIDSPD,>10 hour,False,,E_coli
+ILMCFSIDSPDS,>10 hour,False,,E_coli
+ILMCFSIDSPDSL,>10 hour,False,,E_coli
+ILMCFSIDSPDSLE,>10 hour,False,,E_coli
+ILMCFSIDSPDSLEN,>10 hour,False,,E_coli
+ILMCFSIDSPDSLENI,>10 hour,False,,E_coli
+ILPWGWPWWPWPP,>10 hour,True, Amidtion,E_coli
+ILPWGWPWWPWRR,>10 hour,True, Amidtion,E_coli
+ILPWKWPWWPWP,>10 hour,True, Amidtion,E_coli
+ILPWKWPWWPWPP,>10 hour,True, Amidtion,E_coli
+ILPWKWPWWPWRR,>10 hour,True, Amidtion,E_coli
+ILQQLLFIHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+ILSYLWNGIKSIF,>10 hour,True, Amidation,E_coli
+INASVVNIQKEIDRLNEVAKNLNESLIDLQELGK,>10 hour,True, Chol,E_coli
+INFYDPLVFPSDEFDASISQVNEKINQSLAFIRKS,>10 hour,True,"Acetylation, Amidation",E_coli
+INLKAIAALAKKLL,>10 hour,False,,E_coli
+INNYTSLIEELIKKSEEQQKKNEEELKKLEK,>10 hour,True,"Acetylation, Amidation",E_coli
+INNYTSLIEELIKKSEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+IPESSELTLQELLGEERR,>10 hour,True,"Acetylation, Amidation",E_coli
+IPLRGAFINGRWDSQCHRFS,>10 hour,False,,E_coli
+IQAQPDQSESELVNQIIEQL,>10 hour,False,,E_coli
+IQKEIDRLNEVAKNLNESLIDLQELGK,>10 hour,False,,E_coli
+IQKEIDRLNEVAKNLNESLIDLQELGKYEQYIK,>10 hour,True, Chol,E_coli
+IRILQQLLFIHFRIG,>10 hour,False,,E_coli
+IRILQQLLFIHFRIGRRRRRRRR,>10 hour,True,"Acetylation, Amidation",E_coli
+ISGINASVVNIQKEIDRLNEVAKNLNESLIDLQEL,>10 hour,False,,E_coli
+ISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELK,>10 hour,True, Chol,E_coli
+ISGINASVVNIQKEIDRLNEVAKNLNESLIK,>10 hour,True, Chol,E_coli
+ISIELNKAKSDLEESKEWIRRSNQKLDSIGNWHQS,>10 hour,True,"Acetylation, Amidation",E_coli
+ISLERLDVGTNLGNAIAKLEDAKELLESSDQILRS,>10 hour,True,"Acetylation, Amidation",E_coli
+ISLTPLLVCVAALLLLEQ,>10 hour,False,,E_coli
+ITLGEWYNQTKDLQQKFYEIIMDIEQNNVQGKKGI,>10 hour,True,"Acetylation, Amidation",E_coli
+ITLNNSVALDPIDISIELNKAKSDLEESKEWIRRS,>10 hour,True,"Acetylation, Amidation",E_coli
+IWLTALKFLGKHAAKHLAKQQLSKL,>10 hour,False,,E_coli
+IWNHGNITLGEWYNQTKDLQQKFYEIIMDIEQNNV,>10 hour,True,"Acetylation, Amidation",E_coli
+IYALLENAEDYNLVN,>10 hour,True, Amidation,E_coli
+MAILGDTAWDFGSLGGVFTSIGKALHQVFGAIY,>20 hour,False,,Yeast
+MAILGDTAWDFGSLGGVFTSIGKALHQVFGAIY,>10 hour,False,,E_coli
+MANAGLQLLGFILA,>20 hour,False,,Yeast
+MANAGLQLLGFILA,>10 hour,False,,E_coli
+MANAGLQLLGFILAFL,>10 hour,False,,E_coli
+MANAGLQLLGFILAFL,>20 hour,False,,Yeast
+MANAGLQLLGFILAFLGWIG,>20 hour,False,,Yeast
+MANAGLQLLGFILAFLGWIG,>10 hour,False,,E_coli
+MANAGLQLLGFILAFLGWIGAI,>10 hour,False,,E_coli
+MANAGLQLLGFILAFLGWIGAI,>20 hour,False,,Yeast
+MANAGLQLLGFILAFLGWIGAIVS,>10 hour,False,,E_coli
+MANAGLQLLGFILAFLGWIGAIVS,>20 hour,False,,Yeast
+MANSGLQLLGFSMALLGW,>10 hour,False,,E_coli
+MANSGLQLLGFSMALLGW,>20 hour,False,,Yeast
+MASAGMQILGVVLTLLGW,>10 hour,False,,E_coli
+MASAGMQILGVVLTLLGW,>20 hour,False,,Yeast
+MASTGLELLGMTLAVLGW,>20 hour,False,,Yeast
+MASTGLELLGMTLAVLGW,>10 hour,False,,E_coli
+MAVGLVLCDWWLGEYLLEA,>20 hour,False,,Yeast
+MAVGLVLCDWWLGEYLLEA,>10 hour,False,,E_coli
+MDVNP,>20 hour,False,,Yeast
+MDVNP,>10 hour,False,,E_coli
+MDVNPCLLFLKVPAQ,>20 hour,False,,Yeast
+MDVNPCLLFLKVPAQ,>10 hour,False,,E_coli
+MDVNPFLLFLKVPAQ,>20 hour,False,,Yeast
+MDVNPFLLFLKVPAQ,>10 hour,False,,E_coli
+MDVNPHLLFLKVPAQ,>20 hour,False,,Yeast
+MDVNPHLLFLKVPAQ,>10 hour,False,,E_coli
+MDVNPT,>10 hour,False,,E_coli
+MDVNPT,>20 hour,False,,Yeast
+MDVNPTFLFLKVPAQ,>20 hour,False,,Yeast
+MDVNPTFLFLKVPAQ,>10 hour,False,,E_coli
+MDVNPTL,>20 hour,False,,Yeast
+MDVNPTL,>10 hour,False,,E_coli
+MDVNPTLL,>20 hour,False,,Yeast
+MDVNPTLL,>10 hour,False,,E_coli
+MDVNPTLLF,>10 hour,False,,E_coli
+MDVNPTLLF,>20 hour,False,,Yeast
+MDVNPTLLFIDVPAQ,>10 hour,False,,E_coli
+MDVNPTLLFIDVPAQ,>20 hour,False,,Yeast
+MDVNPTLLFL,>10 hour,False,,E_coli
+MDVNPTLLFL,>20 hour,False,,Yeast
+MDVNPTLLFL KVPAQNAIST TFPYT,>10 hour,False,,E_coli
+MDVNPTLLFL KVPAQNAIST TFPYT,>20 hour,False,,Yeast
+MDVNPTLLFLK,>20 hour,False,,Yeast
+MDVNPTLLFLK,>10 hour,False,,E_coli
+MDVNPTLLFLKV,>10 hour,False,,E_coli
+MDVNPTLLFLKV,>20 hour,False,,Yeast
+MDVNPTLLFLKVP,>20 hour,False,,Yeast
+MDVNPTLLFLKVP,>10 hour,False,,E_coli
+MDVNPTLLFLKVPA,>10 hour,False,,E_coli
+MDVNPTLLFLKVPA,>20 hour,False,,Yeast
+MDVNPTLLFLKVPAQ,>10 hour,False,,E_coli
+MDVNPTLLFLKVPAQ,>20 hour,False,,Yeast
+MDVNPTLLFLKVPAQN,>10 hour,False,,E_coli
+MDVNPTLLFLKVPAQN,>20 hour,False,,Yeast
+MDVNPTLLFLKVPAQNAI,>20 hour,False,,Yeast
+MDVNPTLLFLKVPAQNAI,>10 hour,False,,E_coli
+MDVNPTLLFLKVPAQNAIST,>20 hour,False,,Yeast
+MDVNPTLLFLKVPAQNAIST,>10 hour,False,,E_coli
+MDVNPTLLFLKVPAQNAISTTFPYT,>20 hour,False,,Yeast
+MDVNPTLLFLKVPAQNAISTTFPYT,>10 hour,False,,E_coli
+MDVNPWLLFLKVPAQ,>10 hour,False,,E_coli
+MDVNPWLLFLKVPAQ,>20 hour,False,,Yeast
+MDVNPYFLFLKVPAQ,>10 hour,False,,E_coli
+MDVNPYFLFLKVPAQ,>20 hour,False,,Yeast
+MDVNPYLLFLKVPAQ,>10 hour,False,,E_coli
+MDVNPYLLFLKVPAQ,>20 hour,False,,Yeast
+MFNMLSTVLG,>10 hour,False,,E_coli
+MFNMLSTVLG,>20 hour,False,,Yeast
+MGRFKRFRKKFKKLFKKLS,>20 hour,False,,Yeast
+MGRFKRFRKKFKKLFKKLS,>10 hour,False,,E_coli
+MHGQVDCSPGIWQLD,>10 hour,False,,E_coli
+MHGQVDCSPGIWQLD,>20 hour,False,,Yeast
+MITHGCYTRTRHKHKLKKTL,>20 hour,False,,Yeast
+MITHGCYTRTRHKHKLKKTL,>10 hour,False,,E_coli
+MKTFSVAVAVAIVLAFICTQESSALPVTGVEELVELVSSDDPVADHQELPVELGERLFNIRKKRASPKCTPYCYPTRDGVFCGVRCDF,>10 hour,False,,E_coli
+MKTFSVAVAVAIVLAFICTQESSALPVTGVEELVELVSSDDPVADHQELPVELGERLFNIRKKRASPKCTPYCYPTRDGVFCGVRCDF,>20 hour,False,,Yeast
+MKTFSVAVAVAVVLAFICTQESSALPVTGIEELVEPVSSDNNDNHQGLPVELRERLVNIRKKRAPTDCIPYCYPTGDGFHCGVTCRF,>20 hour,False,,Yeast
+MKTFSVAVAVAVVLAFICTQESSALPVTGIEELVEPVSSDNNDNHQGLPVELRERLVNIRKKRAPTDCIPYCYPTGDGFHCGVTCRF,>10 hour,False,,E_coli
+MLRKRRKRL,>20 hour,False,,Yeast
+MLRKRRKRL,>10 hour,False,,E_coli
+MNINPTLLFLKVPAQ,>10 hour,False,,E_coli
+MNINPTLLFLKVPAQ,>20 hour,False,,Yeast
+MNINPTLLFLKVPIQ,>10 hour,False,,E_coli
+MNINPTLLFLKVPIQ,>20 hour,False,,Yeast
+MNINPYPLFIDVPIQ,>10 hour,False,,E_coli
+MNINPYPLFIDVPIQ,>20 hour,False,,Yeast
+MPEVEGEEIQPQMELRRNGR,>10 hour,False,,E_coli
+MPEVEGEEIQPQMELRRNGR,>20 hour,False,,Yeast
+MPKTRRRPRRSQRKRPPTPWP,>10 hour,False,,E_coli
+MPKTRRRPRRSQRKRPPTPWP,>20 hour,False,,Yeast
+MPKTRRRPRRSQRKRPPTPWPYGRKKRRQRRR,>10 hour,False,,E_coli
+MPKTRRRPRRSQRKRPPTPWPYGRKKRRQRRR,>20 hour,False,,Yeast
+MRRKVELFTYMRFD,>20 hour,True,"Acetylation, Amidation",Yeast
+MRRKVELFTYMRFD,>10 hour,True,"Acetylation, Amidation",E_coli
+MRSSGDYGEVTGAWIEFGCH,>10 hour,False,,E_coli
+MRSSGDYGEVTGAWIEFGCH,>20 hour,False,,Yeast
+MTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAALREL,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAALREL,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEEL,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEEL,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELI,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELI,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIK,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIK,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKK,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKK,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKS,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKS,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSE,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSE,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEE,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEE,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQ,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQ,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQQ,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQQ,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQQK,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQQK,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKK,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKK,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKN,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKN,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNE,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNE,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEK,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEK,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEKE,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEKE,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEKEL,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEKEL,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEKELK,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSEEQQKKNEKELK,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSQNQQ,>20 hour,False,,Yeast
+MTWEEWDKKIEEYTKKIEELIKKSQNQQ,>10 hour,False,,E_coli
+MTWEEWDKKIEEYTKKIEELIKKSQNQQEKN,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWEEWDKKIEEYTKKIEELIKKSQNQQEKN,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWEEWDKKIEEYTKKIEELIKKSQNQQIDL,>20 hour,False,,Yeast
+MTWEEWDKKIEEYTKKIEELIKKSQNQQIDL,>10 hour,False,,E_coli
+MTWMAWDRAIANYAALIHALIEAAQNQQEKNEAALLEL,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWMAWDRAIANYAALIHALIEAAQNQQEKNEAALLEL,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELL,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELL,>10 hour,True,"Acetylation, Amidation",E_coli
+MTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELLEL,>20 hour,True,"Acetylation, Amidation",Yeast
+MTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELLEL,>10 hour,True,"Acetylation, Amidation",E_coli
+MVALGDTAWDFGSVGGVLTSIGKGIHQVFGSAFKSL,>20 hour,False,,Yeast
+MVALGDTAWDFGSVGGVLTSIGKGIHQVFGSAFKSL,>10 hour,False,,E_coli
+MVDRGWGNHAGLFGKGANTI-SIV,>20 hour,False,,Yeast
+MVDRGWGNHAGLFGKGANTI-SIV,>10 hour,False,,E_coli
+MWKTPTLKYFGGFNFSQI,>20 hour,False,,Yeast
+MWKTPTLKYFGGFNFSQI,>10 hour,False,,E_coli
+MWKTPTLKYFGGFNFSQIL,>10 hour,False,,E_coli
+MWKTPTLKYFGGFNFSQIL,>20 hour,False,,Yeast
+MYNCSLQNGFTMKVDDLIVH,>10 hour,False,,E_coli
+MYNCSLQNGFTMKVDDLIVH,>20 hour,False,,Yeast
+NADIIKSLIRKTIINASKNTASLSILQHLYVLRS,>10 hour,False,,E_coli
+NDDELHMLMTDLVYEALHFAKDEEIKKRVFQLFELADKAYKNNDRQKLEKVVEELKELLERLLS,>10 hour,False,,E_coli
+NDITLNNSVALDPIDISIELNKAKSDLEESKEWIR,>10 hour,True,"Acetylation, Amidation",E_coli
+NDSRGIDAEEELETKAELVITKLKTPLMRGKVVVGAAGA,>10 hour,False,,E_coli
+NEYHGFVDKANNENKRKKQQGRDDFVVKPNNFANRRRKDDYNENYYDDVDAADVV,>10 hour,False,,E_coli
+NFYDPLVFPSDEFDASISQVNEKINQSLAFIRKSD,>10 hour,True,"Acetylation, Amidation",E_coli
+NFYDPLVFPSDEFDASISQVNEKINQSLASIRKSDELLHNVNAGK,>10 hour,False,,E_coli
+NGAICWGPCPTAFRQIGNCGHFKVRCCKIR,>10 hour,False,,E_coli
 NGAICWGPCPTAFRQIGNCGRFRVRCCRIR,>10 hour,False,,E_coli
+NGESSADWAKN,>10 hour,False,,E_coli
+NGIGVTQNVLYENQKQIANQFNKAISQIQESLTTTSTA,>10 hour,False,,E_coli
+NHEAEDLFY,>10 hour,False,,E_coli
+NIAGNWSCTSDLPSSWGYMN,>10 hour,False,,E_coli
+NITLGEWYNQTKDLQQKFYEIIMDIEQNNVQGK,>10 hour,True,"Acetylation, Amidation",E_coli
+NKGCATCSIGAACLVDGPIPDFEIAGATGLFGLWG,>10 hour,True,"No specific N-terminal, No specific C-terminal",E_coli
+NKPFVFLM,>10 hour,False,,E_coli
+NLTCAVACELKWESEFWR,>10 hour,False,,E_coli
+NLVSGLIEARKYLEQLHRKLKNRKV,>10 hour,False,,E_coli
+NMTINQTIWNHGNITLGEWY,>10 hour,False,,E_coli
+NNSVALDPIDISIELNKAKSDLEESKEWIRRSNQK,>10 hour,True,"Acetylation, Amidation",E_coli
+NQIIEQLIKKEKVY,>10 hour,False,,E_coli
+NQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLIT,>10 hour,False,,E_coli
+NQTKDLQQKFYEIIMDIEQN,>10 hour,False,,E_coli
+NQTKDLQQKFYEIIMDIEQNNVQGKKGIQQLQKWE,>10 hour,True,"Acetylation, Amidation",E_coli
+NQVGD,>10 hour,False,,E_coli
+NQVSATCSVK,>10 hour,False,,E_coli
+NSVALDPIDISIELNKAKSDLEESKEWIRRSNQKL,>10 hour,True,"Acetylation, Amidation",E_coli
+NVQGKTGIQQLQKWEDWVRW,>10 hour,False,,E_coli
+NVTFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEY,>10 hour,False,,E_coli
+NVTFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYGSGC,>10 hour,True, Chol,E_coli
+NVTFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYGSGK,>10 hour,True, Palm,E_coli
+NYWILEYLWKVPFDFWRG,>10 hour,False,,E_coli
 PACQDFLGAMIHLKAKTNISIR,>20 hour,False,,Yeast
+PACQDFLGAMIHLKAKTNISIR,>20 hour,False,,Mammalian
 PAETGQET,>20 hour,True, Amidation,Mammalian
+PAETGQET,>20 hour,True, Amidation,Yeast
+PDAVYLHRIDLGPPISLERLDVGTNLGNAIAKLED,>20 hour,True,"Acetylation, Amidation",Mammalian
 PDAVYLHRIDLGPPISLERLDVGTNLGNAIAKLED,>20 hour,True,"Acetylation, Amidation",Yeast
 PDIVIYQYMDDLYVGSDLEI,>20 hour,False,,Mammalian
+PDIVIYQYMDDLYVGSDLEI,>20 hour,False,,Yeast
 PDYLLVPEEVMEYKPRRKRAAI,>20 hour,False,,Mammalian
+PDYLLVPEEVMEYKPRRKRAAI,>20 hour,False,,Yeast
 PEDQFNVALDQVFESIENSQALVDQSNRILSSAEKGNTG,>20 hour,False,,Mammalian
+PEDQFNVALDQVFESIENSQALVDQSNRILSSAEKGNTG,>20 hour,False,,Yeast
 PEVFLM,>20 hour,False,,Yeast
+PEVFLM,>20 hour,False,,Mammalian
+PFDFWRGVISLTPLLVCV,>20 hour,False,,Mammalian
 PFDFWRGVISLTPLLVCV,>20 hour,False,,Yeast
+PFVFLE,>20 hour,False,,Yeast
 PFVFLE,>20 hour,False,,Mammalian
+PFVFLM,>20 hour,False,,Mammalian
 PFVFLM,>20 hour,False,,Yeast
+PFVFLR,>20 hour,False,,Mammalian
 PFVFLR,>20 hour,False,,Yeast
+PFVYLI,>20 hour,False,,Yeast
 PFVYLI,>20 hour,False,,Mammalian
+PGGETARKDKFLHMVLPRRL,>20 hour,False,,Mammalian
 PGGETARKDKFLHMVLPRRL,>20 hour,False,,Yeast
+PGIWQLDCTHLEGKI,>20 hour,False,,Mammalian
 PGIWQLDCTHLEGKI,>20 hour,False,,Yeast
 PHSCN,>20 hour,True,"Acylation, Amidation",Yeast
+PHSCN,>20 hour,True,"Acylation, Amidation",Mammalian
+PIDISIELNKAKSDLEESKEWIRRSNQKLDSIGNW,>20 hour,True,"Acetylation, Amidation",Mammalian
 PIDISIELNKAKSDLEESKEWIRRSNQKLDSIGNW,>20 hour,True,"Acetylation, Amidation",Yeast
+PISLERLDVGTNLGNAIAKLEDAKELLESSDQILR,>20 hour,True,"Acetylation, Amidation",Yeast
 PISLERLDVGTNLGNAIAKLEDAKELLESSDQILR,>20 hour,True,"Acetylation, Amidation",Mammalian
 PITHWSHGQNRWPLSCPQ,>20 hour,False,,Yeast
+PITHWSHGQNRWPLSCPQ,>20 hour,False,,Mammalian
+PKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>20 hour,False,,Mammalian
 PKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>20 hour,False,,Yeast
 PKEELDKYFKNHTSPDVDLGLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>20 hour,False,,Mammalian
-PKRKSXSF,>20 hour,True,"No specific N-terminal, No specific C-terminal",Yeast
+PKEELDKYFKNHTSPDVDLGLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>20 hour,False,,Yeast
 PLVFPSDEFDASISQVNEKINQSLAFIRKSDELLH,>20 hour,True,"Acetylation, Amidation",Yeast
+PLVFPSDEFDASISQVNEKINQSLAFIRKSDELLH,>20 hour,True,"Acetylation, Amidation",Mammalian
+PNDITLNNSVALDPIDISIELNKAKSDLEESKEWI,>20 hour,True,"Acetylation, Amidation",Yeast
 PNDITLNNSVALDPIDISIELNKAKSDLEESKEWI,>20 hour,True,"Acetylation, Amidation",Mammalian
 PNGPWVWVPAFCQAVGWGDP,>20 hour,False,,Yeast
+PNGPWVWVPAFCQAVGWGDP,>20 hour,False,,Mammalian
 PNLTCAVACELKWESEFR,>20 hour,False,,Yeast
+PNLTCAVACELKWESEFR,>20 hour,False,,Mammalian
+PNQTCMWNTSQIQDPEIPKC,>20 hour,False,,Mammalian
 PNQTCMWNTSQIQDPEIPKC,>20 hour,False,,Yeast
+PPISLERLDVGTNLGNAIAKLEDAKELLESSDQIL,>20 hour,True,"Acetylation, Amidation",Mammalian
 PPISLERLDVGTNLGNAIAKLEDAKELLESSDQIL,>20 hour,True,"Acetylation, Amidation",Yeast
+PPLPSVTKLTEDRWN,>20 hour,False,,Yeast
 PPLPSVTKLTEDRWN,>20 hour,False,,Mammalian
+PPSAVCNYEVAEDPSYVREH,>20 hour,False,,Yeast
 PPSAVCNYEVAEDPSYVREH,>20 hour,False,,Mammalian
+PPVYTKDVDISSQISSMNQSLQQSKDYIKEAQKILDTVNPSL,>20 hour,False,,Yeast
 PPVYTKDVDISSQISSMNQSLQQSKDYIKEAQKILDTVNPSL,>20 hour,False,,Mammalian
+PQMELRRNGRQCGMSEKEEE,>20 hour,False,,Mammalian
 PQMELRRNGRQCGMSEKEEE,>20 hour,False,,Yeast
+PSDEFDASISQVNEKINQSLAFIRKSDELLHNVNA,>20 hour,True,"Acetylation, Amidation",Mammalian
 PSDEFDASISQVNEKINQSLAFIRKSDELLHNVNA,>20 hour,True,"Acetylation, Amidation",Yeast
+PTGERVWDRGNVTLLCDCPN,>20 hour,False,,Mammalian
 PTGERVWDRGNVTLLCDCPN,>20 hour,False,,Yeast
+PTLLFLKVPAQNAISTTFPYT,>20 hour,False,,Mammalian
 PTLLFLKVPAQNAISTTFPYT,>20 hour,False,,Yeast
 PVDCTMYSNKMYNCSLQNGF,>20 hour,False,,Mammalian
+PVDCTMYSNKMYNCSLQNGF,>20 hour,False,,Yeast
 PVLQPALSLSCGPEPLLLSC,>20 hour,False,,Mammalian
+PVLQPALSLSCGPEPLLLSC,>20 hour,False,,Yeast
 PVPNLTCAVACELKWESE,>20 hour,False,,Mammalian
+PVPNLTCAVACELKWESE,>20 hour,False,,Yeast
 PWLKPGDLDL,>20 hour,False,,Mammalian
+PWLKPGDLDL,>20 hour,False,,Yeast
 PXTXXLPX,>20 hour,True,Pyruvoyl,Mammalian
+PXTXXLPX,>20 hour,True,Pyruvoyl,Yeast
+QAKTFLDKFNHEA,>10 hour,False,,E_coli
+QDKHEEDYQMYNKGDKED,>10 hour,True, Amidation,E_coli
+QEGISRFKICPYHWYKQHMSLLFRRYYHKLDSII,>10 hour,False,,E_coli
+QETAYFLLKLAGR,>10 hour,True, Amidation,E_coli
+QETAYFLLKLAGRWP,>10 hour,True, Amidation,E_coli
+QGSWFGCTWMNSTGF,>10 hour,False,,E_coli
+QHGVHG,>10 hour,False,,E_coli
+QIQDPEIPKCGWWNQMAYYN,>10 hour,False,,E_coli
+QKEGLHYTCSSHFPYSQYQF,>10 hour,False,,E_coli
+QKIEELLKKAEEQQKKNEEELKKLEK,>10 hour,True,"Acetylation, Amidation",E_coli
+QKIEELLKKAEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+QKQIANQFNKAISQIQESLTTTSTALGKLQDVVNQNAQALNTLVKQ,>10 hour,False,,E_coli
+QKWEDWVRWIGN,>10 hour,False,,E_coli
+QLASNYWILEYLWKVPFD,>10 hour,False,,E_coli
+QLIHLYYFDCFSESA,>10 hour,False,,E_coli
+QLLIRMI,>10 hour,False,,E_coli
+QLLIRMIYKNI,>10 hour,False,,E_coli
+QLLIRMIYKNILFYLVPGPGHGAEPERRNIKYL,>10 hour,False,,E_coli
+QLQKWEDWVRWI,>10 hour,False,,E_coli
+QLQKWEDWVRWIGNIPQYLKG,>10 hour,False,,E_coli
+QMRRKVELFTYMRF,>10 hour,True,"Acetylation, Amidation",E_coli
+QMRRKVELFTYMRFD,>10 hour,True,"Acetylation, Amidation",E_coli
+QNQSANQFQKEISQINEVLTTTNTSLGKLQDDVNQNNQSLNTLQKE,>10 hour,False,,E_coli
+QQLLFIHFRIGCQHS,>10 hour,False,,E_coli
+QRPRLSHKGPMPF,>10 hour,False,,E_coli
+QSHLSLCRWCCNCCRSNKGC,>10 hour,True, Cyclization(Cys7 and Cys20),E_coli
+QTKDLQQKFYEIIMDIEQNNVQGKKGIQQLQKWED,>10 hour,True,"Acetylation, Amidation",E_coli
+QVDPDLADQLIHLYY,>10 hour,False,,E_coli
+SAHS,>10 hour,True,"Acylation, Amidation",E_coli
+SAHS,>20 hour,True,"Acylation, Amidation",Yeast
+SALEEQLKTFLDKFMHELEDLLYQLAL,>20 hour,True, Amidation,Yeast
+SALEEQLKTFLDKFMHELEDLLYQLAL,>10 hour,True, Amidation,E_coli
+SALEEQYKTFLDKFLHELEDLLYQLALAL,>20 hour,True, Amidation,Yeast
+SALEEQYKTFLDKFLHELEDLLYQLALAL,>10 hour,True, Amidation,E_coli
+SALEEQYKTFLDKFMHELEDLLYQLAL,>10 hour,True, Amidation,E_coli
+SALEEQYKTFLDKFMHELEDLLYQLAL,>20 hour,True, Amidation,Yeast
+SALEEQYKTFLDKFMHELEDLLYQLSL,>20 hour,True, Amidation,Yeast
+SALEEQYKTFLDKFMHELEDLLYQLSL,>10 hour,True, Amidation,E_coli
+SAVNGQSGRMEFFWTILK,>20 hour,False,,Yeast
+SAVNGQSGRMEFFWTILK,>10 hour,False,,E_coli
+SANTI-VSVGMKPSPRP,>10 hour,False,,E_coli
+SANTI-VSVGMKPSPRP,>20 hour,False,,Yeast
+SDEFDASISQVNEKINQSLAFIRKSDELLHNVNAG,>20 hour,True,"Acetylation, Amidation",Yeast
+SDEFDASISQVNEKINQSLAFIRKSDELLHNVNAG,>10 hour,True,"Acetylation, Amidation",E_coli
+SDRDTVVELSEWGVPCAT,>10 hour,False,,E_coli
+SDRDTVVELSEWGVPCAT,>20 hour,False,,Yeast
+SEETKENEGFTVTAEGK,>10 hour,False,,E_coli
+SEETKENEGFTVTAEGK,>20 hour,False,,Yeast
+SEFWRWTEQLASNYWILE,>10 hour,False,,E_coli
+SEFWRWTEQLASNYWILE,>20 hour,False,,Yeast
+SENRKVPFYSHS,>10 hour,False,,E_coli
+SENRKVPFYSHS,>20 hour,False,,Yeast
+SFAIKWEYVLLLFLL,>10 hour,False,,E_coli
+SFAIKWEYVLLLFLL,>20 hour,False,,Yeast
+SGCANNTCYNANTI-VSVIVPDYQC,>10 hour,False,,E_coli
+SGCANNTCYNANTI-VSVIVPDYQC,>20 hour,False,,Yeast
+SGHGQHGVHG,>10 hour,False,,E_coli
+SGHGQHGVHG,>20 hour,False,,Yeast
+SGSWLRDIWDWICEVLSDFK,>10 hour,False,,E_coli
+SGSWLRDIWDWICEVLSDFK,>20 hour,False,,Yeast
+SGTKMACPSNRGILRNWYNP,>10 hour,False,,E_coli
+SGTKMACPSNRGILRNWYNP,>20 hour,False,,Yeast
+SIELNKAKSDLEESKEWIRRSNQKLDSI,>20 hour,False,,Yeast
+SIELNKAKSDLEESKEWIRRSNQKLDSI,>10 hour,False,,E_coli
+SIELNKAKSDLEESKEWIRRSNQKLDSIGNWHQSS,>20 hour,True,"Acetylation, Amidation",Yeast
+SIELNKAKSDLEESKEWIRRSNQKLDSIGNWHQSS,>10 hour,True,"Acetylation, Amidation",E_coli
+SIGAKILGGVKTFFKGALKELASTYLQ,>20 hour,False,,Yeast
+SIGAKILGGVKTFFKGALKELASTYLQ,>10 hour,False,,E_coli
+SIGGVFNSIGRAVHQVFGGAFRTL,>10 hour,False,,E_coli
+SIGGVFNSIGRAVHQVFGGAFRTL,>20 hour,False,,Yeast
+SISCGESCAMISFCFTEVIGCSCKNKVCYLN,>20 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",Yeast
+SISCGESCAMISFCFTEVIGCSCKNKVCYLN,>10 hour,True,"Cyclization (N termini to C termini), Cyclization (N termini to C termini)",E_coli
+SISNALNKLEESNRNLDKVNVKLT,>10 hour,False,,E_coli
+SISNALNKLEESNRNLDKVNVKLT,>20 hour,False,,Yeast
+SIWRDWVDLICEFLSDWK,>10 hour,False,,E_coli
+SIWRDWVDLICEFLSDWK,>20 hour,False,,Yeast
+SKANGQSGRMEFFWTILK,>10 hour,False,,E_coli
+SKANGQSGRMEFFWTILK,>20 hour,False,,Yeast
+SKEKIGKEFKRIVQRIKDFLR,>10 hour,False,,E_coli
+SKEKIGKEFKRIVQRIKDFLR,>20 hour,False,,Yeast
+SKHS,>10 hour,True,"Acylation, Amidation",E_coli
+SKHS,>20 hour,True,"Acylation, Amidation",Yeast
+SKHSSLDC,>20 hour,False,,Yeast
+SKHSSLDC,>10 hour,False,,E_coli
+SKHSSLDCVLRP,>20 hour,False,,Yeast
+SKHSSLDCVLRP,>10 hour,False,,E_coli
+SKVAGQSGRMEFFWTILK,>20 hour,False,,Yeast
+SKVAGQSGRMEFFWTILK,>10 hour,False,,E_coli
+SKVNGASGRMEFFWTILK,>20 hour,False,,Yeast
+SKVNGASGRMEFFWTILK,>10 hour,False,,E_coli
+SKVNGQAGRMEFFWTILK,>20 hour,False,,Yeast
+SKVNGQAGRMEFFWTILK,>10 hour,False,,E_coli
+SKVNGQSGRAEFFWTILK,>20 hour,False,,Yeast
+SKVNGQSGRAEFFWTILK,>10 hour,False,,E_coli
+SKVNGQSGRMAFFWTILK,>10 hour,False,,E_coli
+SKVNGQSGRMAFFWTILK,>20 hour,False,,Yeast
+SKVNGQSGRMEFAWTILK,>10 hour,False,,E_coli
+SKVNGQSGRMEFAWTILK,>20 hour,False,,Yeast
+SKVNGQSGRMEFFWTALK,>10 hour,False,,E_coli
+SKVNGQSGRMEFFWTALK,>20 hour,False,,Yeast
+SKVNGQSGRMEFFWTIAK,>10 hour,False,,E_coli
+SKVNGQSGRMEFFWTIAK,>20 hour,False,,Yeast
+SKVNGQSGRMEFFWTILK,>20 hour,False,,Yeast
+SKVNGQSGRMEFFWTILK,>10 hour,False,,E_coli
+SLDC,>10 hour,True,"Acylation, Amidation",E_coli
+SLDC,>20 hour,True,"Acylation, Amidation",Yeast
+SLDCVLRP,>10 hour,False,,E_coli
+SLDCVLRP,>20 hour,False,,Yeast
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKEL,>10 hour,True, PEG8-K(Chol),E_coli
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKEL,>20 hour,True, PEG4-C(Palm),Yeast
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGSG,>20 hour,True, Chol,Yeast
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGSG,>10 hour,True, Chol,E_coli
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGSGSG,>10 hour,True, PEG24-25-HC,E_coli
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGSGSG,>20 hour,True, PEG4-Chol,Yeast
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGSGSGC,>10 hour,False,,E_coli
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGSGSGC,>20 hour,False,,Yeast
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVKW,>20 hour,False,,Yeast
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVKW,>10 hour,False,,E_coli
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVKWGSGC,>20 hour,True, Chol,Yeast
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVKWGSGC,>10 hour,True, Chol,E_coli
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVKWGSGK,>20 hour,True, Palm,Yeast
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVKWGSGK,>10 hour,True, Palm,E_coli
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELK,>10 hour,True, Chol,E_coli
+SLDQINVTFLDLEYEMKKLEEAIKKLEESYIDLKELK,>20 hour,True, Chol,Yeast
+SLDYINVTFLDLQDEMNRLQEAIKVLNQSYINLKDI,>20 hour,True, PEG8-K(Chol),Yeast
+SLDYINVTFLDLQDEMNRLQEAIKVLNQSYINLKDI,>10 hour,True, PEG8-K(Chol),E_coli
+SLERLDVGTNLGNAIAKLEDAKELLESSDQILRSM,>20 hour,True,"Acetylation, Amidation",Yeast
+SLERLDVGTNLGNAIAKLEDAKELLESSDQILRSM,>10 hour,True,"Acetylation, Amidation",E_coli
+SLIEELIKKSEEQQKKNEEELKKLEK,>10 hour,True,"Acetylation, Amidation",E_coli
+SLIEELIKKSEEQQKKNEEELKKLEK,>20 hour,True,"Acetylation, Amidation",Yeast
+SLIEELIKKSEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+SLIEELIKKSEEQQKKNEEELKKLEX,>20 hour,True,"Acetylation, Amidation",Yeast
+SLSRFLRFLKIVYRRAF,>20 hour,True, Amidation,Yeast
+SLSRFLRFLKIVYRRAF,>10 hour,True, Amidation,E_coli
+SLTQINASVVNIQKEIDRLNEVAKNLNESLIDLQEL,>10 hour,True, PEG8-K(Chol),E_coli
+SLTQINASVVNIQKEIDRLNEVAKNLNESLIDLQEL,>20 hour,True, PEG8-K(Chol),Yeast
+SLTQINTTLLDLEYEMKKLEEVVKKLEESYIDLKEL,>20 hour,True,"Acetylation, Amidation",Yeast
+SLTQINTTLLDLEYEMKKLEEVVKKLEESYIDLKEL,>10 hour,True,"Acetylation, Amidation",E_coli
+SLTQINTTLLDLEYEMRSLQQVVKALNESYIDLKEL,>10 hour,False,,E_coli
+SLTQINTTLLDLEYEMRSLQQVVKALNESYIDLKEL,>20 hour,False,,Yeast
+SLTQINTTLLDLTYEMLSLQQVVKALNESYIDLKEL,>10 hour,True, PEG8-K(Chol),E_coli
+SLTQINTTLLDLTYEMLSLQQVVKALNESYIDLKEL,>20 hour,True, PEG8-K(Chol),Yeast
+SLTQINTTLLDLTYEMLSLQQVVKALNESYIDLKELGSGSGC,>10 hour,False,,E_coli
+SLTQINTTLLDLTYEMLSLQQVVKALNESYIDLKELGSGSGC,>20 hour,False,,Yeast
+SNQGGSPLPRSV,>20 hour,False,,Yeast
+SNQGGSPLPRSV,>10 hour,False,,E_coli
+SNYWILEYLWKVPFDFWR,>20 hour,False,,Yeast
+SNYWILEYLWKVPFDFWR,>10 hour,False,,E_coli
+SPAIFQSSMTKILEPFRKQN,>20 hour,False,,Yeast
+SPAIFQSSMTKILEPFRKQN,>10 hour,False,,E_coli
+SPYPSWSTPAGR,>10 hour,False,,E_coli
+SPYPSWSTPAGR,>20 hour,False,,Yeast
+SQVGD,>20 hour,False,,Yeast
+SQVGD,>10 hour,False,,E_coli
+SRDKHEEHEKENDRGQ,>10 hour,True, Amidation,E_coli
+SRDKHEEHEKENDRGQ,>20 hour,True, Amidation,Yeast
+SSCNMGWDTPAANTI-CCVWFPYWV,>20 hour,False,,Yeast
+SSCNMGWDTPAANTI-CCVWFPYWV,>10 hour,False,,E_coli
+STLGKAFSTTLKGAQRLAALGDTAWDFG,>10 hour,False,,E_coli
+STLGKAFSTTLKGAQRLAALGDTAWDFG,>20 hour,False,,Yeast
+STQRRGRTGRGRRGIYR,>20 hour,False,,Yeast
+STQRRGRTGRGRRGIYR,>10 hour,False,,E_coli
+STSQKANTI-SIVAYTM,>10 hour,False,,E_coli
+STSQKANTI-SIVAYTM,>20 hour,False,,Yeast
+STSYAGAVVNDL,>10 hour,False,,E_coli
+STSYAGAVVNDL,>20 hour,False,,Yeast
+STTVKAASWWA,>10 hour,True, Amidation,E_coli
+STTVKAASWWA,>20 hour,True, Amidation,Yeast
+SVALDPIDISIELNKAKSDLEESKEWIRRSNQKLD,>10 hour,True,"Acetylation, Amidation",E_coli
+SVALDPIDISIELNKAKSDLEESKEWIRRSNQKLD,>20 hour,True,"Acetylation, Amidation",Yeast
+SVALVPHVGMGLETRTETWMSSEGAWKHVQRIETWILRHPG,>10 hour,False,,E_coli
+SVALVPHVGMGLETRTETWMSSEGAWKHVQRIETWILRHPG,>20 hour,False,,Yeast
+SVTKLTEDRWNKPQK,>10 hour,False,,E_coli
+SVTKLTEDRWNKPQK,>20 hour,False,,Yeast
+SVVNIQKEIDRLNEVAKNLNESLIDLQELGK,>20 hour,True, Chol,Yeast
+SVVNIQKEIDRLNEVAKNLNESLIDLQELGK,>10 hour,True, Chol,E_coli
+SVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIK,>20 hour,True, C18(stearic acid),Yeast
+SVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIK,>10 hour,True, C16(palmitic acid),E_coli
+SVVNIQKEIDRLNEVAKNLNESLIK,>20 hour,True, Chol,Yeast
+SVVNIQKEIDRLNEVAKNLNESLIK,>10 hour,True, Chol,E_coli
+SWFASTGGRDSKIDVWSL,>20 hour,False,,Yeast
+SWFASTGGRDSKIDVWSL,>10 hour,False,,E_coli
+SWKSMAKKLKEYMEKLKQRA,>20 hour,False,,Yeast
+SWKSMAKKLKEYMEKLKQRA,>10 hour,False,,E_coli
+SWLDDIWDWICEVLSDFE,>20 hour,False,,Yeast
+SWLDDIWDWICEVLSDFE,>10 hour,False,,E_coli
+SWLDRIWRWICKVLSRFE,>10 hour,False,,E_coli
+SWLDRIWRWICKVLSRFE,>20 hour,False,,Yeast
+SWLRDIWD,>10 hour,False,,E_coli
+SWLRDIWD,>20 hour,False,,Yeast
+SWLRDIWDWACEVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWACEVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWECEVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWECEVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWGCEVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWGCEVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWI,>10 hour,False,,E_coli
+SWLRDIWDWI,>20 hour,False,,Yeast
+SWLRDIWDWICE,>10 hour,False,,E_coli
+SWLRDIWDWICE,>20 hour,False,,Yeast
+SWLRDIWDWICELLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWICELLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWICEV,>20 hour,False,,Yeast
+SWLRDIWDWICEV,>10 hour,False,,E_coli
+SWLRDIWDWICEVL,>20 hour,False,,Yeast
+SWLRDIWDWICEVL,>10 hour,False,,E_coli
+SWLRDIWDWICEVLSD,>20 hour,False,,Yeast
+SWLRDIWDWICEVLSD,>10 hour,False,,E_coli
+SWLRDIWDWICEVLSDFKT,>10 hour,False,,E_coli
+SWLRDIWDWICEVLSDFKT,>20 hour,False,,Yeast
+SWLRDIWDWICEVLSDFKTW,>20 hour,False,,Yeast
+SWLRDIWDWICEVLSDFKTW,>10 hour,False,,E_coli
+SWLRDIWDWICKVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWICKVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWIEEVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWIEEVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWIREVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWIREVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWISEVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWISEVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWKCEVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWKCEVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWLCELLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWLCELLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWLCEVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWLCEVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWSCEVLSDFK,>10 hour,False,,E_coli
+SWLRDIWDWSCEVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWVCEVLSDFK,>20 hour,False,,Yeast
+SWLRDIWDWVCEVLSDFK,>10 hour,False,,E_coli
+SWLRDIWRWICKVLSRFK,>10 hour,False,,E_coli
+SWLRDIWRWICKVLSRFK,>20 hour,False,,Yeast
+SWLRDLWDWICELLSDFK,>20 hour,False,,Yeast
+SWLRDLWDWICELLSDFK,>10 hour,False,,E_coli
+SWLRDLWDWICEVLSDFK,>10 hour,False,,E_coli
+SWLRDLWDWICEVLSDFK,>20 hour,False,,Yeast
+SWLRDLWDWLCELLSDFK,>10 hour,False,,E_coli
+SWLRDLWDWLCELLSDFK,>20 hour,False,,Yeast
+SWLRDLWDWLCEVLSDFK,>10 hour,False,,E_coli
+SWLRDLWDWLCEVLSDFK,>20 hour,False,,Yeast
+SWLRDVWDWICTVLTDFK,>10 hour,False,,E_coli
+SWLRDVWDWICTVLTDFK,>20 hour,False,,Yeast
+SWLRDVWDWVCTILTDFK,>10 hour,False,,E_coli
+SWLRDVWDWVCTILTDFK,>20 hour,False,,Yeast
+SWLRDVWDWVCTVLSDFK,>20 hour,False,,Yeast
+SWLRDVWDWVCTVLSDFK,>10 hour,False,,E_coli
+SWLRRIWRWICKVLSRFK,>10 hour,False,,E_coli
+SWLRRIWRWICKVLSRFK,>20 hour,False,,Yeast
+SWLVNRDWFHDLNLPWTGSSAGTWQ,>10 hour,False,,E_coli
+SWLVNRDWFHDLNLPWTGSSAGTWQ,>20 hour,False,,Yeast
+SWLWEVWDWVLHVLSDFK,>10 hour,False,,E_coli
+SWLWEVWDWVLHVLSDFK,>20 hour,False,,Yeast
+SWRLDIWDWICESVLDFK,>10 hour,False,,E_coli
+SWRLDIWDWICESVLDFK,>20 hour,False,,Yeast
+SWRLIDWDWICEVLSDFK,>20 hour,False,,Yeast
+SWRLIDWDWICEVLSDFK,>10 hour,False,,E_coli
+TAAFLLKLAGRW,>20 hour,False,,Yeast
+TAAFLLKLAGRW,>10 hour,False,,E_coli
+TASFLLKLAGRW,>20 hour,True, Amidation,Yeast
+TASFLLKLAGRW,>10 hour,True, Amidation,E_coli
+TAVILMCFSIDSPDSLENI,>10 hour,False,,E_coli
+TAVILMCFSIDSPDSLENI,>20 hour,False,,Yeast
+TAYALLKLAGRW,>20 hour,False,,Yeast
+TAYALLKLAGRW,>10 hour,False,,E_coli
+TAYFALKLAGRW,>20 hour,False,,Yeast
+TAYFALKLAGRW,>10 hour,False,,E_coli
+TAYFLAKLAGRW,>10 hour,False,,E_coli
+TAYFLAKLAGRW,>20 hour,False,,Yeast
+TAYFLL,>10 hour,True, Amidation,E_coli
+TAYFLL,>20 hour,True, Amidation,Yeast
+TAYFLLALAGRW,>10 hour,False,,E_coli
+TAYFLLALAGRW,>20 hour,False,,Yeast
+TAYFLLILAGRW,>20 hour,True, Amidation,Yeast
+TAYFLLILAGRW,>10 hour,True, Amidation,E_coli
+TAYFLLKAAGRW,>20 hour,False,,Yeast
+TAYFLLKAAGRW,>10 hour,False,,E_coli
+TAYFLLKLAARW,>10 hour,False,,E_coli
+TAYFLLKLAARW,>20 hour,False,,Yeast
+TAYFLLKLAGAW,>20 hour,False,,Yeast
+TAYFLLKLAGAW,>10 hour,False,,E_coli
+TAYFLLKLAGRA,>20 hour,False,,Yeast
+TAYFLLKLAGRA,>10 hour,False,,E_coli
+TAYFLLKLAGRL,>10 hour,True, Amidation,E_coli
+TAYFLLKLAGRL,>20 hour,True, Amidation,Yeast
+TCAVACELKWESEFWRWT,>10 hour,False,,E_coli
+TCAVACELKWESEFWRWT,>20 hour,False,,Yeast
+TDAILMCFSIDSPDSLENI,>10 hour,False,,E_coli
+TDAILMCFSIDSPDSLENI,>20 hour,False,,Yeast
+TDVALMCFSIDSPDSLENI,>10 hour,False,,E_coli
+TDVALMCFSIDSPDSLENI,>20 hour,False,,Yeast
+TDVIAMCFSIDSPDSLENI,>20 hour,False,,Yeast
+TDVIAMCFSIDSPDSLENI,>10 hour,False,,E_coli
+TDVILACFSIDSPDSLENI,>20 hour,False,,Yeast
+TDVILACFSIDSPDSLENI,>10 hour,False,,E_coli
+TDVILMAFSIDSPDSLENI,>10 hour,False,,E_coli
+TDVILMAFSIDSPDSLENI,>20 hour,False,,Yeast
+TDVILMCASIDSPDSLENI,>20 hour,False,,Yeast
+TDVILMCASIDSPDSLENI,>10 hour,False,,E_coli
+TDVILMCFAIDSPDSLENI,>20 hour,False,,Yeast
+TDVILMCFAIDSPDSLENI,>10 hour,False,,E_coli
+TDVILMCFSADSPDSLENI,>10 hour,False,,E_coli
+TDVILMCFSADSPDSLENI,>20 hour,False,,Yeast
+TDVILMCFSI,>10 hour,False,,E_coli
+TDVILMCFSI,>20 hour,False,,Yeast
+TDVILMCFSIASPDSLENI,>10 hour,False,,E_coli
+TDVILMCFSIASPDSLENI,>20 hour,False,,Yeast
+TDVILMCFSIDAPDSLENI,>10 hour,False,,E_coli
+TDVILMCFSIDAPDSLENI,>20 hour,False,,Yeast
+TDVILMCFSIDSADSLENI,>20 hour,False,,Yeast
+TDVILMCFSIDSADSLENI,>10 hour,False,,E_coli
+TDVILMCFSIDSP,>10 hour,False,,E_coli
+TDVILMCFSIDSP,>20 hour,False,,Yeast
+TDVILMCFSIDSPASLENI,>20 hour,False,,Yeast
+TDVILMCFSIDSPASLENI,>10 hour,False,,E_coli
+TDVILMCFSIDSPDALENI,>10 hour,False,,E_coli
+TDVILMCFSIDSPDALENI,>20 hour,False,,Yeast
+TDVILMCFSIDSPDSAENI,>20 hour,False,,Yeast
+TDVILMCFSIDSPDSAENI,>10 hour,False,,E_coli
+TDVILMCFSIDSPDSL,>10 hour,False,,E_coli
+TDVILMCFSIDSPDSL,>20 hour,False,,Yeast
+TDVILMCFSIDSPDSLANI,>10 hour,False,,E_coli
+TDVILMCFSIDSPDSLANI,>20 hour,False,,Yeast
+TDVILMCFSIDSPDSLEAI,>10 hour,False,,E_coli
+TDVILMCFSIDSPDSLEAI,>20 hour,False,,Yeast
+TDVILMCFSIDSPDSLENA,>20 hour,False,,Yeast
+TDVILMCFSIDSPDSLENA,>10 hour,False,,E_coli
+TDVILMCFSIDSPDSLENI,>10 hour,False,,E_coli
+TDVILMCFSIDSPDSLENI,>20 hour,False,,Yeast
+TEPSTRGSWKFW,>20 hour,False,,Yeast
+TEPSTRGSWKFW,>10 hour,False,,E_coli
+TEQLASNYWILEYLWKVP,>20 hour,False,,Yeast
+TEQLASNYWILEYLWKVP,>10 hour,False,,E_coli
+TFGGGYVYF,>10 hour,False,,E_coli
+TFGGGYVYF,>20 hour,False,,Yeast
+TFLDKFNHEAEDLFYQ,>10 hour,False,,E_coli
+TFLDKFNHEAEDLFYQ,>20 hour,False,,Yeast
+TFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYV,>10 hour,False,,E_coli
+TFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYV,>20 hour,False,,Yeast
+TFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVGSGC,>20 hour,True, Chol,Yeast
+TFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVGSGC,>10 hour,True, Chol,E_coli
+TFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVGSGK,>10 hour,True, Palm,E_coli
+TFLDLEYEMKKLEEAIKKLEESYIDLKELGTYEYYVGSGK,>20 hour,True, Palm,Yeast
+TFLVHREWFMDLNLPWSSA,>20 hour,False,,Yeast
+TFLVHREWFMDLNLPWSSA,>10 hour,False,,E_coli
+TFLVHREWFMDLNLPWSSAGSTVWR,>10 hour,False,,E_coli
+TFLVHREWFMDLNLPWSSAGSTVWR,>20 hour,False,,Yeast
+TGALKINNLRLVTLEHQVLV,>20 hour,False,,Yeast
+TGALKINNLRLVTLEHQVLV,>10 hour,False,,E_coli
+TGAWIEFGCHRNKSNLHTEA,>10 hour,False,,E_coli
+TGAWIEFGCHRNKSNLHTEA,>20 hour,False,,Yeast
+TGEKVWDRGNVTLLCDCP,>20 hour,False,,Yeast
+TGEKVWDRGNVTLLCDCP,>10 hour,False,,E_coli
+TIRLESEVTAIKNALKKTNEAVSTLGNGVRVLATAVRELKDFV,>20 hour,False,,Yeast
+TIRLESEVTAIKNALKKTNEAVSTLGNGVRVLATAVRELKDFV,>10 hour,False,,E_coli
+TKDLQQKFYEIIMDIEQNNVQGKKGIQQLQKWEDW,>10 hour,True,"Acetylation, Amidation",E_coli
+TKDLQQKFYEIIMDIEQNNVQGKKGIQQLQKWEDW,>20 hour,True,"Acetylation, Amidation",Yeast
+TLGEWYNQTKDLQQKFYEIIMDIEQNNVQGKKG,>10 hour,True,"Acetylation, Amidation",E_coli
+TLGEWYNQTKDLQQKFYEIIMDIEQNNVQGKKG,>20 hour,True,"Acetylation, Amidation",Yeast
+TLKPIFKLPLGINITNFR,>10 hour,False,,E_coli
+TLKPIFKLPLGINITNFR,>20 hour,False,,Yeast
+TLLCDCPNGPWVWVPAFCQA,>10 hour,False,,E_coli
+TLLCDCPNGPWVWVPAFCQA,>20 hour,False,,Yeast
+TLLFLKVP,>20 hour,True,"Acetylation, Amidation",Yeast
+TLLFLKVP,>10 hour,False,,E_coli
+TLLFLKVPA,>10 hour,True,Acetylation,E_coli
+TLLFLKVPA,>20 hour,True,"Acetylation, Amidation",Yeast
+TLLFLKVPAQ NAISTTFPYT,>20 hour,False,,Yeast
+TLLFLKVPAQ NAISTTFPYT,>10 hour,False,,E_coli
+TLLKKVLKAAAKAALNAVLVGANA,>10 hour,False,,E_coli
+TLLKKVLKAAAKAALNAVLVGANA,>20 hour,False,,Yeast
+TLNNSVALDPIDISIELNKAKSDLEESKEWIRRSN,>10 hour,True,"Acetylation, Amidation",E_coli
+TLNNSVALDPIDISIELNKAKSDLEESKEWIRRSN,>20 hour,True,"Acetylation, Amidation",Yeast
+TLVDCIRNCIHKILGYTVIA,>10 hour,False,,E_coli
+TLVDCIRNCIHKILGYTVIA,>20 hour,False,,Yeast
+TMKVDDLIVHFNMTKAVEMV,>10 hour,False,,E_coli
+TMKVDDLIVHFNMTKAVEMV,>20 hour,False,,Yeast
+TNGESTADWAKN,>10 hour,False,,E_coli
+TNGESTADWAKN,>20 hour,False,,Yeast
+TNWLWYIKIFIMIV,>10 hour,False,,E_coli
+TNWLWYIKIFIMIV,>20 hour,False,,Yeast
+TPKFKLPIQKETWETWWTEY,>20 hour,False,,Yeast
+TPKFKLPIQKETWETWWTEY,>10 hour,False,,E_coli
+TPNDITLNNSVALDPIDISIELNKAKSDLEESKEW,>20 hour,True,"Acetylation, Amidation",Yeast
+TPNDITLNNSVALDPIDISIELNKAKSDLEESKEW,>10 hour,True,"Acetylation, Amidation",E_coli
+TRQARRNRRRRWRERQR,>20 hour,False,,Yeast
+TRQARRNRRRRWRERQR,>10 hour,False,,E_coli
+TRQARRNRRRRWRERQRAAAAC,>10 hour,False,,E_coli
+TRQARRNRRRRWRERQRAAAAC,>20 hour,False,,Yeast
+TRQARRNRRRRWRERQRAAAACYGRKKRRQRRR,>20 hour,False,,Yeast
+TRQARRNRRRRWRERQRAAAACYGRKKRRQRRR,>10 hour,False,,E_coli
+TRQCRRGRIWKRWNETITGP,>10 hour,False,,E_coli
+TRQCRRGRIWKRWNETITGP,>20 hour,False,,Yeast
+TRSSRAGLQFPVGRVHRLLRK,>20 hour,False,,Yeast
+TRSSRAGLQFPVGRVHRLLRK,>10 hour,False,,E_coli
+TSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>20 hour,False,,Yeast
+TSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>10 hour,False,,E_coli
+TTLLDLTYEMLSLQQVVKALNESYIDLKEL,>10 hour,False,,E_coli
+TTLLDLTYEMLSLQQVVKALNESYIDLKEL,>20 hour,False,,Yeast
+TTPKFTVAWDWVPKR,>10 hour,False,,E_coli
+TTPKFTVAWDWVPKR,>20 hour,False,,Yeast
+TTTPAKRKKTKK,>10 hour,False,,E_coli
+TTTPAKRKKTKK,>20 hour,False,,Yeast
+TTWEAWDRAIAEYAARIEALIRAAQELQEKLEAALREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRAAQELQEKLEAALREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRAAQELQEKNEAALREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRAAQELQEKNEAALREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRAAQEQQEKLEAALREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRAAQEQQEKLEAALREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRAAQEQQEKLEAVLREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRAAQEQQEKLEAVLREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAALREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAALREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAILREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAILREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRALQELQEKLEAILREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRALQELQEKLEAILREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRALQELQEKNEAALREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRALQELQEKNEAALREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRALQELQEKNEAILREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRALQELQEKNEAILREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRALQEQQEKNEAALREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRALQEQQEKNEAALREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRALQEQQEKNEAILREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEAWDRAIAEYAARIEALIRALQEQQEKNEAILREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRASQEQQEKNEAELREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEAWDRAIAEYAARIEALIRASQEQQEKNEAELREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TTWEEWDREINEYTSRIESLIRESQEQQEKNEQELREL,>10 hour,True,"Acetylation, Amidation",E_coli
+TTWEEWDREINEYTSRIESLIRESQEQQEKNEQELREL,>20 hour,True,"Acetylation, Amidation",Yeast
+TWAGVEAIIRILQQL,>10 hour,False,,E_coli
+TWAGVEAIIRILQQL,>20 hour,False,,Yeast
+TWLRAIWDWVCTALTDFK,>20 hour,False,,Yeast
+TWLRAIWDWVCTALTDFK,>10 hour,False,,E_coli
+TYGDTWAGVEAIIRI,>20 hour,False,,Yeast
+TYGDTWAGVEAIIRI,>10 hour,False,,E_coli
+VACELKWESEFWRWTEQL,>10 hour,False,,E_coli
+VACELKWESEFWRWTEQL,>20 hour,False,,Yeast
+VAGLRQSLEQYQVVKQPDYL,>10 hour,False,,E_coli
+VAGLRQSLEQYQVVKQPDYL,>20 hour,False,,Yeast
+VALDPIDIANTI-SIVLNKAKSDLEESKEWIRRSNGKLDSIGSGSGC,>10 hour,True,"Acetylation, Amidation",E_coli
+VALDPIDIANTI-SIVLNKAKSDLEESKEWIRRSNGKLDSIGSGSGC,>20 hour,True,"Acetylation, Amidation",Yeast
+VALDPIDIANTI-SIVLNKAKSDLEESKEWIRRSNGKLDSIGSGSGX,>20 hour,True,"Acetylation, Amidation",Yeast
+VALDPIDIANTI-SIVLNKAKSDLEESKEWIRRSNGKLDSIGSGSGX,>10 hour,True,"Acetylation, Amidation",E_coli
+VALDPIDISIELNKAKSDLEESKEWIRR,>20 hour,False,,Yeast
+VALDPIDISIELNKAKSDLEESKEWIRR,>10 hour,False,,E_coli
+VALDPIDISIELNKAKSDLEESKEWIRRSNQKLDS,>20 hour,True,"Acetylation, Amidation",Yeast
+VALDPIDISIELNKAKSDLEESKEWIRRSNQKLDS,>10 hour,True,"Acetylation, Amidation",E_coli
+VALDPIDISIELNKAKSDLEESKEWIRRSNQKLDSD,>10 hour,False,,E_coli
+VALDPIDISIELNKAKSDLEESKEWIRRSNQKLDSD,>20 hour,False,,Yeast
+VALDPIDISIELNKAKSDLEESKEWIRRSNQKLDSI,>10 hour,False,,E_coli
+VALDPIDISIELNKAKSDLEESKEWIRRSNQKLDSI,>20 hour,False,,Yeast
+VANDPIDISIELNKAKSDLEESKEWIRRSNQKLDSD,>10 hour,False,,E_coli
+VANDPIDISIELNKAKSDLEESKEWIRRSNQKLDSD,>20 hour,False,,Yeast
+VANDPIDISIELNKAKSDLEESKEWIRRSNQKLDSI,>20 hour,False,,Yeast
+VANDPIDISIELNKAKSDLEESKEWIRRSNQKLDSI,>10 hour,False,,E_coli
+VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV,>20 hour,False,,Yeast
+VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV,>10 hour,False,,E_coli
+VDCSPGIWQLDCTHL,>10 hour,False,,E_coli
+VDCSPGIWQLDCTHL,>20 hour,False,,Yeast
+VDKPDYRPRPRPPNM,>20 hour,False,,Yeast
+VDKPDYRPRPRPPNM,>10 hour,False,,E_coli
+VDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>10 hour,False,,E_coli
+VDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYE,>20 hour,False,,Yeast
+VEAIIRILQQLLFIH,>20 hour,False,,Yeast
+VEAIIRILQQLLFIH,>10 hour,False,,E_coli
+VEELEKKIEELLKKAEEQQKKNEEELKKLEK,>20 hour,True,"Acetylation, Amidation",Yeast
+VEELEKKIEELLKKAEEQQKKNEEELKKLEK,>10 hour,True,"Acetylation, Amidation",E_coli
+VEELEKKIEELLKKAEEQQKKNEEELKKLEX,>20 hour,True,"Acetylation, Amidation",Yeast
+VEELEKKIEELLKKAEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+VEEVSKKVEEVSKKVEEVSKKVEEVSKKVEEVSKKXX,>20 hour,True,"Acetylation, Amidation",Yeast
+VEEVSKKVEEVSKKVEEVSKKVEEVSKKVEEVSKKXX,>10 hour,True,"Acetylation, Amidation",E_coli
+VELSEWGVPCATCILDRR,>10 hour,False,,E_coli
+VELSEWGVPCATCILDRR,>20 hour,False,,Yeast
+VEPGQLKLNWFKK,>10 hour,False,,E_coli
+VEPGQLKLNWFKK,>20 hour,False,,Yeast
+VFPSDEFDASISQVNEKINQSLAFIRKSDELLHNV,>10 hour,True,"Acetylation, Amidation",E_coli
+VFPSDEFDASISQVNEKINQSLAFIRKSDELLHNV,>20 hour,True,"Acetylation, Amidation",Yeast
+VFQFLGRIIANTI-HHVGNFVHGFSHVF,>10 hour,False,,E_coli
+VFQFLGRIIANTI-HHVGNFVHGFSHVF,>20 hour,False,,Yeast
+VHVASGY,>20 hour,True, Amidation,Yeast
+VHVASGY,>10 hour,True, Amidation,E_coli
+VILMCFSIDSPDSLENI,>20 hour,False,,Yeast
+VILMCFSIDSPDSLENI,>10 hour,False,,E_coli
+VISLTPLLVCVAALLLLE,>20 hour,False,,Yeast
+VISLTPLLVCVAALLLLE,>10 hour,False,,E_coli
+VLDLIYSLHKQINRGLKKIVL,>20 hour,False,,Yeast
+VLDLIYSLHKQINRGLKKIVL,>10 hour,False,,E_coli
+VLRP,>10 hour,False,,E_coli
+VLRP,>20 hour,False,,Yeast
+VNPTLLFLKVPAQNAISTTFPYT,>20 hour,False,,Yeast
+VNPTLLFLKVPAQNAISTTFPYT,>10 hour,False,,E_coli
+VPCSICSNNPTCWAICKRIPNKKPGKK,>20 hour,True,"Acetylation, Amidation",Yeast
+VPCSICSNNPTCWAICKRIPNKKPGKK,>10 hour,True,"Acetylation, Amidation",E_coli
+VPFDFWRGVISLTPLLVC,>20 hour,False,,Yeast
+VPFDFWRGVISLTPLLVC,>10 hour,False,,E_coli
+VPNLTCAVACELKWESEF,>20 hour,False,,Yeast
+VPNLTCAVACELKWESEF,>10 hour,False,,E_coli
+VPRRKAKI,>20 hour,True, Amidation,Yeast
+VPRRKAKI,>10 hour,True, Amidation,E_coli
+VRDQAEHLKT,>10 hour,True, Amidation,E_coli
+VRDQAEHLKT,>20 hour,True, Amidation,Yeast
+VRLASHLRKLRKRLLRDADDLIRLQAEAFQARLKSWFEPLV,>10 hour,False,,E_coli
+VRLASHLRKLRKRLLRDADDLIRLQAEAFQARLKSWFEPLV,>20 hour,False,,Yeast
+VRLASHLRKLRKRLLRDADDLQKRLAVY,>20 hour,False,,Yeast
+VRLASHLRKLRKRLLRDADDLQKRLAVY,>10 hour,False,,E_coli
+VRLGRYLLRRLKTPFTRL,>20 hour,False,,Yeast
+VRLGRYLLRRLKTPFTRL,>10 hour,False,,E_coli
+VRWI,>20 hour,False,,Yeast
+VRWI,>10 hour,False,,E_coli
+VRYLEANIEELLKKAEEQQKKNEEELKKLEK,>10 hour,True,"Acetylation, Amidation",E_coli
+VRYLEANIEELLKKAEEQQKKNEEELKKLEK,>20 hour,True,"Acetylation, Amidation",Yeast
+VRYLEANIEELLKKAEEQQKKNEEELKKLEX,>20 hour,True,"Acetylation, Amidation",Yeast
+VRYLEANIEELLKKAEEQQKKNEEELKKLEX,>10 hour,True,"Acetylation, Amidation",E_coli
+VSFAIKWEYVL,>20 hour,False,,Yeast
+VSFAIKWEYVL,>10 hour,False,,E_coli
+VSFAIKWEYVLL,>20 hour,False,,Yeast
+VSFAIKWEYVLL,>10 hour,False,,E_coli
+VSFAIKWEYVLLL,>10 hour,False,,E_coli
+VSFAIKWEYVLLL,>20 hour,False,,Yeast
+VSFAIKWEYVLLLF,>10 hour,False,,E_coli
+VSFAIKWEYVLLLF,>20 hour,False,,Yeast
+VSFAIKWEYVLLLFL,>10 hour,False,,E_coli
+VSFAIKWEYVLLLFL,>20 hour,False,,Yeast
+VSFAIKWEYVLLLFLL,>10 hour,False,,E_coli
+VSFAIKWEYVLLLFLL,>20 hour,False,,Yeast
+VSGHGQHGVHG,>20 hour,False,,Yeast
+VSGHGQHGVHG,>10 hour,False,,E_coli
+VSPRCEYQAGHNKVG,>20 hour,False,,Yeast
+VSPRCEYQAGHNKVG,>10 hour,False,,E_coli
+VSTALPQWRIYSYAGDNI,>10 hour,False,,E_coli
+VSTALPQWRIYSYAGDNI,>20 hour,False,,Yeast
+VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR,>10 hour,False,,E_coli
+VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR,>20 hour,False,,Yeast
+VTDSQYALGIIQAQPDQSES,>10 hour,False,,E_coli
+VTDSQYALGIIQAQPDQSES,>20 hour,False,,Yeast
+VVDRGWGNGAGLFGKGSID,>20 hour,False,,Yeast
+VVDRGWGNGAGLFGKGSID,>10 hour,False,,E_coli
+VVNDL,>10 hour,False,,E_coli
+VVNDL,>20 hour,False,,Yeast
+VVTLTDTTNQKTELQAIYLA,>10 hour,False,,E_coli
+VVTLTDTTNQKTELQAIYLA,>20 hour,False,,Yeast
+VYLHRIDLGPPISLERLDVGTNLQNAIAKLEDAKE,>10 hour,True,"Acetylation, Amidation",E_coli
+VYLHRIDLGPPISLERLDVGTNLQNAIAKLEDAKE,>20 hour,True,"Acetylation, Amidation",Yeast
+VYTDKVDISSQISSMNQSLQQSKDYIKEAQKILDTV,>20 hour,False,,Yeast
+VYTDKVDISSQISSMNQSLQQSKDYIKEAQKILDTV,>10 hour,False,,E_coli

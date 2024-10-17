@@ -1,59 +1,36 @@
 sequence,half_life_seconds,is_mod,modifications,experimental_characteristics
 RRWQWR,1800,False,,Human serum
-RRWWRF,1800,False,,Human serum
-RRWQWR,1800,True,C-Terminal Amidation,Human serum
 RRWWRF,1800,True,C-Terminal Amidation,Human serum
-RRWQWR,3600,True,N-Terminal,Human serum
-RRWWRF,3600,True,N-Terminal,Human serum
-RRWQWR,5400,True,"C-Terminal Amidation, N-Terminal",Human serum
-RRWWRF,5400,True,"C-Terminal Amidation, N-Terminal",Human serum
-RRWQWR,86400,True,Cyclic,Human serum
-RRWWRF,86400,True,Cyclic,Human serum
 CRRWQWRC,5400,True,"C-Terminal Amidation, Cyclic",Human serum
 CRRWWRFC,23400,True,"C-Terminal Amidation, Cyclic",Human serum
-RRWQWRMKKLG,1800,False,,Human serum
-CRRWWRFC,23400,True,"C-Terminal Amidation, N-Terminal, Cyclic",Human serum
-RRWQWRMKKLG,6600,True,Cyclic,Human serum
 CRRWQWRMKKLGC,6600,True,"C-Terminal Amidation, Cyclic",Human serum
-AAGIGILTV,22,False,,VMM5 cytotoxic T-lymphocyte line incubated in human plasma
 ALCDNPRIDRWYCQFVEG,456,True,"C-Terminal Amidation, N-Terminal",Intravenouly administered into rabbit blood
 DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV,144,False,,Intravenouly injected into male B6SJLF1/J mice and blood samples collected from tail vein to prepare plasma samples
 DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA,168,False,,Intravenouly injected into male B6SJLF1/J mice and blood samples collected from tail vein to prepare plasma samples
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,20880,False,,DPP IV
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,43200,True,N-Terminal,DPP IV
 GVQLDLDEAI,4800,False,,Intravenously injected in male New Zealand white rabbits and blood samples withdrawn  and plasma sample prepared
 PINPRLDG,900,False,,Intravenously injected in male New Zealand white rabbits and blood samples withdrawn  and plasma sample prepared
 DGEQLADLIV,900,False,,Intravenously injected in Male New Zealand white rabbits and blood samples withdrawn  and plasma sample prepared
 KKKQYTSIHHGVVEVDAAVTPEERHLSKMQQNGYENPTYKFFEQMQNIATVIVITLVML,300,False,,BHK cell line
 RQIKIWFQNRRMKWKKNELKRAFAALRDQI,43020,False,,Fetal bovine serum batch1
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,195,True,C-Terminal Amidation,Rat plasma
 SPKMMHKSGCFGRRLDRIGSLSGLGCNVLRKY,94.2,False,,Injected intravenously into dogs
-LPFFD,86400,False,,Human plasma
 LP-(NME)-FFD,86400,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Nme",Human plasma
 LP-(NME)-FF-(NME)-D,86400,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Nme",Human plasma
 LP-(NME)-F-(NME)-FD,86400,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Nme",Human plasma
 LP-(NME)-F-(NME)-F-(NME)-D,86400,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Nme",Human plasma
 LP-(ΑME)-F-(ΑME)-FD,86400,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Αme",Human plasma
-LPFFD,300,True,C-Terminal Amidation,Human plasma
 SAR-LPFFD,25200,True,"C-Terminal Amidation, N-Terminal",Human plasma
 (NME)-SAR-LPFFD,21600,True,"C-Terminal Amidation, N-Terminal",Human plasma
 H-ABU-EGTFTSDVSSYLEGQAAKEFIAWLVKGR,43200,True,Chemical Modification: 2-Aminobutyric Acid Abu,Human plasma
 YAEGTFISDYSIAMDKIHQQDFVNWLLAQKGKKNDWKHNITQ,21600,False,,Human plasma
 Y-ABU-EGTFISDYSIAMDKIHQQDFVNWLLAQKGKKNDWKHNITQ,25560,True,Chemical Modification: 2-Aminobutyric Acid Abu,Human plasma
 N-((R)-(((2S)-2-((-P-AMIDOBENZYL)CARBAMOYL)-1-AZETIDINYL)CARBONYL)CYCLOHEXYLMETHYL)GLYCINE,14400,True,"N-Terminal, Chemical Modification: N.A.",Human plasma
-KKVVFKVKFK,360,False,,Mouse serum
-KΨ[CH2NH]KVVFKVKFK,840,True,Chemical Modification: Reduced Amide Bonds Ψch2Nh,Mouse serum
-KΨ[CH2NH]KVVFKVKFK,1380,True,"Stereochemistry, Chemical Modification: Reduced Amide Bonds Ψch2Nh",Mouse serum
 KKΨ[CH2NH]VVFKVKFK,4860,True,"Stereochemistry, Chemical Modification: Reduced Amide Bonds Ψch2Nh",Mouse serum
 KΨ[CH2NH]KΨ[CH2NH]VVFKVKFK,4860,True,"Stereochemistry, Chemical Modification: Reduced Amide Bonds Ψch2Nh",Mouse serum
 KΨ[CH2OCONH]KVVFKVKFK,1380,True,"Stereochemistry, Chemical Modification: Reduced Carbamate Ψch2Oconh",Mouse serum
 KΨ[CH2OCONH]KΨ[CH2OCONH]VVFKVKFK,4020,True,"Stereochemistry, Chemical Modification: Reduced Carbamate Ψch2Oconh",Mouse serum
-KKVVFKVKFK,1320,True,Stereochemistry,Mouse serum
 HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,43200,True,"C-Terminal Amidation, N-Terminal",Purified DPP IV
 TALIDNNATEEILY,252,True,Stereochemistry,Injected in jugular vein of male Sprague-Dawley rats
 TAIIDNNKTEKEISY,150,True,Stereochemistry,Injected in jugular vein of male Sprague-Dawley rats
-APPRLICDSRVLERYLLEAKEAENITTGCAEHCSLNENITVPDTKVNFYAWKRMEVGQQAVEVWQGLALLSEAVLRGQALLVNSSQPWEPLQLHVDKAVSGLRSLTTLLRALGAQKEAISPPDAASAAPLRTITADTFRKLFRVYSNFLRGKLKLYTGEACRTGDR,30600,True,"Cyclic, Chemical Modification: Three N-Linked Carbohydrate Chains",Subcutaneously injected into patients with end-stage renal failure
-APPRLICDSRVLERYLLEAKEAENITTGCAEHCSLNENITVPDTKVNFYAWKRMEVGQQAVEVWQGLALLSEAVLRGQALLVNSSQPWEPLQLHVDKAVSGLRSLTTLLRALGAQKEAISPPDAASAAPLRTITADTFRKLFRVYSNFLRGKLKLYTGEACRTGDR,91080,True,"Cyclic, Chemical Modification: Five N-Linked Carbohydrate Chains",Subcutaneously injected into patients with end-stage renal failure
 SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH,762,False,,Infused in pulmonary artery of sheep
 MMRDSGCFGRRLDRIGSLSGLGCNVLRRY,156,False,,Infused in pulmonary artery of sheep
 SLRRSSCFGGRMDRIGAQSGLGCNSFRY,180,False,,Infused in pulmonary artery of sheep
@@ -69,27 +46,12 @@ H-AIB-EGTFTSDVSSYLEGQAAKEFIAWLVK-AIB-R,35280,True,"C-Terminal Amidation, Chemica
 HSQGTFTSDYSKYLDSRRAQDFVQWLMNTGGEGSGEGSEGEGSEGSGEGEGSEGSGEGEGGSEGSEGEGGSEGSEGEGGSEGSEGEGSGEGSEGEGGSEGSEGEGSGEGSEGEGSEGGSEGEGGSEGSEGEGSGEGSEGEGGEGGSEGEGSEGSGEGEGSGEGSEGEGSEGSGEGEGSGEGSEGEGSEGSGEGEGSEGSGEGEGGSEGSEGEGSEGSGEGEGGEGSGEGEGSGEGSEGEGGGEGSEGEGSGEGGEGEGSEGGSEGEGGSEGGEGEGSEGSGEGEGSEGGSEGEGSEGGSEGEGSEGSGEGEGSEGSGEG,32400,False,,Injected subcutaneouly into cynomolgus monkeys
 HSQGTFTSDYSKYLDSRRAQDFVQWLMNTGGEGGSEGSEGEGSEGSGEGEGGSEGSEGEGSEGSGEGEGGSEGSEGEGGSEGSEGEGGEGSGEGEGSEGSGEGEGSGEGSEGEGGSEGGEGEGSEGGSEGEGSEGGSEGEGGEGSGEGEGGGEGSEGEGSEGSGEGEGSGEGSEG,34200,False,,Injected subcutaneouly into cynomolgus monkeys
 HSQGTFTSDYSKYLDSRRAQDFVQWLMNT,600,False,,Not reported
-HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,9900,True,C-Terminal Amidation,Intravenously injected into Sprague-Dawley rats at a dose of 5 µg·mL-1·kg-1
-HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,21960,True,"C-Terminal Amidation, Chemical Modification: 5 Kda Peg At Cys At 39Th Position",Intravenously injected into Sprague-Dawley rats at a dose of 5 µg·mL-1·kg-1
-HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,177840,True,"C-Terminal Amidation, Chemical Modification: 20 Kda Peg At Cys At 39Th Position",Intravenously injected into Sprague-Dawley rats at a dose of 5 µg·mL-1·kg-1
-HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,253800,True,"C-Terminal Amidation, Chemical Modification: 30 Kda Peg At Cys At 39Th Position",Intravenously injected into Sprague-Dawley rats at a dose of 5 µg·mL-1·kg-1
-HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,275040,True,"C-Terminal Amidation, Chemical Modification: 40 Kda Peg At Cys At 39Th Position",Intravenously injected into Sprague-Dawley rats at a dose of 5 µg·mL-1·kg-1
 H-AIB-EGTFTSDVSSYLEGQAAKEFIAWLVKGR,21240,True,"C-Terminal Amidation, Chemical Modification: Aib--Aminoisobutyric Acid",Rat plasma
 HAEGTFTSDVSSYLEGQAAKEFIAWLVK-AIB-R,7200,True,"C-Terminal Amidation, Chemical Modification: Aib--Aminoisobutyric Acid",Rat plasma
-VRRADRAAVPGGGGRG,1110,False,,SD rat plasma
-VRRADRAAVPGGGGRG,475200,True,N-Terminal,SD rat plasma
-GGFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,3240,True,C-Terminal Amidation,PBS
-GGFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,3960,True,"C-Terminal Amidation, N-Terminal",PBS
-GFFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,2520,True,"C-Terminal Amidation, N-Terminal",PBS
-GFFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,3240,True,"C-Terminal Amidation, N-Terminal, Stereochemistry",PBS
-GVFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,16920,True,"C-Terminal Amidation, N-Terminal",PBS
-GVFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,18360,True,"C-Terminal Amidation, N-Terminal, Stereochemistry",PBS
 G-TBU-FAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,604800,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Tbu=Tertiary Butyl",PBS
 G-PHG-FAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,1800,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Phg=Phenylglycine",PBS
 G-AIB-FAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,2880,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Aib=Α-Aminoisobutyric Acid",PBS
-GVFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,73440,True,C-Terminal Amidation,PBS
 FGFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,9000,True,"C-Terminal Amidation, N-Terminal",PBS
-FVFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,230400,True,C-Terminal Amidation,PBS
 YAGFMPLW,17280,True,Stereochemistry,Rat plasma
 YAGF-NLE-PLW,21600,True,"Stereochemistry, Chemical Modification: Nle=Norleucine",Rat plasma
 YAGF-NLE-P-SER(GLC)-W,21600,True,"Stereochemistry, Chemical Modification: Nle=Norleucine, O-Β-Glucosylated Serine",Rat plasma
@@ -113,10 +75,6 @@ FVPIFTYGELQRVQQRKESKK,420,False,,Intravenouly injected in Sprague-Dawley rats
 FVPIFTYGELQRVQQRKES,186,False,,Intravenouly injected in Sprague-Dawley rats
 FVPIFTYGELQRVQQRK,144,False,,Intravenouly injected in Sprague-Dawley rats
 HADGSFSDEMNTILDNLAARDFINWLIQTKITD,408,False,,Infused into blood of pigs
-YADAIFTNSYRKVLGQLSARKLLQDIMSR,900,True,C-Terminal Amidation,Human plasma
-YADAIFTNSYRKVLGQLSARKLLQDIMSR,36000,True,"C-Terminal Amidation, Chemical Modification: Pegylation On Lys12",Human plasma
-YADAIFTNSYRKVLGQLSARKLLQDIMSR,12960,True,"C-Terminal Amidation, Chemical Modification: Pegylation",Human plasma
-YADAIFTNSYRKVLGQLSARKLLQDIMSR,14400,True,"C-Terminal Amidation, Chemical Modification: Pegylation On Lys21",Human plasma
 GSIGAASMEF,2.7013,True,N-Terminal,Murine crude intestinal protease preparetion
 IGAASMEFCF,0.0629,True,N-Terminal,Murine crude intestinal protease preparetion
 AASMEFCFDV,0.0556,True,N-Terminal,Murine crude intestinal protease preparetion
@@ -493,8 +451,6 @@ CIKHIATNAVLFFGRC,0.0025,True,N-Terminal,Murine crude intestinal protease prepare
 KHIATNAVLFFGRCVS,0.0008,True,N-Terminal,Murine crude intestinal protease preparetion
 HIATNAVLFFGRCVSP,0.0009,True,N-Terminal,Murine crude intestinal protease preparetion
 GSSFLSPEHQKAQQRKESKKPPAKLQPR,990,True,"Chemical Modification: Fatty Acid Ie N-Octanoic Acid Present At Serine At Position 3, 125I Labelling",Administered into blood of rats
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,70.2,True,"C-Terminal Amidation, Chemical Modification: Biotinylation At Lys At 34Th Position",Rat intestinal fluid
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,260.4,True,"C-Terminal Amidation, Chemical Modification: Biotinylation At Lys At 34Th And 26Th Position",Rat intestinal fluid
 RRWRIVVIRVRR,3600,True,C-Terminal Amidation,25% aqueous mouse serum
 AGP-AGP-W-AGP-IVVI-AGP-V-AGP-AGP,28800,True,"C-Terminal Amidation, Chemical Modification: Agp=Αamino-3-Guanidino-Propionic Acid",25% aqueous mouse serum
 ARRWRIVVIRVRRH,3600,True,"C-Terminal Amidation, Stereochemistry",25% aqueous mouse serum
@@ -504,8 +460,6 @@ DRVYIHP,10,False,,Blood sample of normotensive Sprague-Dawley rat
 NDWF-DPR-L,2640,True,"N-Terminal, Cyclic, Chemical Modification: Dpr-2,3-Diaminopropionic Acid",Rat blood plasma
 MLPGLALLLLAAWTARALEVPYPYDVPDYASNKGAIIGLMVGGVVIATVIVITLVVMLKKKQYEQKLISEEDL,480,False,,Human embryonic kidney cells
 EAEDLQVGQVELGGGPGAGSLQPLALEGSLQ,2010,False,,6 Normal human male blood plasma sample
-SSLKQYWSSLKQSFS,18000,False,,Blood sample of female Sprague-Dawley rat
-SSLKQYWSSLKQSFS,20400,True,N-Terminal,Blood sample of female Sprague-Dawley rat
 GRGDS,480,False,,Blood sample of C57BL/6 mice
 GLP-PPGGSKVILF,420,True,Chemical Modification: Glp-Pyroglutamic Acid,Human plasma
 AGCKNFFWKTFTSC,60,True,Cyclic,Blood plasma sample from five mongrel dogs
@@ -518,8 +472,6 @@ RPPGF,5400,False,,"Intravenous injection of Bradykinin,Human blood sample"
 RLIEDICLPRWGCLWEDD,8280,True,"C-Terminal Amidation, N-Terminal",Rabbit blood sample
 YFQNCPRG,12000,True,"N-Terminal, Stereochemistry",Blood sample of human uraemic patientsend stage renal failure
 CYIQNCPLG,406.8,True,"C-Terminal Amidation, Cyclic",Intravenous injection of oxytocin in normal mares
-YIGSR,60,False,,Intravenous injection of labelled peptide in C57BL/6 mice
-YIGSR,132,True,N-Terminal,Intravenous injection of labelled peptide in C57BL/6 mice
 SLRRSSCFGGRIDRIGAQSGLGCNSFRY,25.2,True,Cyclic,Rat blood plasma infused into fumoral vein and right carotid artery
 SLRRSSGGRIDRIGAQSGLGCNSFRY,62.4,True,Cyclic,Rat blood plasma infused into fumoral vein and right carotid artery
 APRLRFYSL,1560,False,,Heamolymph of Aplysia
@@ -542,8 +494,6 @@ ELRMSSSYPTGLADVKAGPAQTLIRPQDMKGASRSPEDSSPDAARIRV,1320,False,,Human blood plasma
 TVPVDLASRQEEEEQSPDSTEEEPVTLPR,3780,False,,pMEP-E2 CV-1 cell lines
 TVPVDLASRQEEEEQSADSTEEEPVTLPR,5640,False,,pMEP-E2 CV-1 cell lines
 TVPVDLASRQEEEEQSPDSTEQEPVTLPR,1440,False,,pMEP-E2 CV-1 cell lines
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,453600,True,"C-Terminal Amidation, Chemical Modification: Pegylation At N Terminus His7",Rat plasma
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,268260,True,"C-Terminal Amidation, Chemical Modification: Pegylation On Lys34",Rat plasma
 WDREINNYTSLIH,410400,True,"C-Terminal Amidation, N-Terminal",Mouse plasma
 WDREINNYTSLIHWDREINNYTSLIH,151200,True,"C-Terminal Amidation, N-Terminal",Mouse plasma
 CNGRCGGK,32760,True,"C-Terminal Amidation, N-Terminal, Cyclic",Mouse tissue of  myocardial infarction MI model
@@ -569,10 +519,7 @@ TTWEAWDRAIAEYAARIEALIRALQELQEKNEAALREL,30960,False,,Male cynomolgus monkey blood
 TTWEAWDRAIAEYAARIEALIRALQELQEKNEAILREL,34560,False,,Male cynomolgus monkey blood plasma Intravenous
 TTWEAWDRAIAEYAARIEALIRAAQELQEKLEAALREL,110880,False,,Male cynomolgus monkey blood plasma Intravenous
 TTWEAWDRAIAEYAARIEALIRALQELQEKLEAILREL,127440,False,,Male cynomolgus monkey blood plasma Intravenous
-R-X-R,3600,True,Chemical Modification: X= Structure Given In Paper,Trypsin
 R-BIP-R,126000,True,Chemical Modification: Bip,Trypsin
-R-BIP-R,25200,True,"N-Terminal, Chemical Modification: Bip",Trypsin
-R-X-R,417600,True,"C-Terminal Amidation, Chemical Modification: X= Structure Given In Paper",Trypsin
 CHEX-RPNKPRPYLPRPRPPRPVR-DAB-RVPRPPRPRPLYPRPKNPR-CHEX,6000,True,"N-Terminal, Chemical Modification: Dab =2,4-Diamino-Butyric Acid",Mouse serum
 ((POG)5 (PQGPGGPPG) (POG)5)3,580,True,"C-Terminal Amidation, N-Terminal",Not reported
 ((POG)5 (PQGPGSPPG) (POG)5)3,910,True,"C-Terminal Amidation, N-Terminal",Not reported
@@ -585,13 +532,9 @@ CHEX-RPNKPRPYLPRPRPPRPVR-DAB-RVPRPPRPRPLYPRPKNPR-CHEX,6000,True,"N-Terminal, Che
 HPLGSPGSASDLETSGLQEQRNHLQGKLSELQVEQTSLEPLQESPRTPGVWKSREVATEGIRGHRKMVLYTLRAPR,7200,False,,Human plasma
 WVTH[CIT]LAGLLS[CIT]SGGVV[HARG]KN[2-NAL]V[OIC]TDVG[OIC]FA[2-NAL],136800,True,"C-Terminal Amidation, N-Terminal",Monkey plasma
 SPRGDLAVLGHKY,3300,False,,Human serum
-IRRADRAAVPGGGGRGD,1659.6,False,,Rat blood serum Intravenous injection
-IRRADRAAVPGGGGRGD,9724.8,True,N-Terminal,Rat blood serum Intravenous injection
 SLRRSSCFGGRMDRIGAQSGLGCNSFRY,156,True,Cyclic,Human kidney membranes
 SLRRSSCFGGRMDRIGAQSGLGCNSFRYRITAREDKQGWA,270,True,Cyclic,Human kidney membranes
 HGEGTFTSDVSSYLEGQAAKEFIAWLVAGR,97200,True,"C-Terminal Amidation, N-Terminal",Rabbit serum Intravenous injection
-NISHTKEKKKGKAKKKRLTK,402,False,,Rat renal brush border membrane suspension
-NISHTKEKKKGKAKKKRLTK,774,True,N-Terminal,Rat renal brush border membrane suspension
 YGRKKRRQRRR,24000,False,,Human plasma
 HSQGTFTSDYSKYLDSRRAQDFVQWLMNTKRNRNNIA,6120,False,,Mouse plasma Subcutaneous injection
 LEQYANQLADQIIKEATE,5400,False,,Human serum
@@ -602,25 +545,19 @@ HSDGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,780,True,Chemical Modification: Radiolab
 SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH,40320,True,N-Terminal,Mice plasma Intravenous injection
 KPSSPPEE,7200,True,"C-Terminal Amidation, N-Terminal",Human blood plasma
 NPMYNAVSNADLMDFKNLLDHLEEKMPLEDEVVPPQVLSEPNEEAGAALSPLPEVPPWTGEVSPAQRDGGALGRGPWDSSDRSALLKSKLRALLTAPR,3600,False,,Human blood
-HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,1380,True,C-Terminal Amidation,DPP IV
 HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,14400,True,"C-Terminal Amidation, N-Terminal",DPP IV
 H-AIB-DGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,3900,True,C-Terminal Amidation,DPP IV
-HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,14400,True,"C-Terminal Amidation, Stereochemistry",DPP IV
 HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,1080,True,"C-Terminal Amidation, Chemical Modification: [Ψch2-Nh21-22]",Human plasma
 HSDGIFTDSYSRYRKQMAVAKYLAAVLGKRYKQRVKNK,498,True,C-Terminal Amidation,Human plasma
 HSDGIFTDSYSRYRKQMAVKAYLAAVLGKRYKQRVKNK,396,True,C-Terminal Amidation,Human plasma
-HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,14400,True,N-Terminal,DPP IV
 HSDGIFTDSYSRYAKQMAVAKYLAAVLGKRYKQRVKNK,14400,True,N-Terminal,DPP IV
 HSDGIFTDSYSRYRAQMAVAKYLAAVLGKRYKQRVKNK,14400,True,N-Terminal,DPP IV
-HSDGIFTDSYSRYRKQMAVKKYLAAVL,14400,True,"C-Terminal Amidation, N-Terminal",DPP IV
 H-AIB-DGIFTDSYSRYRKQMAVKKYLAAVL,8700,True,"C-Terminal Amidation, Chemical Modification: Aib",DPP IV
 HSDGIFTDSYSRYRKQMAVKKYLAAVL,14400,True,N-Terminal,DPP IV
 "N5-(AMINOIMINOMETHYL)-N2-(3- MERCAPTO-1-OXOPROPYL)-L-ARGINYLGLYCYL-L-Α -ASPARTYL-L-Α -TRYPOTOPHYL-L-Α -PROLYL-L-Α -CYSTEINAMIDE,CYCLIC(1→ 6)-DISULFIDE",8406,True,Cyclic,Human blood plasma Men Intravenous bolus dose
 NPVENMMDRDSQ,43200,False,,Human plasma
 "L-CYSTEINAMIDE, D-PHENYLALANYL-L-CYSTEINYL-L-PHENYLALANYL-D-TRYPTOPHYL-L-LYSYL-LTHREONYL-N-[2-HYDROXY-1-(HYDROXYMETHYL)PROPYL]",3126,True,"Cyclic, Stereochemistry, Chemical Modification: 2-Hydroxy-1-Hydroxymethyl",Mice blood serum oral delivery in 0.5% Intravail
 HAECTFTSDVSSYLEGQAAKEFIAWLCKGRGCPSSGAPPPSGGGGG,172800,False,,Serum of rats Subcutaneous injection
-DRQIKIWFQNRRMKWKKRKIPTEDEY,18288,False,,Mice serum
-DRQIKIWFQNRRMKWKKRKIPTEDEY,32364,True,N-Terminal,Mice serum
 YAG-MEPHE-G,552,True,"Stereochemistry, Chemical Modification: Methylation At Phenylalanine",Rat blood plasma Intravenous
 GGLYACHMGPIT-NAL-VCQPLRSAR-PEG-SARRLPQCV-NAL-TIPGMHCAYLGG,68400,True,"N-Terminal, Cyclic, Chemical Modification: Nal, Pegylation",Monkey blood plasma
 GGLYACHMGPIT-NAL-VYQPLRS-PEG-SRLPQYV-NAL-TIPGMHCAYLGG,122400,True,"N-Terminal, Cyclic, Chemical Modification: Nal, Pegylation",Monkey blood plasma
@@ -634,26 +571,8 @@ GCTFRRLKWKCG,4620,True,Cyclic,Fetal calf serum
 GCKPTFRRLKWKYKCG,5040,True,Cyclic,Fetal calf serum
 YGGFLRRL,2640,True,"N-Terminal, Stereochemistry, Chemical Modification: Methylation On Arg7 And Tyr1",Rhesus monkey blood plasma Intravenous
 EAAGIGILTV,2700,False,,Serum human
-ELAGIGILTV,2400,False,,Serum human
-ELAGIGILTV,86400,True,Chemical Modification: Methylation Of Nitrogen Of Amide Bond B/W Glu1 And Leu2 Nme; Methylation Of Carboxyl Of Leu8,Serum human
-ELAGIGILTV,43200,True,"C-Terminal Amidation, Chemical Modification: Methylation Of Nitrogen Of Amide Bond B/W Glu1 And Leu2 Nme",Serum human
-PYROGLU-LAGIGILTV,39600,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Pyroglutamic Acid",Serum human
-PYROGLU-LAGIGILTV,86400,True,"N-Terminal, Chemical Modification: Methylation Of Carboxyl Of Leu8",Serum human
-ALAGIGILTV,39600,True,"C-Terminal Amidation, N-Terminal",Serum human
-ALAGIGILTV,86400,True,"N-Terminal, Chemical Modification: Methylation Of Carboxyl Of Leu8",Serum human
-ELAGIGILTV,72000,True,"C-Terminal Amidation, N-Terminal",Serum human
-ELAGIGILTV,86400,True,"N-Terminal, Chemical Modification: Methylation Of Carboxyl Of Leu8",Serum human
-DLAGIGILTV,43200,True,"C-Terminal Amidation, N-Terminal",Serum human
-DLAGIGILTV,86400,True,"N-Terminal, Chemical Modification: Methylation Of Carboxyl Of Leu8",Serum human
-GLAGIGILTV,46800,True,"C-Terminal Amidation, N-Terminal",Serum human
-GLAGIGILTV,86400,True,"N-Terminal, Chemical Modification: Methylation Of Carboxyl Of Leu8",Serum human
 ELAGIGILTV,86400,True,Chemical Modification: Methylation Of Carboxyl Of Leu2 And Leu8,Serum human
-ELAGIGILTV,43200,True,"C-Terminal Amidation, Chemical Modification: Methylation Of Carboxyl Of Leu2",Serum human
-ELAGIGILTV,86400,True,Chemical Modification: Methylation Of Carboxyl Of Leu2 And Amino-Group Of Thr9 Used In Peptide Bond,Serum human
-ELAGIGILTV,86400,True,"Stereochemistry, Chemical Modification: Methylation Of Carboxyl Of Leu2",Serum human
 ΒALAGIGILTV,86400,True,"N-Terminal, Chemical Modification: Reduced Bond Between Leu8 And Thr9",Serum human
-EACNLPIVRGPCIAFFPRWAFDAVKGKCVLFPYGGCQGNGNKFYSEKECREYCGVP,9900,False,,Rabbit plasma Intravenous
-EACNLPIVRGPCIAFFPRWAFDAVKGKCVLFPYGGCQGNGNKFYSEKECREYCGVP,210000,True,N-Terminal,Rabbit plasma Intravenous
 FVPIFTYGELQREHQRVQQQRKESKKPPAKLQPR,668.4,False,,Rat plasma Intravenous
 FVPIFTYGELQRQRVQQRKESKKPPAK,345.6,False,,Rat plasma Intravenous
 FVPIFTYGELQRQRVQQRKESKKPP,380.4,False,,Rat plasma Intravenous
@@ -702,8 +621,6 @@ DLRVDTKSRAAWARLLQEHPNARKYKGANKKGLSKGGLSKGCFGLKLDRIGSMSGLGC,943.2,True,Cyclic,Rat
 HGDGSFSDEMNTILDNLAARDFINWLIQTLITD,5400,True,C-Terminal Amidation,Rat plasma Intravenous
 HGDGSFSDEMNTILDNLAARDFINWLIQTLITDK,58320,False,,Rat plasma Intravenous
 YADAIFTQSYRKVLAQLSARKLLQDILSRL,92880,True,Stereochemistry,Rat plasma Subcutaneous
-YGGFLRRIRPK,600,False,,plasma
-YGGFLRRIRPK,1800,True,C-Terminal Amidation,plasma
 VKFNKPFVFLMIEQNTK,6840,False,,Rat plasma Intravenous
 KGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY,5400,False,,Rat plasma Intravenous
 K-SAR-HTRGTF,66960,True,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Sar= Sarcosine",plasma
@@ -711,14 +628,10 @@ HVEGTFTSDVSSYLEGQAAKEFIAWLVKGRG,162000,False,,Monkey plasma Intravenous
 HGEGTFTSDVSSYLEEQAAKEFIAWLVKGRG,198000,False,,Dog plasma Intravenous
 HVEGTFTSDVSSYLEEQAAKEFIAWLIKGGPSSGAPPPCC,92880,False,,Rat plasma Intravenous
 HVEGTFTSDVSSYLEEQAAKEFIAWLIKGGPSSGAPPPC,129600,False,,Rat plasma Intravenous
-HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,223200,True,N-Terminal,blood
-HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,219600,True,Chemical Modification: Pegylation At K27,blood
 GEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,248400,True,"N-Terminal, Chemical Modification: Pegylation At K27",blood
 VEGTFTSDVSSYLEEQAAKEFIAWLIKGGPSSGAPPPCC,97200,True,"N-Terminal, Chemical Modification: Pegylation At K20 And K28",blood
 SEEPPISLDLTFHLLREVLEMARAEQLAQQAHSNRKLMEII,3756,False,,Rat plasma Subcutaneous
 WQEWEQKITALLEQAQIQQEKNEYELQKLDKWASLWEWF,7272,True,"C-Terminal Amidation, N-Terminal",Rat plasma Subcutaneous
-CDLPQTHSLGSRRTLMLLAQMRKISLFSCLKDRHDFGFPQEEFGNQFQKAETIPVLHEMIQQIFNLFSTKDSSAAWDETLLDKFYTELYQQLNDLEACVIQGVGVTETPLMKEDSILAVRKYFQRITLYLKEKKYSPCAWEVVRAEIMRSFSLSTNLQESLRSKE,234000,True,"N-Terminal, Cyclic",Intravenously administered to wistar rats
-CDLPQTHSLGSRRTLMLLAQMRKISLFSCLKDRHDFGFPQEEFGNQFQKAETIPVLHEMIQQIFNLFSTKDSSAAWDETLLDKFYTELYQQLNDLEACVIQGVGVTETPLMKEDSILAVRKYFQRITLYLKEKKYSPCAWEVVRAEIMRSFSLSTNLQESLRSKE,3600,True,"Cyclic, Chemical Modification: Glycosylation At Thr-105",Intravenously administered to wistar rats
 ELYENKPRRPYIL,354,False,,Rat serum
 ELYENKP-N3-HLYS-RPYIL,9180,True,Chemical Modification: N3-L-Hlys At 8Th Arginine Position,Rat serum
 ELYENKP-N3-1D-RPYIL,12660,True,Chemical Modification: N3-1D= Cooh-Chnh2Ch2-Ch23-Ch2-Nhme At 8Th Arginine Position,Rat serum
@@ -750,9 +663,6 @@ AG,8280,True,"N-Terminal, Chemical Modification: Conjugation Of Peptide C Termin
 HADGVFTSDFSRLLGQLSAKKYLESLI,186,False,,Intravenous administration to human plasma
 GPETLCGAELVDALQFVCGDRGFYFNKPTGYGYGSSRRAPQTGIVDECCFRSCDLRRLMYCAPLKPAKSA,72000,False,,Human serum sample
 ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF,414,False,,Intravenous injection into human
-YGGFL,5640,True,Chemical Modification: Thiomethylene Bond Replacement Between Residue 1-2,Human serum
-YGGFL,4764,True,Chemical Modification: Thiomethylene Bond Replacement Between Residue 2-3,Human serum
-YGGFL,18900,True,Chemical Modification: Thiomethylene Bond Replacement Between Residue 4-5,Human serum
 YAGFL,60000,True,"Stereochemistry, Chemical Modification: Thiomethylene Bond Replacement Between Residue 3-4",Human serum
 GGFMTSEKSQTPLVTL,42,False,,Male wistar Rats intravenously
 PLG,1200,True,Chemical Modification: Tritium Labeling At Proline,Subcutaneously injected to rat plasma
@@ -760,14 +670,11 @@ SANSNPAMAPRERKAGCKNFFWKTFTSC,168,True,Cyclic,Intravenous infusion in Dog plasma
 SSCFGGRIDRIGAQSGLGCNSFRY,150,True,"Cyclic, Chemical Modification: I125 Radiolabeled",Intravenous administered to Rat
 WMDF,780,True,C-Terminal Amidation,Human plasma
 YMGWMDF,150,True,C-Terminal Amidation,Human plasma
-DYMGWMDF,1080,True,C-Terminal Amidation,Human plasma
-DYMGWMDF,3000,True,"C-Terminal Amidation, Chemical Modification: Sulphation Of Tyrosine Residue At Position 2",Human plasma
 RDYWGWLDF,162,True,"C-Terminal Amidation, Chemical Modification: Sulphation Of Tyrosine Residue At Position 3",Human plasma
 DRDYMGWMDF,1800,True,"C-Terminal Amidation, Chemical Modification: Sulphation Of Tyrosine Residue At Position 4",Human plasma
 MKAIFVLKGWWRTS,210,False,,Not reported
 YAFGYPS,78,True,Chemical Modification: I125 Radiolabeled,Intravenous injection into tail of rats
 SQEPPISLDLTFHLLREVLEMTKADQLAQQAHSNRKLLDIA,972,False,,Intravenous administration to human plasma
-ADSGEGDFLAEGGGVR,30,True,Chemical Modification: Dat-Fpa Was Labeled With 125-Iodine Or With 123-Iodine By Chloramine-T,Intravenous injection in lateral vein of normal rabbit
 ADSGEGDFLAEGGGVR,30,False,,Intravenous injection in lateral vein of normal rabbit
 VPLPAGGGTVLTKMYPRGNHWAVGHLM,168,False,,Human serum
 CYFQNCPRG,124567320,True,Cyclic,"Weakly acidic solution pH 4.0, acetic acid"
@@ -781,18 +688,11 @@ NSPR,13380,False,,Subcutaneously injected to rat
 RPKPFQWFWLL,2754,True,"C-Terminal Amidation, Stereochemistry",Intraperitonial injection to Nu/Nu mice
 MPR-HAR-GDWPC,4068,True,"C-Terminal Amidation, N-Terminal, Cyclic",Intravenous injection to Human
 VVVPP,36000,False,,Intravenous administration to human
-YGG,2760,True,"Chemical Modification: Peptide Bonds At Position 1,2 Was Replaced By Thioamide Linkages",Rat whole blood
-YGG,60,False,,Rat whole blood
-YGG,10800,True,"Chemical Modification: Peptide Bonds At Position 2,3 Was Replaced By Thioamide Linkage",Rat whole blood
-DPLPEF,1800,True,C-Terminal Amidation,Mouse plasma
-DPLPEF,18000,False,,Mouse plasma
 P-[CL-PHE4]DPLPEF,18000,True,Chemical Modification: Para Chlorination Of Amino Group Of Phenylalanine,Mouse plasma
 P-[BR-PHE4]DPLPEF,18000,True,Chemical Modification: Para Bromination Of Amino Group Of Phenylalanine,Mouse plasma
 P-[F-PHE4]DPLPEF,18000,True,Chemical Modification: Para Florination Of Amino Group Of Phenylalanine,Mouse plasma
 P-[I-PHE4]DPLPEF,18000,True,Chemical Modification: Para Iodination Of Amino Group Of Phenylalanine,Mouse plasma
 DPLPEF,18000,True,Chemical Modification: Hydroxylation Of Amino Group Of Phenylalanine,Mouse brain proteases
-HSDAVFTDNYTRLRKQMAVKKYLNSILN,317.4,True,Chemical Modification: I125 Radiolabeling And Encapsulation Of Vip In Liposome,Intravenously administration to rat plasma
-HSDAVFTDNYTRLRKQMAVKKYLNSILN,37.2,True,Chemical Modification: I125 Radiolabeling,Intravenously administration to rat plasma
 MEPLGWQLTSGPNQEQVSPLTLLK,1140,True,Chemical Modification: I125 Radiolabeling,Mouse blood fibrin clots
 NQEQVSPLTLLK,1260,True,Chemical Modification: Biotinylation At Lysine Residueposition 24,Mouse blood fibrin clots
 GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,118.8,True,Chemical Modification: I125 Radiolabeling,Intravenous injection into rat
@@ -819,23 +719,10 @@ GWTLNSAGYLLGPHAVGNHRSFSDKNGLTS,222,False,,Human serum
 DGGFL,1272,False,,Nasal administration to Male Sprague Dawley derived rats
 HWAWFK,3000,True,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Trp Methylated At Position 2",Twelve adult male volunteers
 YEPGKSSILQHERPVTKPQA,570,True,C-Terminal Amidation,Male Sprague-Dawley rats blood
-YEPGKSS,450,True,C-Terminal Amidation,Male Sprague-Dawley rats blood
-YEPGKSS,1074,True,"C-Terminal Amidation, Chemical Modification: [2-Dehydro-Pro1.5]C Is Attached And Tritiated",Male Sprague-Dawley rats blood
-FCFWKTCT,4320,True,"Cyclic, Stereochemistry",Injected into mesenteric veins rat
-FCFWKTCT,6840,True,"N-Terminal, Cyclic, Stereochemistry",Injected into mesenteric veins rat
 EAKSQGGSN,150,False,,Intravenouly injected in male Wistar rats
 NSDSECPLSHDGYCLHDGVCMYIEALDKYACNCVVGYIGERCQYRDLKWWELR,744,True,Chemical Modification: I125 Labeling,Fresh surgically excised human meningioma specimens
 YDPAPPPPPP,5760,True,N-Terminal,"Ovaries of A. aegypti, Culex quinquefasciatus and Anopheles quadrimaculatus"
 YRQSMNQGSRSTGCRFGTCTMQKLAHQIYQFTDKDKDGMAPRNKISPQGY,63,True,C-Terminal Amidation,Spontaneously hypertensive rats SHR
-YGGFLRRIRPKLKWDN,2520,False,,Mouse brain homogenates
-YGGFLRRIRPKLKWDN,4020,True,"Chemical Modification: The Reduced Bond Psi [Ch,-Nh] Was Introduced At Position 1-2",Mouse brain homogenates
-YGGFLRRIRPKLKWDN,2580,True,"Chemical Modification: The Reduced Bond Psi [Ch,-Nh] Was Introduced At Position 3-4",Mouse brain homogenates
-YGGFLRRIRPKLKWDN,6000,True,"Chemical Modification: The Reduced Bond Psi [Ch,-Nh] Was Introduced At Position 4-5",Mouse brain homogenates
-YGGFLRRIRPKLKWDN,30000,True,"Chemical Modification: The Reduced Bond Psi [Ch,-Nh] Was Introduced At Position 5-6",Mouse brain homogenates
-YGGFLRRIRPKLKWDN,4800,True,"Chemical Modification: The Reduced Bond Psi [Ch,-Nh] Was Introduced At Position 6-7",Mouse brain homogenates
-YGGFLRRIRPKLKWDN,11520,True,"Chemical Modification: The Reduced Bond Psi [Ch,-Nh] Was Introduced At Position 7-8",Mouse brain homogenates
-YGGFLRRIRPKLKWDN,11460,True,"Chemical Modification: The Reduced Bond Psi [Ch,-Nh] Was Introduced At Position 8-9",Mouse brain homogenates
-YGGFLRRIRPKLKWDN,5580,True,"Chemical Modification: The Reduced Bond Psi [Ch,-Nh] Was Introduced At Position 9-10",Mouse brain homogenates
 HWAWFK,7190.4,True,"Stereochemistry, Chemical Modification: Methylated At Position 2 Of D-Trp",Intravenous injection to male and female dogs
 HAEGTFTSDVSSYLEGQAAKEFIAWLVRGRG,50400,True,Chemical Modification: Γ-Glu-Palmitoyl Residue At Position 21,Subcutaneously injected in Humans
 HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRG,46800,True,Chemical Modification: Γ-Glu-Palmitoyl Residue At Position 21,Subcutaneously injected in Humans
@@ -849,8 +736,6 @@ AKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY,900,True,C-Terminal Amidation,Intravenously a
 RXRRXRRXRRXRXB,1440,True,"Chemical Modification: X = 6-Aminohexanoic Acid, B = Beta-Alanine, I = Inosine",Intravenous administration in Rat
 NQEEVSPYTLLKG,4320,True,"N-Terminal, Chemical Modification: Tyr Residue At 8 Position Is Iodionated",Injected in human plasma
 EDYELMDLLAYLK,4260,True,Chemical Modification: 111In Radiolabeling,Human serum
-PSSSLHLHRRITHHRRLGCFRSSGSLLNNAMKGGVDDEITLSAYITMALLESSLPDTDP,10200,True,Chemical Modification: Glycosylation,Wistar rats
-PSSSLHLHRRITHHRRLGCFRSSGSLLNNAMKGGVDDEITLSAYITMALLESSLPDTDP,1800,False,,Wistar rats
 PGLU-HYSTLLAP-DES-GLY,1920,True,"Stereochemistry, Chemical Modification: Pglu=Pyroglutamic Acid, Des-Gly",Subcutaneous administration to Sprague-Dawley rats
 MFPAMPLSSLFVNGPRTLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,168,True,Chemical Modification: I125 Labeling,Intravenous bolus administration in Rat
 SYSMEHFRWGKPVGKKRRPVKVYPAGEDDEASEAFPLEF,439.2,False,,Intravenously injected to rat
@@ -860,18 +745,12 @@ IBU-YSMEHFRYGKPVGKKRR,576,True,"C-Terminal Amidation, Chemical Modification: Ibu
 ΒALA-YSMEHFRYGKPVGKKR-ORN,603.6,True,"C-Terminal Amidation, Chemical Modification: Βala = Beta Alanine, Orn = Ornithine",Intravenously injected to rat
 IBU-YSMEHFRYGKPVGKKR-ORN,360,True,"C-Terminal Amidation, Chemical Modification: Ibu = Α-Aminoisobutyric Acid",Intravenously injected to rat
 ΒALA-YSMEHFRYGKPVGKKR-ORN,5287.2,True,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Βala = Beta Alanine, Orn = Ornithine",Rat plasma
-PGLU-NSPR,68400,True,Chemical Modification: Pglu=Pyroglutamic Acid,Subcutaneously and Intravenously injected in mice
-PGLU-NSPR,280800,True,"Chemical Modification: Conjugated With Cationic Bovine Serum Albumin Conjugated Pegylated Nanoparticles Cbsa-Nps, Pglu=Pyroglutamic Acid",Subcutaneously and Intravenously injected in mice
 HDEFERHAEGTFTSDVSSYLEGQAAKEFIAWLVKGRG,300,False,,Subcutaneously injected in mice
-YRGDS,30,False,,Intravenously injected to C57BL6 mice
-YRGDS,1800,True,"Chemical Modification: I125 Radiolabeling, Covalently Attached To An Isocyanate-Containing Poly Urethane Prepolymer",Intravenously injected to C57BL6 mice
 CYFQNCPRG,63.6,True,"Cyclic, Chemical Modification: I125 Labeling",Female homozygous Brattleboro rats and male Wistar rats
 GVITRIR,60,True,"N-Terminal, Stereochemistry",Rat plasma
 SAR-GVITXIRP,720,True,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine",Rat plasma
 SAR-GVIT-(DALLO-ILE)-IRP,720,True,"N-Terminal, Stereochemistry, Chemical Modification: 4Th Aa  Is D Isoform Of Allo- Ile, Sar- Sarcosine",Rat plasma
 GVIT-(NVA)-IRP,1080,True,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine,  Nva-Norvaline",Rat plasma
-SAR-GVIT-(NVA)-IRP,3240,True,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine , Nva-Norvaline",Rat plasma
-SAR-GVIT-(NVA)-IRP,720,True,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine ,Nva-Norvaline",Rat plasma
 SAR-GVIT-(NMENVA)-IRP,3600,True,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine , Nmenva- N-Methyl-Norvaline",Rat plasma
 SAR-GVIT-NMENVA-IRP,7560,True,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine , Nmenva- N-Methyl-Norvaline",Rat plasma
 HHLGGAKQAGDV,12000,True,Chemical Modification: Conjugated With Peg,Ratthrombocytopenicplasma
@@ -879,8 +758,6 @@ HHLGGAKQAGDV,12000,True,Chemical Modification: Conjugated With Peg,Ratthrombocyt
 ARPYSFGL,990,True,C-Terminal Amidation,Midgut tissues of M. sexta
 PPPPPARPYSFGL,4260,True,C-Terminal Amidation,Midgut tissues of M. sexta
 PPPPPARPYSF-(ACPC),6960,True,"C-Terminal Amidation, Chemical Modification: Acpc=Cyclopropylalanine",Midgut tissue
-PYR-HP,180,True,"C-Terminal Amidation, Chemical Modification: Pyr=Pyroglutamic Acid",Homogenate of Caco-2 cells
-PYR-HP,1200,True,Chemical Modification: Pyr=Pyroglutamic Acid,Homogenate of Caco-2 cells
 QHP,1200,True,N-Terminal,Homogenate of Caco-2 cells
 FPESKATNATLDPRPGGGGNGDFEEIPEEYLQ,489,True,Chemical Modification: I125 Labeling,Rat plasma
 FGGFTGARKSARKLANQ,3840,False,,Mouse Plasma
@@ -892,7 +769,6 @@ SSKYQ,11520,True,N-Terminal,NA
 GSSFLSPEHQRVQQRKESKKPPAKLQPR,1260,True,Chemical Modification: N-Octanoyl Group At Ser 3,Human plasma
 CSNLSTCVLGKLSQELHKLQTYPRTNTGSGTP,790.8,True,Cyclic,Rat kidney homogenates
 AEIYNKDGNKLDLYG,1800,False,,Buffer
-VDKPPYLPRPRPPRRIYNR,4080,True,C-Terminal Amidation,25% mouse serum
 VDKPPYLPRPRPPRRIYN,7200,False,,25% mouse serum
 VDKPPYLPRPRPPRRIYNN,7200,True,C-Terminal Amidation,25% mouse serum
 VDKPPYLPRPRPPRRIYNH,5400,True,C-Terminal Amidation,25% mouse serum
@@ -904,7 +780,6 @@ VDKPPYLPRPRPPRRIYN-HAR,5640,True,"C-Terminal Amidation, Chemical Modification: H
 VDKPPYLPRPRPPRRIYNR-NHPR,7200,False,,25% mouse serum
 VDKPPYLPRPRPPR-ORN-IYNR,5400,True,"C-Terminal Amidation, Chemical Modification: Orn =Ornithine",25% mouse serum
 VDKPPYLPRPRPPR-BETA-HR-IYNR,9000,True,"C-Terminal Amidation, Chemical Modification: Beta-Hr =Β-Homoarginine",25% mouse serum
-VDKPPYLPRPRPPRRIYNR,3480,True,"C-Terminal Amidation, Stereochemistry, Chemical Modification: D-Arg At 15Th Position",25% mouse serum
 VDKPPYLPRPRPPR-HAR-IYN-HAR,3300,True,"C-Terminal Amidation, Chemical Modification: Har=Homoarginine",Full mouse serum
 VDKPPYLPRPRPPR-HAR-IYN-AGP,3720,True,"C-Terminal Amidation, Chemical Modification: Har=Homoarginine, Agp = Α-Amino-3-Guanidinopropionic Acid",Full mouse serum
 VDKPPYLPRPRPPR-AGP-IYN-HAR,6660,True,"C-Terminal Amidation, Chemical Modification: Har=Homoarginine, Agp = Α-Amino-3-Guanidinopropionic Acid",Full mouse serum
@@ -912,6 +787,7 @@ VDKPPYLPRPRPPR-AGP-IYN-AGP,10260,True,"C-Terminal Amidation, Chemical Modificati
 VDKPPYLPRPRPPR-ORN-IYN-HAR,4500,True,"C-Terminal Amidation, Chemical Modification: Har=Homoarginine,  Orn=Ornithine",Full mouse serum
 VDKPPYLPRPRPPR-ORN-IYN-AGP,6180,True,"C-Terminal Amidation, Chemical Modification: Agp = Α-Amino-3-Guanidinopropionic Acid, Orn=Ornithine",Full mouse serum
 VDKPPYLPRPRPPR-ORN-IYN-ORN,10560,True,"C-Terminal Amidation, Chemical Modification: Orn=Ornithine",Full mouse serum
+VDKPPYLPRPRPPRRIYNR,28800,True,"C-Terminal Amidation, Stereochemistry, Chemical Modification: D-Arg At 19Th Position",Full mouse serum
 VDKPPYLPRPRPPR-ORN-IYNR,6120,True,Chemical Modification: Orn=Ornithine,Full mouse serum
 DRVYIHPFHL,3600,False,,Bacterial strain B-9 cell culture
 YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE,300,False,,Bacterial strain B-9 cell culture
@@ -926,19 +802,13 @@ SAR-RVYIHPA,120,True,"N-Terminal, Stereochemistry, Chemical Modification: D-Ala 
 EGTFTSDVSSYLEGQAAKEFIAWLVKGR,14400,True,C-Terminal Amidation,Male beagle dog plasma
 MKFTLFSVLVVLLIATFVAADDCPRICTADFRPVCGTPSGGRRSANRTFGNQCSLDSHNCLNKGDTYDKLHDGECK,3600,False,,Kunming Mouse plasma Dose i/v injected
 HAEGTFTSDVSSYLEGQAAK(Γ-GLU-PALMITOYL)EFIAWLVRGRG,61560,True,Chemical Modification: Γ-Glu-Palmitoyl At 21 St Position,Rat Plasma
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,54000,True,"C-Terminal Amidation, Chemical Modification: X-1 = Cys- Conjugated-7-Hydroxycoumarin Maleimide",Rat Plasma
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,187920,True,"C-Terminal Amidation, Chemical Modification: X-2 = Cys- Conjugated-7-Hydroxycoumarin Maleimide",Rat Plasma
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,77760,True,"C-Terminal Amidation, Chemical Modification: X-2 = Lys- Conjugated-7-Hydroxycoumarin Maleimide",Rat Plasma
-HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,42480,True,"C-Terminal Amidation, Chemical Modification: X-1 = Lys- Conjugated-7-Hydroxycoumarin Maleimide",Rat Plasma
 HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRX1,19440,True,"C-Terminal Amidation, Chemical Modification: X-1 = Cys- Conjugated-7-Hydroxycoumarin Maleimide",Rat Plasma
 HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRX2,66240,True,"C-Terminal Amidation, Chemical Modification: X-2 = Cys- Conjugated-7-Hydroxycoumarin Maleimide",Rat Plasma
 HAEGTFTSDVX-2SYLEGQAAKEFIAWLVKGR,82440,True,"C-Terminal Amidation, Chemical Modification: X-2 = Cys- Conjugated-7-Hydroxycoumarin Maleimide",Rat Plasma
-HAEGTFTSDVSCYLEGQAACEFIAWLVKGRG,18000,True,Cyclic,DPP IV
 HAEGTFTSDVSCYLEGQAACEFIAWLVKGRGKKK,288000,True,Cyclic,DPP IV
 HAEGTFTSDVSCYLEGQAACEFIAWLVKGRGKKKKKK,252000,True,Cyclic,DPP IV
 HAEGTFTSDVSCYLEGQAACEFIAWLVKGRGSSSSSS,27000,True,Cyclic,DPP IV
 HAEGTFTSDVSCYLEGQAACEFIAWLVKGRGVVVVVV,18000,True,Cyclic,DPP IV
-HAEGTFTSDVSCYLEGQAACEFIAWLVKGRG,120,False,,DPP IV
 MIFVKTLTGKTIL,5400,False,,Sprague Dawley rats Dose i/m injected
 PLLQATLGGGS,43200,True,"C-Terminal Amidation, Stereochemistry",Human plasma
 PLLQATL,5400,False,,Human plasma
@@ -946,10 +816,7 @@ YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,5400,True,"C-Terminal Amidation, N-Terminal
 CYTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,83160,True,"C-Terminal Amidation, N-Terminal",Sprague-Dawey SD rats Plasma
 HSDAVFTDNYTRLRKQVAAKKYLQSIKNKRY,250.8,False,,Protein Sample +HAS + Fxa +DPP IV
 MWQRPSSWIEGRFPHSDAVFTDQYTRLRKQLAAKKYLQSLKQKRY,34956,False,,Buffer containing peptide sample
-TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,15120,True,"C-Terminal Amidation, N-Terminal",Intravenously administered to Sprague–Dawley rats
-TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,122400,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Conjugated With Peg40Kda Throµgh Lys-30",Intravenously administered to Sprague–Dawley rats
 TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,540000,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Conjugated With Clphso2 Conjugate Throµgh Lys-30",Human Plasma
-TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,158400,True,"C-Terminal Amidation, N-Terminal, Chemical Modification: Conjugated With Morphso2 Conjugate Throµgh Lys-30",Intravenously administered to Sprague–Dawley rats
 YPIKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY,12240,False,,Female pigs blood + Peptide sample+ DPP-IV inhibitor valine pyrrolidide
 HA/EGTFTSDVSSYLEGQAAKEFIAWLVKGR,46800,True,C-Terminal Amidation,Human Plasma+ Heparin
 HA/EGTFTSDVSSYLEGQAAKEFIAWLVKGRG,39600,False,,EDTA plasma
@@ -964,8 +831,6 @@ P-GLN-HWSYWLRPG,10440,True,"C-Terminal Amidation, N-Terminal, Chemical Modificat
 LLTHTISRIAVSYQTKVNLL,345.6,False,,BALB/c mice plasma Dose i/v injected
 MWQRPSSWIEGRLLTHTISRIAVSYQTKVNLL,47196,False,,BALB/c mice plasma Dose i/v injected
 FPRPGGGGQGDFEEIPEEYL,1350,True,Stereochemistry,Human plasma Dose i/v injected
-FPRPGGGGQGDFEPIPEDAYDE,780,True,"C-Terminal Amidation, Stereochemistry",Sprague-Dawley SD rats plasma Dose i/v injected
-FPRPGGGGQGDFEPIPEDAYDE,12732,True,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Stearic Acid At Lys",Sprague-Dawley SD rats plasma Dose i/v injected
 CKQSCSFGPFTFVCDGNTK,240,True,"Chemical Modification: Succinimidyl 6-Hydrazinonicotinate Acetone Hydrazone Hynic Derivatized, Hynic Conjugated At Either At Cys -1 Or Amine Group Of Lys-2",Healthy Sprague–Dawley rats blood
 SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH,480,True,Cyclic,Human kidney membrane extract
 EVKYDPCFGHKIDRINHVSNLGCPSLRDPRPNAPSTSA,9540,True,Cyclic,Human kidney membrane extract
@@ -978,8 +843,6 @@ RKEVY,30,False,,Human plasma
 SKLQ,23400,True,"C-Terminal Amidation, N-Terminal",Conjuagte 1+PSAProstate-specific antigen
 HSSKLQ,43200,True,"C-Terminal Amidation, N-Terminal",Conjuagte 2+PSAProstate-specific antigen
 HYP-AS-CHG-Q,3300,True,"C-Terminal Amidation, N-Terminal",Conjuagte 3+PSAProstate-specific antigen
-YRQSMNNFQGLRSFGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY,37.2,True,"C-Terminal Amidation, Cyclic",Male Wistar rats plasma
-YRQSMNNFQGLRSFGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY,292.2,True,"C-Terminal Amidation, N-Terminal, Cyclic",Male Wistar rats plasma
 SCSLPQT,7200,True,"N-Terminal, Stereochemistry",Male Swiss Webster mice serumSubcutaneous Route of delivery
 CSSPIQGSWTWENGK(PROPARGYLGLYCINE)WTWKGIIRLEQ,1767.6,True,Chemical Modification: Modified Gly  At 16Th Postion I.E. Propargylglycine And Peptide Conjugated With Drug Dtx At This Position,C57BL6 mice Serum
 LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,3600,False,,Western Blotting
@@ -1000,7 +863,6 @@ ASTTTNYT,2700,True,"C-Terminal Amidation, Stereochemistry",AIDS patient plasma
 YADAIFTNSYRKVLGQLSARKLLQDIMSR,3600,True,"C-Terminal Amidation, N-Terminal",Porcine plasma
 YADAIFTNSYRKVLAQLSARKLLQDIMSR,3600,True,"C-Terminal Amidation, N-Terminal, Stereochemistry",Porcine plasma
 YADAIFT-(CYCLO-D)-SYR-(CYCLO-K)-VLAQLSARKLLQDIMSR,14400,True,C-Terminal Amidation,Porcine plasma
-YADAIFT-(CYCLO-D)-SYR-(CYCLO-K)-VLAQLSARKLLQDIMSR,14400,True,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Cyclo-Asp At 8Th Position, Cyclo-Lys At 12 Position",Porcine plasma
 YADAIFTNSYRVLAQLSAR-(CYCLO-K)LLQ-(CYCLO-D)-IMSR,14400,True,C-Terminal Amidation,Porcine plasma
 YADAIFTNSYRKVLAQLSAR-(CYCLO-K)LLQ-(CYCLO-D)-IMSR,14400,True,"C-Terminal Amidation, Stereochemistry",Porcine plasma
 YADAIFT-(CYCLO-D)-SYR-(CYCLO-K)-VLAQLSAR-(CYCLO-K)LLQ-(CYCLO-D)IMSR,14400,True,C-Terminal Amidation,Porcine plasma
@@ -1009,7 +871,6 @@ YADAIFTNSYRKVLGQLSARKLLQDILSRQQG,727200,True,C-Terminal Amidation,Cultured bovin
 HSDAVFTDNYTRLRKQMAVKKYLNSILN,48,True,"C-Terminal Amidation, N-Terminal",Human plasma
 HADGVFTSDFSKLLGQLSAKKYLESLM,390,True,C-Terminal Amidation,Human plasma
 HADGVFTSDFSKLLGQLSAKKYLESLMGKRVSSNISEDPVPV,2250,False,,Human plasma
-YADAIFTNSYRKVLGQLSARKLLQDIMSR,444,True,"C-Terminal Amidation, N-Terminal, Stereochemistry",Rat plasma i/v and s/c route of injection
 PYR-EHWSYWLRPG,600,True,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Pyr=Pyro-Glutamic Acid",Two male Beagle dogs plasma Dose s/c injected
 SLRRSSCFGGRMDRIGAQSGLGCNSFRY,16.8,True,"Cyclic, Chemical Modification: Radioiodinated Peptide At Tyr",Male Sprague-Dawley rats  plasma Dose i/p injected
 RRSSCFGGRMDRIGAQSGLGCNSFRY,17.1,True,"Cyclic, Chemical Modification: Radioiodinated Peptide At Tyr",Male Sprague-Dawley rats  plasma Dose i/p injected
@@ -1021,25 +882,20 @@ HSQGTFTSDYSKYLDSRRAQDFVQWLMNTKRNKNNIA,720,False,,Human plasma Dose i/v injected
 YGGFM,768,False,,Human plasma
 ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF,216,True,"C-Terminal Amidation, Cyclic",Merino-Corriedale cross ewes sheep plasma
 YRGF(4NO2)P,7200,True,"C-Terminal Amidation, Stereochemistry, Chemical Modification: 4 Nitro Groups Linked To Phenylalanine Phe At 4Th Position",Human plasma
-GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,23400,True,Chemical Modification: Labelled With 125I,Eight merino lambs plasma
-GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,2880,True,"Chemical Modification: Labelled With 125I, Disulphide Bond Is Reduced",Eight merino lambs plasma
-GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,3060,True,Chemical Modification: S-Cm=S-Carboxymethylated,Eight merino lambs plasma
 YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,1200,True,C-Terminal Amidation,Six mongrel dogs plasma Dose i/v injected
 WAGGDASGE,434.4,False,,Mongrel dog plasmaDose i/v injected
 AGGDASGE,453,False,,Mongrel dog plasmaDose i/v injected
 WAAGDASGE,491.4,True,Stereochemistry,Mongrel dog plasmaDose i/v injected
-WAGADASGE,774,True,Stereochemistry,Mongrel dog plasmaDose i/v injected
-WAGADASGE,612,True,"C-Terminal Amidation, Stereochemistry",Mongrel dog plasmaDose i/v injected
 YADAIFTNSYRKVLGQLSARKLLQDIMSRQQGESNQERGA,3438,True,C-Terminal Amidation,Dose i/v injectedRat plasma
 APGPR,300,False,,Human Serum
 PGLU-HWSYGLRPG,630,True,"C-Terminal Amidation, Chemical Modification: Pglu= Pyro-Glutamate",Rat ovary tissues
+PGLU-HWSYFLRPG,871.8,True,"C-Terminal Amidation, Stereochemistry",Dose i/m injectedRat plasma
+PGLU-HWSYFLRPG,1548,True,"C-Terminal Amidation, Stereochemistry",Dose i/v injectedRat plasma
 DSGCFGRRLDRIGSLSGLGCNVLRRY,186,True,"Cyclic, Chemical Modification: Tyr Is Iodinated 125I",Human plasma
 D-NAL-FASKKLKPA,561600,True,"C-Terminal Amidation, N-Terminal, Stereochemistry",Dose i/v injectedOVX monkey Serum
 GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,6000,False,,Rat Serum
 FVNQHLCGSHVDELQYLCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA ,1650,False,,Rat Serum
 GPQALCGAELVDALYLVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA ,1614,False,,Rat Serum
-P-GLU-HWSYSLRP,672,True,"Stereochemistry, Chemical Modification: D-Sertbu At 6Th Position, Pglu=Pyr- Glutamate",Dose i/v injectedSerum of women with endometriosis
-P-GLU-HWSYSLRP,3024,True,"Stereochemistry, Chemical Modification: D-Sertbu At 6Th Position",Dose i/v injectedSerum of women with endometriosis
 GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA ,900,False,,Dose i/v injectedChicken plasma
 SQDSAFRIQERLRNSKMAHSSSCFGQKIDRIGAVSRLGCDGLRLF,45,True,Cyclic,Dose i/v injectedMice WKY plasma
 YRGDS,1800,True,Chemical Modification: Peptide Covalently Attached To Isocyanate Containing Polyurethane Prepolymer,Mouse blood
@@ -1074,28 +930,8 @@ MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,50400,True,"Chemical Modification: N-Hydrox
 MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCRGAGAAGG,39600,True,"Cyclic, Chemical Modification: N-Hydroxysuccinimide Esternhs-Estermodified Cy5.5 At Lysine 15,23 And 28",Intravenous injection in two month old wild-type C57BL/6 mice
 YAGFLC,546,True,Stereochemistry,Intravenous injection in male Sprague–Dawley rats
 YAGFL,276,True,Stereochemistry,Rat plasma
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,2232,False,,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-CEWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLW,2316,False,,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-CEWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLW,2400,True,N-Terminal,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,2646,True,Chemical Modification: Pegylation-Peg750 Of Cysteine At 4Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,4044,True,Chemical Modification: Pegylation-Peg2000 Of Cysteine At 4Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3012,True,Chemical Modification: Pegylation-Peg750 Of Cysteine At 11Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,5460,True,Chemical Modification: Pegylation-Peg2000 Of Cysteine At 11Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3222,True,Chemical Modification: Pegylation-Peg750 Of Cysteine At 15Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,4944,True,Chemical Modification: Pegylation-Peg2000 Of Cysteine At 15Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3018,True,Chemical Modification: Pegylation-Peg750 Of Cysteine At 18Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,4878,True,Chemical Modification: Pegylation-Peg2000 Of Cysteine At 18Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3108,True,Chemical Modification: Pegylation-Peg750 Of Cysteine At 22Nd Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,4842,True,Chemical Modification: Pegylation-Peg2000 Of Cysteine At22Nd Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3486,True,Chemical Modification: Pegylation-Peg750 Of Cysteine At 29Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,5046,True,Chemical Modification: Pegylation-Peg2000 Of Cysteine At 29Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
 EWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLWC,2340,False,,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEECQNQQEKNEQELLELDKWASLW,2316,False,,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEECQNQQEKNEQELLELDKWASLW,2520,True,Chemical Modification: Pegylation-Peg750 Of Cysteine At 20Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
-EWDREINNYTSLIHSLIEECQNQQEKNEQELLELDKWASLW,4578,True,Chemical Modification: Pegylation-Peg2000 Of Cysteine At 20Th Position,Solutions of bovine trypsin and the peptide or PEG−peptide conjugate in 10 mM PBS pH 7.4
 YGRKKRRQRRR,402,True,N-Terminal,Modified simulated intestinal fluid
-VDCFLSRPTEKT,8734.2,False,,500 μL of freshly collected bovine vitreous
-VDCFLSRPTEKT,18080.4,True,N-Terminal,500 μL of freshly collected bovine vitreous
 HGDGSFSDEMNTILDNLAARDFINWLIQTKITDK,138600,False,,Subcutaneous injection in female Sprague – Dawley strain rats
 FVNQHLCGSHLVEALYLVCGERGFFYTPKARREAQNPQAGAVELGGGLGGLNALALEGPPQKRGIVEQCCTSICSLYQLENYCN,492,True,Cyclic,Porcine blood
 RREAQNPQAGAVELGGGLGGLNALALEGPPQKRG,594,False,,Porcine blood

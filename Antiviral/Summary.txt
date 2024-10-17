@@ -1,3 +1,5 @@
+Base de datos
+
 Antiviral_original
 5958 seq
 
@@ -15,6 +17,7 @@ Minutos, Horas, luego convertidos a segundos
 
 
 Antiviral_object
+Descriptivos
 Contiene solo los valores object del archivo original, se filtran las columnas y se agrega columna is_mod
 shape (57, 5)
 
@@ -22,7 +25,7 @@ is_mod
 True    43
 False   14
 
-
+293
 
 
 
