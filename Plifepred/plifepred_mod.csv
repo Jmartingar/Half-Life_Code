@@ -1,70 +1,70 @@
-sequence,half_life_seconds,is_mod,modifications,hl_category
-RRWQWR,1800.0,True, Amidation,Low
-RRWQWR,3600.0,True,Acetylation,Low
-RRWQWR,5400.0,True,"Acetylation, Amidation",Low
-CRRWQWRC,5400.0,True, Amidation,Low
-CRRWWRFC,23400.0,True, Amidation,High
-CRRWWRFC,23400.0,True,"Acetylation, Amidation",High
-CRRWQWRMKKLGC,6600.0,True, Amidation,Low
-LPFFD,300.0,True, Amidation,Low
-H-AIB-EGTFTSDVSSYLEGQAAKEFIAWLVKGR,43560.0,True, Amidation,High
-HAEGTFTSDVSSYLEGQAAKEFIAWLVK-AIB-R,66240.0,True, Amidation,High
-HGEGTFTSDLSKQLEEEAVRLFIEWLKNGGPSSGAPPPS,2580.0,True, Amidation,Low
-RRWRIVVIRVRR,3600.0,True, Amidation,Low
-ARRWRIVVIRVRRH,3600.0,True, Amidation,Low
-RLIEDICLPRWGCLWEDD,8280.0,True,"Acetylation, Amidation",Medium
-CNGRCGGK,924.0,True,"Acetylation, Amidation",Low
-KPSSPPEE,7200.0,True,"Acetylation, Amidation",Low
-HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,258.0,True, Amidation,Low
-HSDGIFTDSYSRYRKQMAVKAYLAAVLGKRYKQRVKNK,396.0,True, Amidation,Low
-HSDGIFTDSYSRYRKQMAVKKYLAAVL,7200.0,True, Amidation,Low
-ALAGIGILTV,39600.0,True,"Beta-Alanine1, Amidation",High
-DLAGIGILTV,43200.0,True,"Beta-Asp1, Amidation",High
-CFGLKLDRIGSMSGLGCVQQRKESKKPPAKLQPR,870.0,True, Amidation,Low
-HGDGSFSDEMNTILDNLAARDFINWLIQTLITD,3240.0,True, Amidation,Low
-YGGFLRRIRPK,600.0,True, Addition of hydroxyl group,Low
-YGGFLRRIRPK,1800.0,True, Amidation,Low
-K-SAR-HTRGTF,66960.0,True, Amidation,High
-WQEWEQKITALLEQAQIQQEKNEYELQKLDKWASLWEWF,19980.0,True,"Acetylation, Amidation",High
-YMGWMDF,150.0,True, Amidation,Low
-DYMGWMDF,300.0,True, Amidation,Low
-RPKPFQWFWLL,2754.0,True, Amidation,Low
-DPLPEF,1800.0,True, Amidation,Low
-YEPGKSSILQHERPVTKPQA,570.0,True, Amidation,Low
-YEPGKSS,450.0,True, Amidation,Low
-FCFWKTCT,5400.0,True, Hydroxylation,Low
-VGDGGLFEKKL,21600.0,True,"Acetylation, Amidation",High
-YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,10080.0,True,Acetylation,Medium
-AKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY,900.0,True, Amidation,Low
-VDKPPYLPRPRPPRRIYNN,7200.0,True, Amidation,Low
-VDKPPYLPRPRPPRRIYNH,5400.0,True, Amidation,Low
-VDKPPYLPRPRPPRRIYN-ORN,12600.0,True, Amidation,Medium
-VDKPPYLPRPRPPRRIYN-NMR,4740.0,True, Amidation,Low
-VDKPPYLPRPRPPR-ORN-IYNR,5400.0,True, Amidation,Low
-VDKPPYLPRPRPPR-ORN-IYN-ORN,10560.0,True, Amidation,Medium
-SAR-RVYIHPA,120.0,True,Sar=Sarcosine,Low
-EGTFTSDVSSYLEGQAAKEFIAWLVKGR,2160.0,True, Amidation,Low
-PLLQATLGGGS,43200.0,True, Amidation,High
-TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,15120.0,True,"Acetylation, Amidation",Medium
-FPRPGGGGQGDFEPIPEDAYDE,780.0,True, Amidation,Low
-HWAWFK,1200.0,True, Amidation,Low
-ASTTTNYT,2700.0,True, Amidation,Low
-HSDAVFTDNYTRLRKQMAVKKYLNSILN,48.0,True,"Acetylation, Amidation",Low
-HADGVFTSDFSKLLGQLSAKKYLESLM,390.0,True, Amidation,Low
-YADAIFTNSYRKVLGQLSARKLLQDIMSR,444.0,True,"Acetylation, Amidation",Low
-ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF,216.0,True, Amidation,Low
-YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,1200.0,True, Amidation,Low
-WAGADASGE,612.0,True, Amidation,Low
-YADAIFTNSYRKVLGQLSARKLLQDIMSRQQGESNQERGA,192.0,True, Amidation,Low
-HDEFERHAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,684.0,True, Amidation,Low
-HSDAVFTDNYTRLRKQMAVKKYLNSILN,26.4,True, Amidation,Low
-SCNTATCVTHRLAGLLSRSGGVVKDNFVPTNVGSEAF,540.0,True, Amidation,Low
-VPLPAGGGTVLTKMYPRGNHWAVGHLM,180.0,True, Amidation,Low
-SDAAVDTSSEITTKDLKEKKEVVEEAENRKDVY,8400.0,True,Acetylation,Medium
-SDAAVDTSSEITTKDLKEKKEVVEEAEN,7620.0,True,Acetylation,Medium
-H-AIB-EGTFTSDVSSYLEGQAAKEFIAWLVK-AIB-R,35280.0,True, Amidation,High
-YPSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY,1260.0,True, Amidation,Low
-FNAPFDVGIKLSGAQYQQHGRAL,1320.0,True, Amidation,Low
-FNAPFDVGIKLSGVQYQQHSQAL,3906.0,True, Amidation,Low
-YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,13680.0,True,"Acetylation, Amidation",Medium
-KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY,2880.0,True, Amidation,Low
+sequence,half_life_seconds,is_mod,modifications,experimental_characteristics,hl_category
+RRWQWR,1800.0,True, Amidation,mammalian blood,Low
+RRWQWR,3600.0,True,Acetylation,mammalian blood,Low
+RRWQWR,5400.0,True,"Acetylation, Amidation",mammalian blood,Low
+CRRWQWRC,5400.0,True, Amidation,mammalian blood,Low
+CRRWWRFC,23400.0,True, Amidation,mammalian blood,High
+CRRWWRFC,23400.0,True,"Acetylation, Amidation",mammalian blood,High
+CRRWQWRMKKLGC,6600.0,True, Amidation,mammalian blood,Low
+LPFFD,300.0,True, Amidation,mammalian blood,Low
+H-AIB-EGTFTSDVSSYLEGQAAKEFIAWLVKGR,43560.0,True, Amidation,mammalian blood,High
+HAEGTFTSDVSSYLEGQAAKEFIAWLVK-AIB-R,66240.0,True, Amidation,mammalian blood,High
+HGEGTFTSDLSKQLEEEAVRLFIEWLKNGGPSSGAPPPS,2580.0,True, Amidation,mammalian blood,Low
+RRWRIVVIRVRR,3600.0,True, Amidation,mammalian blood,Low
+ARRWRIVVIRVRRH,3600.0,True, Amidation,mammalian blood,Low
+RLIEDICLPRWGCLWEDD,8280.0,True,"Acetylation, Amidation",mammalian blood,Medium
+CNGRCGGK,924.0,True,"Acetylation, Amidation",mammalian blood,Low
+KPSSPPEE,7200.0,True,"Acetylation, Amidation",mammalian blood,Low
+HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,258.0,True, Amidation,mammalian blood,Low
+HSDGIFTDSYSRYRKQMAVKAYLAAVLGKRYKQRVKNK,396.0,True, Amidation,mammalian blood,Low
+HSDGIFTDSYSRYRKQMAVKKYLAAVL,7200.0,True, Amidation,mammalian blood,Low
+ALAGIGILTV,39600.0,True,"Beta-Alanine1, Amidation",mammalian blood,High
+DLAGIGILTV,43200.0,True,"Beta-Asp1, Amidation",mammalian blood,High
+CFGLKLDRIGSMSGLGCVQQRKESKKPPAKLQPR,870.0,True, Amidation,mammalian blood,Low
+HGDGSFSDEMNTILDNLAARDFINWLIQTLITD,3240.0,True, Amidation,mammalian blood,Low
+YGGFLRRIRPK,600.0,True, Addition of hydroxyl group,mammalian blood,Low
+YGGFLRRIRPK,1800.0,True, Amidation,mammalian blood,Low
+K-SAR-HTRGTF,66960.0,True, Amidation,mammalian blood,High
+WQEWEQKITALLEQAQIQQEKNEYELQKLDKWASLWEWF,19980.0,True,"Acetylation, Amidation",mammalian blood,High
+YMGWMDF,150.0,True, Amidation,mammalian blood,Low
+DYMGWMDF,300.0,True, Amidation,mammalian blood,Low
+RPKPFQWFWLL,2754.0,True, Amidation,mammalian blood,Low
+DPLPEF,1800.0,True, Amidation,mammalian blood,Low
+YEPGKSSILQHERPVTKPQA,570.0,True, Amidation,mammalian blood,Low
+YEPGKSS,450.0,True, Amidation,mammalian blood,Low
+FCFWKTCT,5400.0,True, Hydroxylation,mammalian blood,Low
+VGDGGLFEKKL,21600.0,True,"Acetylation, Amidation",mammalian blood,High
+YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,10080.0,True,Acetylation,mammalian blood,Medium
+AKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY,900.0,True, Amidation,mammalian blood,Low
+VDKPPYLPRPRPPRRIYNN,7200.0,True, Amidation,mammalian blood,Low
+VDKPPYLPRPRPPRRIYNH,5400.0,True, Amidation,mammalian blood,Low
+VDKPPYLPRPRPPRRIYN-ORN,12600.0,True, Amidation,mammalian blood,Medium
+VDKPPYLPRPRPPRRIYN-NMR,4740.0,True, Amidation,mammalian blood,Low
+VDKPPYLPRPRPPR-ORN-IYNR,5400.0,True, Amidation,mammalian blood,Low
+VDKPPYLPRPRPPR-ORN-IYN-ORN,10560.0,True, Amidation,mammalian blood,Medium
+SAR-RVYIHPA,120.0,True,Sar=Sarcosine,mammalian blood,Low
+EGTFTSDVSSYLEGQAAKEFIAWLVKGR,2160.0,True, Amidation,mammalian blood,Low
+PLLQATLGGGS,43200.0,True, Amidation,mammalian blood,High
+TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,15120.0,True,"Acetylation, Amidation",mammalian blood,Medium
+FPRPGGGGQGDFEPIPEDAYDE,780.0,True, Amidation,mammalian blood,Low
+HWAWFK,1200.0,True, Amidation,mammalian blood,Low
+ASTTTNYT,2700.0,True, Amidation,mammalian blood,Low
+HSDAVFTDNYTRLRKQMAVKKYLNSILN,48.0,True,"Acetylation, Amidation",mammalian blood,Low
+HADGVFTSDFSKLLGQLSAKKYLESLM,390.0,True, Amidation,mammalian blood,Low
+YADAIFTNSYRKVLGQLSARKLLQDIMSR,444.0,True,"Acetylation, Amidation",mammalian blood,Low
+ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF,216.0,True, Amidation,mammalian blood,Low
+YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,1200.0,True, Amidation,mammalian blood,Low
+WAGADASGE,612.0,True, Amidation,mammalian blood,Low
+YADAIFTNSYRKVLGQLSARKLLQDIMSRQQGESNQERGA,192.0,True, Amidation,mammalian blood,Low
+HDEFERHAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,684.0,True, Amidation,mammalian blood,Low
+HSDAVFTDNYTRLRKQMAVKKYLNSILN,26.4,True, Amidation,mammalian blood,Low
+SCNTATCVTHRLAGLLSRSGGVVKDNFVPTNVGSEAF,540.0,True, Amidation,mammalian blood,Low
+VPLPAGGGTVLTKMYPRGNHWAVGHLM,180.0,True, Amidation,mammalian blood,Low
+SDAAVDTSSEITTKDLKEKKEVVEEAENRKDVY,8400.0,True,Acetylation,mammalian blood,Medium
+SDAAVDTSSEITTKDLKEKKEVVEEAEN,7620.0,True,Acetylation,mammalian blood,Medium
+H-AIB-EGTFTSDVSSYLEGQAAKEFIAWLVK-AIB-R,35280.0,True, Amidation,mammalian blood,High
+YPSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY,1260.0,True, Amidation,mammalian blood,Low
+FNAPFDVGIKLSGAQYQQHGRAL,1320.0,True, Amidation,mammalian blood,Low
+FNAPFDVGIKLSGVQYQQHSQAL,3906.0,True, Amidation,mammalian blood,Low
+YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,13680.0,True,"Acetylation, Amidation",mammalian blood,Medium
+KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY,2880.0,True, Amidation,mammalian blood,Low
